@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CybernetiX S3C
 
-You can use the [editor on GitHub](https://github.com/CybernetiX-S3C/CybernetiX-S3C.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
 
 ### Markdown
 
@@ -25,7 +23,30 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Repositories
 
+## **1. InfoSploit**
+
+
+[Link](https://www.GitHub.com/CybernetiX-S3C/InfoSploit) 
+
+
+## **2. WifiPackage**
+
+
+[Link](https://www.GitHub.com/CybernetiX-S3C/WifiPackage)
+
+
+## **3. IP-Locator**
+
+
+[Link](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
+
+
+## **4. SK-WPS-Cracker**
+
+
+[Link](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
