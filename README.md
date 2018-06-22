@@ -22,33 +22,33 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
+```
 # Repositories
 
 ## **1. InfoSploit**
 
 
-[Link](https://www.GitHub.com/CybernetiX-S3C/InfoSploit) 
+[InfoSploit](https://www.GitHub.com/CybernetiX-S3C/InfoSploit) 
 
 
-## **2. WifiPackage**
+## **2. Wifi Package**
 
-
-[Link](https://www.GitHub.com/CybernetiX-S3C/WifiPackage)
+[Wifi Package](https://www.GitHub.com/CybernetiX-S3C/WifiPackage)
 
 
 ## **3. IP-Locator**
 
 
-[Link](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
+[IP-Locator](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
 
 
-## **4. SK-WPS-Cracker**
+## **4. Script Kiddie WPS Cracker (SK-WC)**
 
 
-[Link](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
+[SK-WPS-Cracker](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
 
-```
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
