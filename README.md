@@ -22,7 +22,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 # Repositories
 
 ## **1. InfoSploit**
@@ -47,6 +47,8 @@ Syntax highlighted code block
 
 
 [Link](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
+
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
