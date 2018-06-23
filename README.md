@@ -132,7 +132,7 @@ cd SK-WPS-Cracker
 ./SK-WC.sh
 
 #Tutorial
-[Tutorial](https://youtu.be/hKBKxvc500I)
+[Tutorial](https://youtu.be/newiXU4de_M)
 ```
 
 ### Support or Contact
