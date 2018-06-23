@@ -92,4 +92,6 @@ cd SK-WPS-Cracker
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Facebook Page](www.facebook.com/Cyber.S3C.Professional)
+[YouTube](https://www.youtube.com/channel/UCAOxHOEpTxpwpmrwy5edWHg/)
+
