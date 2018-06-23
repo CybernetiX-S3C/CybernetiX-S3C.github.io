@@ -31,7 +31,7 @@ Infosploit
 
 ## **2. Wifi Package**
 
-[Wifi Package](https://CybernetiX-S3C.GitHub.io/WifiPackage)
+[Wifi Package](https://CybernetiX-S3C.GitHub.io/wifipackage)
 
 ```markdown
 
