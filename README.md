@@ -1,13 +1,13 @@
 ## Welcome to CybernetiX S3C
 
-I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
+My name is John Modica. I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
 
 ### Repositories
 
 ## **1. InfoSploit**
 
 
-[InfoSploit](https://CybernetiX-S3C.GitHub.io/InfoSploit) 
+[InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
 
 ```markdown
 #★ Download:
