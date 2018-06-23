@@ -1,5 +1,7 @@
-Author: John Modica @ CybernetiX S3C
+###Wifi Package
+##Author: John Modica @ CybernetiX S3C
 
+```markdown
 To start the scripts just use one of the following: 
 bash nameoffile.sh
 sh nameoffile.sh
@@ -34,7 +36,7 @@ Changing the TxPower is and can be dangerous and also illegal
 in differrent countries!
 Changing any higher can cause radiation poisoning, cancer,
 and can burn your card out!
-
+```
 https://www.cisco.com/c/en/us/support/docs/dial-access/asynchronous-connections/15380-trans-rec-15380.html
 
 https://www.snbforums.com/threads/dangerous-to-rise-tx-power.19240/
