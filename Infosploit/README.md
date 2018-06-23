@@ -1,3 +1,5 @@
+###[Main Page](https://CybernetiX-S3C.GitHub.io)
+
 ## ★ InfoSploit . version 1.0 | 
 
    Author: John Modica @ CybernetiX S3C
