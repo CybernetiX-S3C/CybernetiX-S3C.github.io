@@ -2,58 +2,56 @@
 
 I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-# Repositories
+### Repositories
 
 ## **1. InfoSploit**
 
 
-[InfoSploit](https://www.GitHub.com/CybernetiX-S3C/InfoSploit) 
+[InfoSploit](https://CybernetiX-S3C.GitHub.io/InfoSploit) 
+
+```markdown
+#★ Download:
+
+● git clone https://github.com/CybernetiX-S3C/InfoSploit
+
+#★ How to use:
+
+cd InfoSploit
+chmod +x install
+./install
+
+Run in Terminal
+
+Infosploit
+
+(To run in Android you do not install file Run direct python2 Infosploit)
+```
+
 
 
 ## **2. Wifi Package**
 
-[Wifi Package](https://www.GitHub.com/CybernetiX-S3C/WifiPackage)
+[Wifi Package](https://CybernetiX-S3C.GitHub.io/WifiPackage)
 
+```markdown
+
+```
 
 ## **3. IP-Locator**
 
 
-[IP-Locator](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
+[IP-Locator](https://CybernetiX-S3C.GitHub.io/IP-Locator)
 
+```markdown
+```
 
 ## **4. Script Kiddie WPS Cracker (SK-WC)**
 
 
-[SK-WPS-Cracker](https://www.GitHub.com/CybernetiX-S3C/IP-Locator)
+[SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CybernetiX-S3C/CybernetiX-S3C.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+```
 
 ### Support or Contact
 
