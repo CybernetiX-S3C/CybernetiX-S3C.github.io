@@ -53,11 +53,11 @@ Infosploit
 [![ InfoSploit - Information Gathering Tool (Version 1.0) 
 
 ## ★ About:
-● GitHub    : https://github.com/CybernetiX-S3C/InfoSploit 
+● GitHub    : [GitHub](https://CybernetiX-S3C.GitHub.io/Infosploit)
 
-● YOUTUBE   : https://www.youtube.com/channel/UCAOxHOEpTxpwpmrwy5edWHg?view_as=subscriber
+● YOUTUBE   : [InfoSploit](https://www.youtube.com/watch?v=-6aV9LLF8NQ&t=9s)
 
-● FACE PAGE : https://www.facebook.com/John-Poli-Modica-1883748118365007/
+● FB PAGE   : [Facebook](https://www.facebook.com/Cyber.S3C.Professional)
 
 ● Tested On : Windows / Linux / Android Phone (Termux No root)
 
