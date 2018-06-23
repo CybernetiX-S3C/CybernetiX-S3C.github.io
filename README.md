@@ -25,6 +25,7 @@ InfoSploit is a simple python script for Information Gathering.
 The properties of InfoSploit are:
 ● DNS Lookup ● Whois Lookup ● GeoIP Lookup ● Subnet Lookup ● Port Scanner ● Extract Links ● Zone Transfer ● HTTP Header ● Host Finder ● Robots.txt ● IP-Locator ● Traceroute ● Host DNS Finder ● Revrse IP Lookup ● Collection Email ● Subdomain Finder ● Install & Update ● About Me ● Exit
 Click the [link](https://CybernetiX-S3C.GitHub.io/Infosploit) below to go directly to the source or use the basic steps down in the box to download and install directly inside your terminal.
+
 [InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
 
 ```markdown
@@ -54,6 +55,7 @@ Infosploit
 
 Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.GitHub.io/wifipackage) below to go directly to the source or use the basic steps down in the box to download and run directly inside your terminal.
 DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will cause cancer, brain damage, and severe loss of memory!
+
 [Wifi Package](https://CybernetiX-S3C.GitHub.io/wifipackage)
 
 ```markdown
@@ -75,6 +77,7 @@ bash NameOfFile.sh (To Run)
 
 IP Locator is basically what is says. It is a script made to utilize perl in a way to find a geolocation of an IP or Domain.
 No need for installation. Click The [link](https://CybernetiX-S3C.GitHub.io/ip-locator) below to download the main source, or use the instructions below to download and run directly inside your terminal.
+
 [IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
 
 ```markdown
@@ -114,6 +117,7 @@ SCRIPT KIDDIE WPS CRACKER [SK-WC] is a small tool based on the bash script langu
 
 and some commands, in automatic way to do its job. Enjoy
 Click the [link](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker) below to grab the source, or use the directions in the box to download the source directly in your terminal.
+
 [SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
 
 ```markdown
