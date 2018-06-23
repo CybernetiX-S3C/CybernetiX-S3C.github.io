@@ -16,7 +16,7 @@ and some commands, in automatic way to do its job. Enjoy
 
 ## Video
 
-* [Script Kiddie WPS Cracker](https://www.youtube.com/watch?v=hKBKxvc500I)
+* [Script Kiddie WPS Cracker](https://youtu.be/newiXU4de_M)
 
 ## Here is how to make the script works
 
