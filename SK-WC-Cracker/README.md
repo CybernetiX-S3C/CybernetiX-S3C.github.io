@@ -1,6 +1,7 @@
-###[Main Page](https://CybernetiX-S3C.GitHub.io)
+### [Main Page](https://CybernetiX-S3C.GitHub.io)
+
 ## SK-WPS CRACKER
-Author: John Modica @ CybernetiX S3C
+### Author: John Modica @ CybernetiX S3C
 
 [ Languages: [English](README.md) ]
 
@@ -15,11 +16,7 @@ routers and grab the password. This SK-WPS Cracker tool uses the following tools
 
 and some commands, in automatic way to do its job. Enjoy
 
-
-## Tutorial
-
-* [Script Kiddie WPS Cracker](https://youtu.be/newiXU4de_M)
-
+```markdown
 ## Here is how to make the script works
 
 * Copy SK-WPS-Cracker.zip to Desktop .
@@ -31,3 +28,7 @@ and some commands, in automatic way to do its job. Enjoy
     - [X] cd SK-WPS-Cracker
     - [X] chmod +x SK-WC.sh
     - [X] ./SK-WC.sh  or  bash SK-WC.sh
+```
+## Tutorial
+
+* [Script Kiddie WPS Cracker](https://youtu.be/newiXU4de_M)
