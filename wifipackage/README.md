@@ -35,7 +35,7 @@ WARNING!!
 Changing the TxPower is and can be dangerous and also illegal 
 in differrent countries!
 Changing any higher can cause radiation poisoning, cancer,
-and can burn your card out!
+and can burn your card out! 
 ```
 [CISCO: Dangers to raising TX Power](https://www.cisco.com/c/en/us/support/docs/dial-access/asynchronous-connections/15380-trans-rec-15380.html)
 
