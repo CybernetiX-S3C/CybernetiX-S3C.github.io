@@ -48,7 +48,7 @@ bash NameOfFile.sh (To Run)
 ## **3. IP-Locator**
 
 
-[IP-Locator](https://CybernetiX-S3C.GitHub.io/IP-Locator)
+[IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
 
 ```markdown
 #★ Download:
