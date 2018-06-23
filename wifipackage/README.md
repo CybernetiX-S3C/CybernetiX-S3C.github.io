@@ -37,11 +37,11 @@ in differrent countries!
 Changing any higher can cause radiation poisoning, cancer,
 and can burn your card out!
 ```
-https://www.cisco.com/c/en/us/support/docs/dial-access/asynchronous-connections/15380-trans-rec-15380.html
+[CISCO: Dangers to raising TX Power](https://www.cisco.com/c/en/us/support/docs/dial-access/asynchronous-connections/15380-trans-rec-15380.html)
 
-https://www.snbforums.com/threads/dangerous-to-rise-tx-power.19240/
+[Dangers of raising TX Power](https://www.snbforums.com/threads/dangerous-to-rise-tx-power.19240/)
 
-https://forums.kali.org/showthread.php?28809-Raising-TX-Power-What-Does-This-Really-Do
+[Raising TX-Power What Does This Really Do](https://forums.kali.org/showthread.php?28809-Raising-TX-Power-What-Does-This-Really-Do)
 
 # WifiPackage Video
 [Wifi Package](https://www.youtube.com/watch?v=Ae6NImby6ZA)
