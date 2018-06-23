@@ -1,17 +1,17 @@
-###[Main Page](https://CybernetiX-S3C.GitHub.io)
+### [Main Page](https://CybernetiX-S3C.GitHub.io)
 
 ## ★ InfoSploit . version 1.0 | 
 
    Author: John Modica @ CybernetiX S3C
-## ★ Description:
+# ★ Description:
 
 InfoSploit is a simple python script to Information Gathering 
 
-## ★ Download:
+# ★ Download:
 
 ● git clone https://github.com/CybernetiX-S3C/InfoSploit
 
-## ★ How to use:
+# ★ How to use:
 
 cd InfoSploit
 
@@ -27,7 +27,7 @@ Infosploit
 
 # InfoSploit
 
-## ★ Properties :
+# ★ Properties :
 
 ● DNS Lookup 
 ● Whois Lookup
@@ -50,11 +50,11 @@ Infosploit
 ● Exit
 
 
-## ★ Video tutorial:
+# ★ Video tutorial:
 
 [![ InfoSploit - Information Gathering Tool (Version 1.0) 
 
-## ★ About:
+# ★ About:
 ● GitHub    : [GitHub](https://CybernetiX-S3C.GitHub.io/Infosploit)
 
 ● YOUTUBE   : [InfoSploit](https://www.youtube.com/watch?v=-6aV9LLF8NQ&t=9s)
