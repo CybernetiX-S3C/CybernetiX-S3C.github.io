@@ -41,4 +41,5 @@ https://www.snbforums.com/threads/dangerous-to-rise-tx-power.19240/
 
 https://forums.kali.org/showthread.php?28809-Raising-TX-Power-What-Does-This-Really-Do
 
-# WifiPackage
+# WifiPackage Video
+[Wifi Package](https://www.youtube.com/watch?v=Ae6NImby6ZA)
