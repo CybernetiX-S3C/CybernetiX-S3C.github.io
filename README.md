@@ -12,11 +12,11 @@ I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others wi
 ```markdown
 #★ Download:
 
-● git clone https://github.com/CybernetiX-S3C/InfoSploit
+● git clone https://github.com/CybernetiX-S3C/Infosploit
 
 #★ How to use:
-
-cd InfoSploit
+unzip Infosploit.zip
+cd Infosploit
 chmod +x install
 ./install
 
@@ -34,7 +34,15 @@ Infosploit
 [Wifi Package](https://CybernetiX-S3C.GitHub.io/wifipackage)
 
 ```markdown
+#★ Download:
 
+● git clone https://github.com/cybernetix-s3c/wifipackage
+
+#★ How to use:
+
+unzip wifipackage.zip
+cd (Into Either Folder)
+bash NameOfFile.sh (To Run)
 ```
 
 ## **3. IP-Locator**
@@ -43,6 +51,26 @@ Infosploit
 [IP-Locator](https://CybernetiX-S3C.GitHub.io/IP-Locator)
 
 ```markdown
+#★ Download:
+
+● git clone https://github.com/cybernetix-s3c/Ip-locator
+
+#★ How to use:
+
+unzip ip-locator.zip
+cd ip-locator
+perl iplocator.pl  [host] [ip] [domain] 
+
+Ex:  ./Iplocation.pl  www.google.com 
+     ./Iplocation.pl  216.58.210.206
+
+Incase you get any errors reguarding some of the modules, fix is quite simple.
+Type in terminal:
+cpan WWW::Mechanize    (for the WWW::Mechanize)
+cpan JSON              (for the JSON)
+
+and follow instructions.
+
 ```
 
 ## **4. Script Kiddie WPS Cracker (SK-WC)**
@@ -51,6 +79,15 @@ Infosploit
 [SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
 
 ```markdown
+#★ Download:
+
+● git clone https://github.com/cybernetix-s3c/SK-WPS-Cracker
+
+#★ How to use:
+
+unzip SK-WPS-Cracker.zip
+cd SK-WPS-Cracker
+./SK-WC.sh
 ```
 
 ### Support or Contact
