@@ -138,7 +138,7 @@ cd SK-WPS-Cracker
 
 ## Speedtest
 Check your internet speed on their OFFICIAL website.
-
+[Speedtest.net](https://www.speedtest.net/)
 ```markdown
 # Check your speed in your terminal.
 #★ Download:
@@ -150,7 +150,7 @@ apt install speedtest
 Type:
 speedtest
 ```
-[Speedtest.net](https://www.speedtest.net/)
+
 
 ### Support or Contact
 
