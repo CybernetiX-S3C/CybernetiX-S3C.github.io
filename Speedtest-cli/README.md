@@ -1,4 +1,6 @@
-speedtest-cli
+[Main](https://CybernetiX.github.io/)
+
+## speedtest-cli
 =============
 
 Command line interface for testing internet bandwidth using
@@ -14,7 +16,7 @@ speedtest.net
         :target: https://pypi.python.org/pypi/speedtest-cli/
         :alt: License
 
-Versions
+# Versions
 --------
 
 speedtest-cli works with Python 2.4-3.7
@@ -22,8 +24,8 @@ speedtest-cli works with Python 2.4-3.7
 .. image:: https://img.shields.io/pypi/pyversions/speedtest-cli.svg
         :target: https://pypi.python.org/pypi/speedtest-cli/
         :alt: Versions
-
-Installation
+```markdown
+# Installation
 ------------
 
 pip / easy\_install
@@ -39,7 +41,7 @@ or
 
     easy_install speedtest-cli
 
-Github
+# Github
 ~~~~~~
 
 ::
@@ -53,7 +55,7 @@ or
     git clone https://github.com/CybernetiX-S3C/speedtest-cli.git
     python speedtest-cli/setup.py install
 
-Just download (Like the way it used to be)
+# Just download (Like the way it used to be)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ::
@@ -68,7 +70,10 @@ or
     curl -Lo speedtest-cli https://raw.githubusercontent.com/CybernetiX-S3C/speedtest-cli/master/speedtest.py
     chmod +x speedtest-cli
 
-Usage
+
+```
+```markdown
+# Usage
 -----
 
 ::
@@ -121,15 +126,15 @@ Usage
                             support systems with insufficient memory, use this
                             option to avoid a MemoryError
       --version             Show the version number and exit
+```
 
-
-Python API
+# Python API
 ----------
 
-See the `wiki <https://github.com/CybernetiX-S3C/speedtest-cli/wiki>`_.
+See the `wiki <https://github.com/CybernetiX-S3C/CybernetiX-S3C.github.io.wiki.git>`_.
 
 
-Inconsistency
+# Inconsistency
 -------------
 
 It is not a goal of this application to be a reliable latency reporting tool.
