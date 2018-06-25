@@ -1,4 +1,4 @@
-[Main](https://CybernetiX.github.io/)
+### [Main](https://CybernetiX.github.io/)
 
 ## speedtest-cli
 =============
@@ -6,7 +6,7 @@
 Command line interface for testing internet bandwidth using
 speedtest.net
 
-.. image:: https://img.shields.io/pypi/v/speedtest-cli.svg
+[![image](https://img.shields.io/pypi/v/speedtest-cli.svg)
         :target: https://pypi.python.org/pypi/speedtest-cli/
         :alt: Latest Version
 .. image:: https://img.shields.io/travis/CybernetiX-S3C/speedtest-cli.svg
