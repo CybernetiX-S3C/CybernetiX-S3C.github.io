@@ -1,4 +1,4 @@
-### [Main](https://CybernetiX.github.io/)
+### [Main](https://CybernetiX-S3C.github.io/)
 
 ## speedtest-cli
 =============
