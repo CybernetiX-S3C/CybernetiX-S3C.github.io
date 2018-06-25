@@ -1,5 +1,7 @@
-##IP Locator
-#Author : John Modica @ CybernetiX S3C
+### [Main Page](https://CybernetiX-S3C.GitHub.io)
+
+## IP Locator
+# Author : John Modica @ CybernetiX S3C
 
 No need for installation. Just run it with perl.
 ```markdown
