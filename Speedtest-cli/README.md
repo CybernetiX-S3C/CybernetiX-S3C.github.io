@@ -131,7 +131,7 @@ or
 # Python API
 ----------
 
-See the [wiki](https://github.com/CybernetiX-S3C/CybernetiX-S3C.github.io.wiki.git)
+See the [wiki](https://github.com/CybernetiX-S3C/CybernetiX-S3C.github.io.wiki)
 
 
 # Inconsistency
