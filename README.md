@@ -13,7 +13,7 @@
 
 
 
-# Welcome to CybernetiX S3C
+### Welcome to CybernetiX S3C
 
 My name is John Modica. I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
 
@@ -134,17 +134,31 @@ cd SK-WPS-Cracker
 #Tutorial
 [Tutorial](https://youtu.be/newiXU4de_M)
 ```
-# **Random Links**
 
 ## Speedtest
 Check your internet speed on their OFFICIAL website.
 [Speedtest.net](https://www.speedtest.net/)
+
+Or download and install my personal Speedtest script for your terminal.
+[Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
+
 ```markdown
-Will Be Adding More Info Soon...
+#★ Download:
 
+● git clone https://github.com/CybernetiX-S3C/Speedtest-cli
 
+#★ How to use:
+
+python speedtest-cli/setup.py install
 ```
 
+# **Random Info**
+
+## **(A.I)**
+
+I have a personal collection of info listed below on Artificial Intellegence. Info includes books, lectures, movies, papers, and much more. I WILL be adding much more on the topic. So stay tuned.
+
+[Artificial Intellegenc Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
 
 ### Support or Contact
 
