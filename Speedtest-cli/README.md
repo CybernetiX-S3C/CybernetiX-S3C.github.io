@@ -8,22 +8,22 @@ speedtest.net
 
 ![image](https://img.shields.io/pypi/v/speedtest-cli.svg)
         ![image](https://pypi.python.org/pypi/speedtest-cli/)
-        :alt: Latest Version
-.. image:: https://img.shields.io/travis/CybernetiX-S3C/speedtest-cli.svg
-        :target: https://pypi.python.org/pypi/speedtest-cli/
-        :alt: Travis
-.. image:: https://img.shields.io/pypi/l/speedtest-cli.svg
-        :target: https://pypi.python.org/pypi/speedtest-cli/
-        :alt: License
+        ![image] Latest Version
+![image](https://img.shields.io/travis/CybernetiX-S3C/speedtest-cli.svg)
+        ![image](https://pypi.python.org/pypi/speedtest-cli/)
+        ![image] Travis
+![image](https://img.shields.io/pypi/l/speedtest-cli.svg)
+        ![image](https://pypi.python.org/pypi/speedtest-cli/)
+        ![image] License
 
 # Versions
 --------
 
 speedtest-cli works with Python 2.4-3.7
 
-.. image:: https://img.shields.io/pypi/pyversions/speedtest-cli.svg
-        :target: https://pypi.python.org/pypi/speedtest-cli/
-        :alt: Versions
+![image](https://img.shields.io/pypi/pyversions/speedtest-cli.svg)
+        ![image](https://pypi.python.org/pypi/speedtest-cli/)
+        ![image]Versions
 ```markdown
 # Installation
 ------------
@@ -131,7 +131,7 @@ or
 # Python API
 ----------
 
-See the `wiki <https://github.com/CybernetiX-S3C/CybernetiX-S3C.github.io.wiki.git>`_.
+See the [wiki](https://github.com/CybernetiX-S3C/CybernetiX-S3C.github.io.wiki.git)
 
 
 # Inconsistency
