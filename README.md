@@ -14,7 +14,7 @@
 
 # Welcome to CybernetiX S3C
 
-![](https://ibb.co/eqkUx8)
+![alt text](https://ibb.co/eqkUx8)
 
 
 My name is John Modica. I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
