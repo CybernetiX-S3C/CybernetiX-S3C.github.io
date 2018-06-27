@@ -10,7 +10,8 @@
 #                                            **By John Poli Modica**                                          #
 +-------------------------------------------------------------------------------------------------------------+
 ```
-
+                              ![image](https://m.facebook.com/Cyber.S3C.Professional/photos/a.1883748185031667.1073741825.1883748118365007/1883749411698211/?type=3&source=45)
+                    
 
 
 ### Welcome to CybernetiX S3C
@@ -151,6 +152,27 @@ Or download and install my personal Speedtest script for your terminal.
 
 python speedtest-cli/setup.py install
 ```
+
+## NodeJS-Kali-Linux
+
+This is a simple to install Node.js inside Kali Linux OS. Simply download the bash script and run the script.
+
+[NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
+```markdown
+#★ Download:
+
+● git clone https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux
+
+#★ How to install:
+
+cd NodeJS-Kali-Linux
+bash NodeJS-Kali-Linux.sh
+
+# Check Version:
+
+npm -v
+```
+
 
 # **Random Info**
 
