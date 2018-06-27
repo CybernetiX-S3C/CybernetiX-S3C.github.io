@@ -13,11 +13,11 @@
                               
 ![image](https://m.facebook.com/Cyber.S3C.Professional/photos/a.1883748185031667.1073741825.1883748118365007/1883749411698211/?type=3&source=45)
 
-### Welcome to CybernetiX S3C
+# Welcome to CybernetiX S3C
 
 My name is John Modica. I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
 
-# **Repositories**
+## **Repositories**
 
 ## **1. InfoSploit**
 
@@ -44,12 +44,11 @@ Run in Terminal
 Infosploit
 
 (To run in Android you do not install file Run direct python2 Infosploit)
-
-#Tutorial
-[Tutorial](https://www.youtube.com/watch?v=-6aV9LLF8NQ&t=9s)
 ```
+# Tutorial
+[Tutorial](https://www.youtube.com/watch?v=-6aV9LLF8NQ&t=9s)
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## **2. Wifi Package**
 
@@ -68,10 +67,11 @@ DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will 
 unzip wifipackage.zip
 cd (Into Either Folder)
 bash NameOfFile.sh (To Run)
-
+```
 #Tutorial
 [Tutoriral](https://www.youtube.com/watch?v=Ae6NImby6ZA)
-```
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## **3. IP-Locator**
 
@@ -100,10 +100,11 @@ cpan WWW::Mechanize    (for the WWW::Mechanize)
 cpan JSON              (for the JSON)
 
 and follow instructions.
-
-#Tutorial
-[Tutorial](https://www.youtube.com/watch?v=6ETpwk3wsl0)
 ```
+# Tutorial
+[Tutorial](https://www.youtube.com/watch?v=6ETpwk3wsl0)
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## **4. Script Kiddie WPS Cracker (SK-WC)**
 
@@ -130,12 +131,14 @@ Click the [link](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker) below to grab 
 unzip SK-WPS-Cracker.zip
 cd SK-WPS-Cracker
 ./SK-WC.sh
-
-#Tutorial
-[Tutorial](https://youtu.be/newiXU4de_M)
 ```
+# Tutorial
+[Tutorial](https://youtu.be/newiXU4de_M)
 
-## Speedtest
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **Speedtest**
+
 Check your internet speed on their OFFICIAL website.
 [Speedtest.net](https://www.speedtest.net/)
 
@@ -151,6 +154,7 @@ Or download and install my personal Speedtest script for your terminal.
 
 python speedtest-cli/setup.py install
 ```
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## NodeJS-Kali-Linux
 
@@ -171,7 +175,7 @@ bash NodeJS-Kali-Linux.sh
 
 npm -v
 ```
-
+================================================================================================================================
 
 # **Random Info**
 
