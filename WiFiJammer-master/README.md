@@ -1,4 +1,6 @@
-wifijammer
+## [Main](https://CybernetiX-S3C.github.io)
+
+WiFiJammer
 ==========
 
 Continuously jam all wifi clients and access points within range. The effectiveness of this script is constrained by your wireless card. Alfa cards seem to effectively jam within about a block radius with heavy access point saturation. Granularity is given in the options for more effective targeting. 
@@ -11,8 +13,8 @@ Usage
 -----
 
 
-### Simple
-``` shell
+### Sample
+```markdown
 python wifijammer.py
 ```
 
@@ -20,7 +22,7 @@ This will find the most powerful wireless interface and turn on monitor mode. If
 
 Upon hopping to a new channel it will identify targets that are on that channel and send 1 deauth packet to the client from the AP, 1 deauth to the AP from the client, and 1 deauth to the AP destined for the broadcast address to deauth all clients connected to the AP. Many APs ignore deauths to broadcast addresses.
 
-```shell
+```markdown
 python wifijammer.py -a 00:0E:DA:DE:24:8E -c 2
 ```
 
@@ -28,7 +30,7 @@ Deauthenticate all devices with which 00:0E:DA:DE:24:8E communicates and skips c
 
 
 ### Advanced
-```shell
+```markdown
 python wifijammer.py -c 1 -p 5 -t .00001 -s DL:3D:8D:JJ:39:52 -d --world
 ```
 
@@ -46,7 +48,7 @@ python wifijammer.py -c 1 -p 5 -t .00001 -s DL:3D:8D:JJ:39:52 -d --world
 
 
 ### Walking/driving around
-```shell
+```markdown
 python wifijammer.py -m 10
 ```
 The `-m` option sets a max number of client/AP combos that the script will attempt to deauth. When the max number is reached, it clears and repopulates its list based on what traffic it sniffs in the area. This allows you to constantly update the deauth list with client/AP combos who have the strongest signal in case you were not stationary. If you want to set a max and not have the deauth list clear itself when the max is hit, just add the -n option like: `-m 10 -n`
@@ -54,7 +56,7 @@ The `-m` option sets a max number of client/AP combos that the script will attem
 
 All options:
 
-```shell
+```markdown
 python wifijammer.py [-a AP MAC] [-c CHANNEL] [-d] [-i INTERFACE] [-m MAXIMUM] [-n] [-p PACKETS] [-s SKIP] [-t TIME INTERVAL]
 ```
 
