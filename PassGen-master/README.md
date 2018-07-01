@@ -8,7 +8,7 @@ This script is a straight foward python tool used generate a password list using
 ```markdown
 # Download:
 
-git clone https://CybernetiX-S3C.github.io/PassGen-master
+git clone https://github.com/cybernetix-s3c/PassGen-master
 
 # How To Use
 
