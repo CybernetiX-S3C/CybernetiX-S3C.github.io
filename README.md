@@ -23,7 +23,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
   
 * >[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit)
 
-* >[2. WiFi Package](https://CybernetiX-S3C.GiHub.io/wifipackage)
+* >[2. WiFi Package](https://CybernetiX-S3C.GitHub.io/wifipackage)
 
 * >[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
 
