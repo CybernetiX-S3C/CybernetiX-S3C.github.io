@@ -21,20 +21,21 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 ================================================================================================================================
 ##  **CONTENTS**
   
->>[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
->>[2. WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
+>[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
 
->>[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
+>[2. WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
 
->>[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
+>[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
 
->>[5. Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
+>[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
 
->>[6. NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
+>[5. Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
 
->>[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
+>[6. NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
 
->>[8. Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)
+>[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
+
+>"[8. Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)"
 
 >>[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
 
