@@ -98,7 +98,7 @@ unzip wifipackage.zip
 cd (Into Either Folder)
 bash NameOfFile.sh (To Run)
 ```
-#Tutorial
+# Tutorial
 [Tutoriral](https://www.youtube.com/watch?v=Ae6NImby6ZA)
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -184,6 +184,9 @@ Or download and install my personal Speedtest script for your terminal.
 
 python speedtest-cli/setup.py install
 ```
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=_GTMyXVlAxA)
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## **6. NodeJS-Kali-Linux**
@@ -283,6 +286,8 @@ python Generate.py
 
 (From here Just Follow the Inputs)
 ```
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=Fyw_10EEee0)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -308,6 +313,8 @@ apt install python3 python3-pip
 **In case of missing module
 pip3 install ipaddr
 ```
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=44Aj3xlnaZU)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -326,8 +333,8 @@ Continuously jam all wifi clients and access points within range. The effectiven
 cd WiFiJammer-master
 python wifijammer.py [-a AP MAC] [-c CHANNEL] [-d] [-i INTERFACE] [-m MAXIMUM] [-n] [-p PACKETS] [-s SKIP] [-t TIME INTERVAL]
 ```
-# Tutorial
-[Tutorial](https://youtu.be/b5urZ6SpzoQ)
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=b5urZ6SpzoQ)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
