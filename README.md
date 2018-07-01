@@ -19,7 +19,7 @@
 
 My name is John Modica. I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
 
-## **Repositories**
+# **Repositories**
 
 ## **1. InfoSploit**
 
@@ -31,11 +31,11 @@ Click the [link](https://CybernetiX-S3C.GitHub.io/Infosploit) below to go direct
 [InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
 
 ```markdown
-#★ Download:
+# ★ Download:
 
 ● git clone https://github.com/CybernetiX-S3C/Infosploit
 
-#★ How to use:
+# ★ How to use:
 unzip Infosploit.zip
 cd Infosploit
 chmod +x install
@@ -60,11 +60,11 @@ DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will 
 [Wifi Package](https://CybernetiX-S3C.GitHub.io/wifipackage)
 
 ```markdown
-#★ Download:
+# ★ Download:
 
 ● git clone https://github.com/cybernetix-s3c/wifipackage
 
-#★ How to use:
+# ★ How to use:
 
 unzip wifipackage.zip
 cd (Into Either Folder)
@@ -83,11 +83,11 @@ No need for installation. Click The [link](https://CybernetiX-S3C.GitHub.io/ip-l
 [IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
 
 ```markdown
-#★ Download:
+# ★ Download:
 
 ● git clone https://github.com/cybernetix-s3c/Ip-locator
 
-#★ How to use:
+# ★ How to use:
 
 unzip ip-locator.zip
 cd ip-locator
@@ -124,11 +124,11 @@ Click the [link](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker) below to grab 
 [SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
 
 ```markdown
-#★ Download:
+# ★ Download:
 
 ● git clone https://github.com/cybernetix-s3c/SK-WPS-Cracker
 
-#★ How to use:
+# ★ How to use:
 
 unzip SK-WPS-Cracker.zip
 cd SK-WPS-Cracker
@@ -148,35 +148,135 @@ Or download and install my personal Speedtest script for your terminal.
 [Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
 
 ```markdown
-#★ Download:
+# ★ Download:
 
 ● git clone https://github.com/CybernetiX-S3C/Speedtest-cli
 
-#★ How to use:
+# ★ How to use:
 
 python speedtest-cli/setup.py install
 ```
 --------------------------------------------------------------------------------------------------------------------------------
 
-## NodeJS-Kali-Linux
+## **NodeJS-Kali-Linux**
 
 This is a simple to install Node.js inside Kali Linux OS. Simply download the bash script and run the script.
 
 [NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
 ```markdown
-#★ Download:
+# ★ Download:
 
 ● git clone https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux
 
-#★ How to install:
+# ★ How to install:
 
 cd NodeJS-Kali-Linux
 bash NodeJS-Kali-Linux.sh
 
-# Check Version:
+# ★ Check Version:
 
 npm -v
 ```
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **Multiple BruteForce**
+
+This script in designed to hack multiple accounts such as facebook, instagram, and twitter with the simple information you give it.
+
+[Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
+```markdown
+# ★ Download:
+
+git clone https://CybernetiX-S3C.github.io/Multiple-BruteForce-master
+
+# ★ How To Use:
+
+cd Multiple-BruteForce-master
+python MultiForce.py
+
+(Just enter the information it asks and let it rip)
+```
+
+### (_Not guaranteed to work for all accounts_)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **Password Generator**
+
+This script is a straight foward python tool used generate a password list using the fields that you enter.
+
+[Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)
+```markdown
+# Download:
+
+git clone https://CybernetiX-S3C.github.io/PassGen-master
+
+# How To Use
+
+cd PassGen-master
+python passGen.py
+
+usage: [fieldname] = [value]
+*Do Not Use Any Symbols
+
+help                    display help
+exit                    to exit
+reset                   clear fields
+update                  check for update
+generate                generate password list
+current version         0.1
+reset [fieldname]       clear field
+
+```
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Wifi Password Generator
+
+This is a basic python script to generate a password txt using two ESSID names.
+
+[Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
+```markdown
+# Download:
+
+git clone https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master
+
+# How To Use:
+
+python Generate.py
+
+(From here Just Follow the Inputs)
+```
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **PYAnonFTP**
+
+This tool is for scanning the net for FTP Servers using FTP and anonymous connections.
+
+```markdown
+# Download:
+
+git clone https://CybernetiX-S3C.github.io/PYAnonFTP
+
+# How To Use:
+
+cd PYAnonFTP
+python3 PYAnonymousFTP.py
+
+**Extras:
+May need to install python3 using 
+apt install python3 python3-pip
+
+**In case of missing module
+pip3 install ipaddr
+```
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ================================================================================================================================
 
 # **Random Info**
