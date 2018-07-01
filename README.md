@@ -139,7 +139,7 @@ cd SK-WPS-Cracker
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **Speedtest**
+## **5. Speedtest**
 
 Check your internet speed on their OFFICIAL website.
 [Speedtest.net](https://www.speedtest.net/)
@@ -158,7 +158,7 @@ python speedtest-cli/setup.py install
 ```
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **NodeJS-Kali-Linux**
+## **6. NodeJS-Kali-Linux**
 
 This is a simple to install Node.js inside Kali Linux OS. Simply download the bash script and run the script.
 
@@ -180,7 +180,7 @@ npm -v
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **Multiple BruteForce**
+## **7. Multiple BruteForce**
 
 This script in designed to hack multiple accounts such as facebook, instagram, and twitter with the simple information you give it.
 
@@ -202,7 +202,7 @@ python MultiForce.py
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **Password Generator**
+## **7. Password Generator**
 
 This script is a straight foward python tool used generate a password list using the fields that you enter.
 
@@ -232,7 +232,7 @@ reset [fieldname]       clear field
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## Wifi Password Generator
+## **8. Wifi Password Generator**
 
 This is a basic python script to generate a password txt using two ESSID names.
 
@@ -251,14 +251,15 @@ python Generate.py
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **PYAnonFTP**
+## **9. PYAnonFTP**
 
 This tool is for scanning the net for FTP Servers using FTP and anonymous connections.
 
+[PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
 ```markdown
 # Download:
 
-git clone https://CybernetiX-S3C.github.io/PYAnonFTP
+[PYAonFTP](git clone https://CybernetiX-S3C.github.io/PYAnonFTP)
 
 # How To Use:
 
@@ -275,7 +276,40 @@ pip3 install ipaddr
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+## **10. WiFi Jammer
 
+Continuously jam all wifi clients and access points within range. The effectiveness of this script is constrained by your wireless card. Alfa cards seem to effectively jam within about a block radius with heavy access point saturation. Granularity is given in the options for more effective targeting. 
+
+[WiFi Jammer](http://CybernetiX-S3C.github.io/WifiJammer-master)
+```markdown
+# Download:
+
+git clone http://CybernetiX-S3C.github.io/WifiJammer-master
+
+# HowTo Use:
+
+cd WiFiJammer-master
+python wifijammer.py [-a AP MAC] [-c CHANNEL] [-d] [-i INTERFACE] [-m MAXIMUM] [-n] [-p PACKETS] [-s SKIP] [-t TIME INTERVAL]
+```
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **11. ISP Protect Scan**
+
+ISP Protect Scan is a tool that scans the ISP info and checks for vulnerabilities.
+
+[ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
+```markdown
+# Download:
+
+git clone https://CybernetiX-S3C.github.io/ISPpScan
+
+# How To Use:
+
+cd ISPpScan
+./ispp_scan.sh
+
+```
 
 ================================================================================================================================
 
