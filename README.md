@@ -10,6 +10,21 @@
 #                                            **By John Poli Modica**                                          #
 +-------------------------------------------------------------------------------------------------------------+
 ```
+  **_CONTENTS**
+[InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
+[WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
+[IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
+[SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
+[Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
+[NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
+[Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
+[Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)
+[Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
+[PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
+[WiFi Jammer](http://CybernetiX-S3C.github.io/WifiJammer-master)
+[ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
+[Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
+
                               
 
 # Welcome to CybernetiX S3C
@@ -57,8 +72,7 @@ Infosploit
 Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.GitHub.io/wifipackage) below to go directly to the source or use the basic steps down in the box to download and run directly inside your terminal.
 DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will cause cancer, brain damage, and severe loss of memory!
 
-[Wifi Package](https://CybernetiX-S3C.GitHub.io/wifipackage)
-
+[WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
 ```markdown
 # ★ Download:
 
@@ -317,9 +331,9 @@ cd ISPpScan
 
 ## **(A.I)**
 
-I have a personal collection of info listed below on Artificial Intellegence. Info includes books, lectures, movies, papers, and much more. I WILL be adding much more on the topic. So stay tuned.
+I have a personal collection of info listed below on Artificial Intelligence. Info includes books, lectures, movies, papers, and much more. I WILL be adding much more on the topic. So stay tuned.
 
-[Artificial Intellegenc Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
+[Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
 
 ### Support or Contact
 
