@@ -21,3 +21,6 @@ bash NodeJS-Kali-Linux.sh
 
 npm -v
 ```
+
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=h73JhQCmDmc)
