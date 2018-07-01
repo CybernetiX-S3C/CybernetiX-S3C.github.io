@@ -10,42 +10,42 @@
 #                                            **By John Poli Modica**                                          #
 +-------------------------------------------------------------------------------------------------------------+
 ```
-##  **CONTENTS**
-  
-[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
-
-[2. WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
-
-[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
-
-[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
-
-[5. Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
-
-[6. NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
-
-[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
-
-[8. Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)
-
-[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
-
-[10. PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
-
-[11. WiFi Jammer](http://CybernetiX-S3C.github.io/WifiJammer-master)
-
-[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
-
-[13. Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
-
                               
-
 # Welcome to CybernetiX S3C
 
 ![img](https://preview.ibb.co/fNM2H8/IMG_20180426_022500.jpg)
 
 
-My name is John Modica. I am a CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker just trying to help others with simple tools and scripts for their Unix system of choice.
+My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker and a Kali Linux Developer, who is looking to help others with simple tools and scripts for their Unix system of choice.
+
+================================================================================================================================
+##  **CONTENTS**
+  
+>>[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
+>>[2. WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
+
+>>[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
+
+>>[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
+
+>>[5. Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
+
+>>[6. NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
+
+>>[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
+
+>>[8. Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)
+
+>>[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
+
+>>[10. PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
+
+>>[11. WiFi Jammer](http://CybernetiX-S3C.github.io/WifiJammer-master)
+
+>>[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
+
+>>[13. Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
+
 
 # **Repositories**
 
