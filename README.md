@@ -35,17 +35,17 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 >[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
 
->"[8. Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)"
+>[8. Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)
 
->>[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
+>[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
 
->>[10. PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
+>[10. PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
 
->>[11. WiFi Jammer](http://CybernetiX-S3C.github.io/WifiJammer-master)
+>[11. WiFi Jammer](http://CybernetiX-S3C.github.io/WifiJammer-master)
 
->>[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
+>[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
 
->>[13. Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
+>[13. Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
 
 
 # **Repositories**
