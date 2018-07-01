@@ -326,9 +326,8 @@ Continuously jam all wifi clients and access points within range. The effectiven
 cd WiFiJammer-master
 python wifijammer.py [-a AP MAC] [-c CHANNEL] [-d] [-i INTERFACE] [-m MAXIMUM] [-n] [-p PACKETS] [-s SKIP] [-t TIME INTERVAL]
 ```
-Tutorial
-[Part 1]
-[Part 2](https://youtu.be/Cu1gA1BrkKk)
+# Tutorial
+[Tutorial](https://youtu.be/b5urZ6SpzoQ)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -348,6 +347,8 @@ cd ISPpScan
 ./ispp_scan.sh
 
 ```
+# Tutorial
+[Tutorial](https://www.youtube.com/watch?v=ifsjSTEeKNM)
 
 ============================================================================================================
 
