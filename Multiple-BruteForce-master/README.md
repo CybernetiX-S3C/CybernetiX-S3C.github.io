@@ -8,7 +8,7 @@ This script in designed to hack multiple accounts such as facebook, instagram, a
 ```markdown
 # Download:
 
-git clone https://CybernetiX-S3C.github.io/Multiple-BruteForce-master
+git clone https://github.com/cybernetix-s3c/Multiple-BruteForce-master
 
 # How To Use:
 
