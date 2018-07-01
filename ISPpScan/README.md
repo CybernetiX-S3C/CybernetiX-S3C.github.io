@@ -1,6 +1,7 @@
 ## [Main](https://CybernetiX-S3C.github.io)
 
-# ISPpScan
+# ISPpScan or ISP Protect Scan
+## Author: John Modica @ CybernetiX S3C
 
 ISP Protect Scan is a tool that scans the ISP info and checks for vulnerabilities.
 
