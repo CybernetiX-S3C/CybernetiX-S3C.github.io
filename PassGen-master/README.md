@@ -27,3 +27,6 @@ current version         0.1
 reset [fieldname]       clear field
 
 ```
+
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=WYyVGpXQc8g)
