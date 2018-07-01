@@ -1,6 +1,7 @@
 ## [Main](https://CybernetiX-S3C.github.io)
 
-#    PYAnonFTP
+# PYAnonFTP
+## Author: John Modica @ CybernetiX S3C
 
 This tool is for scanning the net for FTP Servers using FTP and anonymous connections.
 
