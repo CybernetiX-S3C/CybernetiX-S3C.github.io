@@ -1,6 +1,7 @@
 ## [Main](https://CybernetiX-S3C.github.io/)
 
 # Password Generator Master
+## Author: John Modica @ CybernetiX S3C
 
 This script is a straight foward python tool used generate a password list using the fields that you enter.
 
