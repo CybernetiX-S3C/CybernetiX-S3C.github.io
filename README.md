@@ -23,7 +23,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
   
 * >[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit)
 
-* >[2. WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
+* >[2. WiFi Package](https://CybernetiX-S3C.GiHub.io/wifipackage)
 
 * >[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
 
@@ -31,7 +31,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[5. Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
 
-* >[6. NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
+* >[6. NodeJS](https://CybernetiX-S3C/CybernetiX-S3C.GitHub.io/NodeJS-Kali-Linux)
 
 * >[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
 
@@ -86,7 +86,7 @@ Infosploit
 Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.GitHub.io/wifipackage) below to go directly to the source or use the basic steps down in the box to download and run directly inside your terminal.
 DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will cause cancer, brain damage, and severe loss of memory!
 
-[WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
+[WiFi Package](https://cybernetix-s3c.github.io/wifipackage)
 ```markdown
 # ★ Download:
 
@@ -190,7 +190,7 @@ python speedtest-cli/setup.py install
 
 This is a simple to install Node.js inside Kali Linux OS. Simply download the bash script and run the script.
 
-[NodeJS](https://github.com/CybernetiX-S3C/NodeJS-Kali-Linux)
+[NodeJS](https://CybernetiX-S3C.github.io/NodeJS-Kali-Linux)
 ```markdown
 # ★ Download:
 
