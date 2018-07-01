@@ -1,6 +1,7 @@
 ## [Main](https://CybernetiX-S3C.github.io)
 
 # Multiple-BruteForce
+## Author: John Modica @ CybernetiX S3C
 
 This script in designed to hack multiple accounts such as facebook, instagram, and twitter with the simple information you give it.
 
