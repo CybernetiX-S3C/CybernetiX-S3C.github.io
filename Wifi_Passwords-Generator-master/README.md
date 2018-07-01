@@ -8,7 +8,7 @@ This is a basic python script to generate a password txt using two ESSID names.
 ```markdown
 # Download:
 
-git clone https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master
+git clone https://github.com/cybernetix-s3c/Wifi_Passwords-Generator-master
 
 # How To Use:
 
