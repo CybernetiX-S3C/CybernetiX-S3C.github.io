@@ -8,7 +8,7 @@ ISP Protect Scan is a tool that scans the ISP info and checks for vulnerabilitie
 ```markdown
 # Download:
 
-git clone https://CybernetiX-S3C.github.io/ISPpScan
+git clone https://github.com/cybernetix-s3c/ISPpScan
 
 # How To Use:
 
