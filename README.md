@@ -13,7 +13,7 @@
                               
 # Welcome to CybernetiX S3C
 
-![img](https://preview.ibb.co/fNM2H8/IMG_20180426_022500.jpg) ![img](https://thumb.ibb.co/jpcfEy/1518611575711.png)
+![img](https://preview.ibb.co/fNM2H8/IMG_20180426_022500.jpg)       ![img](https://thumb.ibb.co/jpcfEy/1518611575711.png)
 
 My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker and a Kali Linux Developer, who is looking to help others with simple tools and scripts for their Unix system of choice.
 
