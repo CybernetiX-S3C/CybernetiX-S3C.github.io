@@ -41,7 +41,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[10. PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
 
-* >[11. WiFi Jammer](http://CybernetiX-S3C.github.io/WifiJammer-master)
+* >[11. WiFi Jammer](http://CybernetiX-S3C.github.io/WiFiJammer-master)
 
 * >[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
     
@@ -205,6 +205,8 @@ bash NodeJS-Kali-Linux.sh
 
 npm -v
 ```
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=h73JhQCmDmc)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -227,6 +229,9 @@ python MultiForce.py
 ```
 
 ### (_Not guaranteed to work for all accounts_)
+
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=0YcexP_GV14)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -257,6 +262,8 @@ current version         0.1
 reset [fieldname]       clear field
 
 ```
+# Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=WYyVGpXQc8g)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -304,11 +311,11 @@ pip3 install ipaddr
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **11. WiFi Jammer
+## **11. WiFi Jammer**
 
 Continuously jam all wifi clients and access points within range. The effectiveness of this script is constrained by your wireless card. Alfa cards seem to effectively jam within about a block radius with heavy access point saturation. Granularity is given in the options for more effective targeting. 
 
-[WiFi Jammer](http://CybernetiX-S3C.github.io/WifiJammer-master)
+[WiFi Jammer](http://CybernetiX-S3C.github.io/WiFiJammer-master)
 ```markdown
 # ★ Download:
 
@@ -319,6 +326,9 @@ Continuously jam all wifi clients and access points within range. The effectiven
 cd WiFiJammer-master
 python wifijammer.py [-a AP MAC] [-c CHANNEL] [-d] [-i INTERFACE] [-m MAXIMUM] [-n] [-p PACKETS] [-s SKIP] [-t TIME INTERVAL]
 ```
+Tutorial
+[Part 1]
+[Part 2](https://youtu.be/Cu1gA1BrkKk)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
