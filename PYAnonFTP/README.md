@@ -8,7 +8,7 @@ This tool is for scanning the net for FTP Servers using FTP and anonymous connec
 ```markdown
 # Download:
 
-git clone https://CybernetiX-S3C.github.io/PYAnonFTP
+git clone https://github.com/cybernetix-s3c/PYAnonFTP
 
 # How To Use:
 
