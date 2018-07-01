@@ -31,7 +31,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[5. Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
 
-* >[6. NodeJS](https://CybernetiX-S3C/CybernetiX-S3C.GitHub.io/NodeJS-Kali-Linux)
+* >[6. NodeJS](https://CybernetiX-S3C.GitHub.io/NodeJS-Kali-Linux)
 
 * >[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
 
@@ -113,7 +113,7 @@ No need for installation. Click The [link](https://CybernetiX-S3C.GitHub.io/ip-l
 ```markdown
 # ★ Download:
 
-● git clone https://github.com/cybernetix-s3c/Ip-locator
+● git clone https://github.com/CybernetiX-S3C/Ip-locator
 
 # ★ How to use:
 
@@ -216,7 +216,7 @@ This script in designed to hack multiple accounts such as facebook, instagram, a
 ```markdown
 # ★ Download:
 
-● git clone https://CybernetiX-S3C.github.io/Multiple-BruteForce-master
+● git clone https://github.com/CybernetiX-S3C/Multiple-BruteForce-master
 
 # ★ How To Use:
 
@@ -238,7 +238,7 @@ This script is a straight foward python tool used generate a password list using
 ```markdown
 # ★ Download:
 
-● git clone https://CybernetiX-S3C.github.io/PassGen-master
+● git clone https://github.com/CybernetiX-S3C/PassGen-master
 
 # ★ How To Use
 
@@ -268,7 +268,7 @@ This is a basic python script to generate a password txt using two ESSID names.
 ```markdown
 # ★ Download:
 
-● git clone https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master
+● git clone https://github.com/CybernetiX-S3C/Wifi_Passwords-Generator-master
 
 # ★ How To Use:
 
@@ -287,7 +287,7 @@ This tool is for scanning the net for FTP Servers using FTP and anonymous connec
 ```markdown
 # ★ Download:
 
-● git clone https://CybernetiX-S3C.github.io/PYAnonFTP
+● git clone https://github.com/CybernetiX-S3C/PYAnonFTP
 
 # ★ How To Use:
 
@@ -312,7 +312,7 @@ Continuously jam all wifi clients and access points within range. The effectiven
 ```markdown
 # ★ Download:
 
-● git clone http://CybernetiX-S3C.github.io/WifiJammer-master
+● git clone https://github.com/CybernetiX-S3C/WifiJammer-master
 
 # ★ HowTo Use:
 
@@ -330,7 +330,7 @@ ISP Protect Scan is a tool that scans the ISP info and checks for vulnerabilitie
 ```markdown
 # ★ Download:
 
-● git clone https://CybernetiX-S3C.github.io/ISPpScan
+● git clone https://github.com/CybernetiX-S3C/ISPpScan
 
 # ★ How To Use:
 
