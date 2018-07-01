@@ -18,10 +18,10 @@
 
 My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker and a Kali Linux Developer, who is looking to help others with simple tools and scripts for their Unix system of choice.
 
-============================================================================================================
+====================================================================================================
 ##  **CONTENTS**
   
-* >[1. InfoSploit](https://github.com/CybernetiX-S3C/CybernetiX-S3C.github.io/blob/master/README.md#1-infosploit)
+* >[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit)
 
 * >[2. WiFi Package](https://github.com/cybernetix-s3c/wifipackage)
 
