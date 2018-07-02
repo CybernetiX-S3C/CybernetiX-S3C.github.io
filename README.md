@@ -356,7 +356,7 @@ cd ISPpScan
 # Tutorial
 [Tutorial](https://www.youtube.com/watch?v=ifsjSTEeKNM)
 
-============================================================================================================
+======================================================================================================
 
 # **Random Info**
 
@@ -366,9 +366,8 @@ I have a personal collection of info listed below on Artificial Intelligence. In
 
 [Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
 
-=============================================================================================================
-
-![img](https://thumb.ibb.co/mA0ncJ/lpt.png)![img](https://thumb.ibb.co/j5v9rd/CISSP.png)![img](https://thumb.ibb.co/b3kaWd/Logo_CEH.png)![img](https://thumb.ibb.co/gETJjy/CCISO_Logo_large_1.png)![img](https://thumb.ibb.co/h9FLxJ/klcp_site_logo_300x172_1_300x172.png)![img](https://thumb.ibb.co/cfrScJ/ISACA_Certification_CISM_mobile.png)![img](https://thumb.ibb.co/bK1ScJ/CISA.png)![img](https://thumb.ibb.co/fpu2Bd/security.png)
+=======================================================================================================
+![img](https://image.ibb.co/dGJUrd/security.png)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
