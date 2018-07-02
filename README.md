@@ -367,7 +367,7 @@ I have a personal collection of info listed below on Artificial Intelligence. In
 [Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
 
 ==================================================================================================
-![img](https://image.ibb.co/dGJUrd/security.png)![img](https://image.ibb.co/dsc0xJ/CISA.png)![img](https://image.ibb.co/bPQW4y/ISACA_Certification_CISM_mobile.png)![img](https://image.ibb.co/kz0W4y/klcp_site_logo_300x172_1_300x172.png)![img](https://image.ibb.co/kMO7cJ/CCISO_Logo_large_1.png)![img](https://image.ibb.co/mgBhBd/Logo_CEH.png)![img](https://image.ibb.co/cY1FWd/lpt.png)![img](https://image.ibb.co/egrhBd/CISSP.png)
+![img](https://image.ibb.co/dGJUrd/security.png)![img](https://image.ibb.co/dsc0xJ/CISA.png)![img](https://image.ibb.co/bPQW4y/ISACA_Certification_CISM_mobile.png)![img](https://image.ibb.co/kz0W4y/klcp_site_logo_300x172_1_300x172.png)![img](https://image.ibb.co/iMcuPy/CCISO_Logo_large_1.png)![img](https://image.ibb.co/hPDerd/Logo_CEH.png)![img](https://image.ibb.co/cY1FWd/lpt.png)![img](https://image.ibb.co/egrhBd/CISSP.png)
 --------------------------------------------------------------------------------------------------------------------------------
 
 ### Support or Contact
