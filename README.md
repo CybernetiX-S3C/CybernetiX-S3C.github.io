@@ -13,7 +13,7 @@
                               
 # Welcome to CybernetiX S3C
 
-![img](https://preview.ibb.co/fNM2H8/IMG_20180426_022500.jpg)       ![img](https://thumb.ibb.co/jpcfEy/1518611575711.png)
+![img](https://preview.ibb.co/fNM2H8/IMG_20180426_022500.jpg)![img](https://thumb.ibb.co/cfnprd/ETH.jpg)![img](https://thumb.ibb.co/jpcfEy/1518611575711.png)
 
 My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker and a Kali Linux Developer, who is looking to help others with simple tools and scripts for their Unix system of choice.
 
@@ -365,6 +365,12 @@ cd ISPpScan
 I have a personal collection of info listed below on Artificial Intelligence. Info includes books, lectures, movies, papers, and much more. I WILL be adding much more on the topic. So stay tuned.
 
 [Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
+
+=============================================================================================================
+
+![img](https://thumb.ibb.co/mA0ncJ/lpt.png)![img](https://thumb.ibb.co/j5v9rd/CISSP.png)![img](https://thumb.ibb.co/b3kaWd/Logo_CEH.png)![img](https://thumb.ibb.co/gETJjy/CCISO_Logo_large_1.png)![img](https://thumb.ibb.co/h9FLxJ/klcp_site_logo_300x172_1_300x172.png)![img](https://thumb.ibb.co/cfrScJ/ISACA_Certification_CISM_mobile.png)![img](https://thumb.ibb.co/bK1ScJ/CISA.png)![img](https://thumb.ibb.co/fpu2Bd/security.png)
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### Support or Contact
 
