@@ -13,7 +13,7 @@
                               
 # Welcome to CybernetiX S3C
 
-![img](https://preview.ibb.co/fNM2H8/IMG_20180426_022500.jpg)![img](https://thumb.ibb.co/cfnprd/ETH.jpg)![img](https://thumb.ibb.co/jpcfEy/1518611575711.png)
+![img](https://preview.ibb.co/fNM2H8/IMG_20180426_022500.jpg)![img](https://image.ibb.co/iekpPy/ETH.png)![img](https://thumb.ibb.co/jpcfEy/1518611575711.png)
 
 My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Hacker and a Kali Linux Developer, who is looking to help others with simple tools and scripts for their Unix system of choice.
 
@@ -367,7 +367,7 @@ I have a personal collection of info listed below on Artificial Intelligence. In
 [Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
 
 ==================================================================================================
-![img](https://image.ibb.co/dGJUrd/security.png)![img](https://image.ibb.co/dsc0xJ/CISA.png)![img](https://image.ibb.co/bPQW4y/ISACA_Certification_CISM_mobile.png)![img](https://image.ibb.co/bPQW4y/ISACA_Certification_CISM_mobile.png)![img](https://image.ibb.co/kz0W4y/klcp_site_logo_300x172_1_300x172.png)![img](https://image.ibb.co/kMO7cJ/CCISO_Logo_large_1.png)![img](https://image.ibb.co/bv2djy/Logo_CEH.png)![img](https://image.ibb.co/cY1FWd/lpt.png)![img](https://image.ibb.co/egrhBd/CISSP.png)
+![img](https://image.ibb.co/dGJUrd/security.png)![img](https://image.ibb.co/dsc0xJ/CISA.png)![img](https://image.ibb.co/bPQW4y/ISACA_Certification_CISM_mobile.png)![img](https://image.ibb.co/kz0W4y/klcp_site_logo_300x172_1_300x172.png)![img](https://image.ibb.co/kMO7cJ/CCISO_Logo_large_1.png)![img](https://image.ibb.co/bv2djy/Logo_CEH.png)![img](https://image.ibb.co/cY1FWd/lpt.png)![img](https://image.ibb.co/egrhBd/CISSP.png)
 --------------------------------------------------------------------------------------------------------------------------------
 
 ### Support or Contact
