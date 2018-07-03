@@ -1,4 +1,5 @@
 ## [Main](https://CybernetiX-S3C.github.io/)
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 # Password Generator Master
 ## Author: John Modica @ CybernetiX S3C
