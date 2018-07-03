@@ -1,4 +1,5 @@
-### [Main](https://CybernetiX-S3C.github.io)
+### [Home](https://CybernetiX-S3C.github.io)[Main](https://CybernetiX-S3C.github.io/main)
+
 
 ### Artificial-Intelligence-Info
  ## (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
