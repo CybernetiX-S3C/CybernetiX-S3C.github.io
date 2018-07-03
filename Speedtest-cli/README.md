@@ -1,6 +1,7 @@
 ### [Main](https://CybernetiX-S3C.github.io/)
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
-## speedtest-cli
+# speedtest-cli
 =============
 
 Command line interface for testing internet bandwidth using
