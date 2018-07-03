@@ -10,8 +10,7 @@
 #                                            **By John Poli Modica**                                          #
 +-------------------------------------------------------------------------------------------------------------+
 ```
-[![ForTheBadge built-by-John Modica](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)![img](https://slack.officialcybernetixs3c.svg)
-
+[![ForTheBadge built-by-John Modica](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)[![Find me on Slack!](http://slack-badge.herokuapp.com/users/CybernetiX-S3C.png)](https://fullscreen.slack.com/messages/@CybernetiX-S3C)
 # Welcome to CybernetiX S3C
 
 ![img](https://preview.ibb.co/fNM2H8/IMG_20180426_022500.jpg)![img](https://image.ibb.co/iekpPy/ETH.png)![img](https://thumb.ibb.co/jpcfEy/1518611575711.png)
