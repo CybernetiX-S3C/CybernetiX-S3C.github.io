@@ -1,4 +1,4 @@
-### [Home](https://CybernetiX-S3C.github.io)[Main](https://CybernetiX-S3C.github.io/main)
+### [Home](https://CybernetiX-S3C.github.io) [Main](https://CybernetiX-S3C.github.io/main)
 
 
 ### Artificial-Intelligence-Info
