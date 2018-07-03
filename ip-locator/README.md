@@ -1,4 +1,5 @@
 ### [Main Page](https://CybernetiX-S3C.GitHub.io)
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 ## IP Locator
 # Author : John Modica @ CybernetiX S3C
