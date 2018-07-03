@@ -1,4 +1,4 @@
-## [Main](https://CybernetiX-S3C.github.io)
+### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 # ISPpScan or ISP Protect Scan
