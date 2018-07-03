@@ -1,4 +1,5 @@
 ### [Main Page](https://CybernetiX-S3C.GitHub.io)
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 ## Author: John Modica @ CybernetiX S3C
 
@@ -37,6 +38,10 @@ Changing the TxPower is and can be dangerous and also illegal
 in differrent countries!
 Changing any higher can cause radiation poisoning, cancer,
 and can burn your card out!
+
+Note:
+As it states in the video, and the scripts, the only things that change is the mode, NOT the name! wlan1 will stay wlan1. wla0 with stay wlan0. when doing your packet collecing use wlan0/wlan1.
+
 ```
 https://www.cisco.com/c/en/us/support/docs/dial-access/asynchronous-connections/15380-trans-rec-15380.html
 
