@@ -1,3 +1,4 @@
+[Back To Landing Page](https://CybernetiX-S3C.github.io)
 [![License](http://img.shields.io/:license-gpl3-blue.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ```markdown
@@ -22,31 +23,31 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 ====================================================================================================
 ##  **CONTENTS**
   
-* >[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit)
+* >[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/main/Infosploit)
 
-* >[2. WiFi Package](https://CybernetiX-S3C.GitHub.io/wifipackage)
+* >[2. WiFi Package](https://CybernetiX-S3C.GitHub.io/main/wifipackage)
 
-* >[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
+* >[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/main/ip-locator)
 
-* >[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
+* >[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/main/SK-WPS-Cracker)
 
-* >[5. Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
+* >[5. Speedtest-Cli](https://cybernetix-s3c.github.io/main/Speedtest-cli/)
 
-* >[6. NodeJS](https://CybernetiX-S3C.GitHub.io/NodeJS-Kali-Linux)
+* >[6. NodeJS](https://CybernetiX-S3C.GitHub.io/main/NodeJS-Kali-Linux)
 
-* >[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
+* >[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/main/Multiple-BruteForce-master)
 
-* >[8. Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)
+* >[8. Password Generator](https://CybernetiX-S3C.github.io/main/PassGen-master)
 
-* >[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
+* >[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/main/Wifi_Passwords-Generator-master)
 
-* >[10. PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
+* >[10. PYAnonFTP](https://CybernetiX-S3C.github.io/main/PYAnonFTP)
 
-* >[11. WiFi Jammer](http://CybernetiX-S3C.github.io/WiFiJammer-master)
+* >[11. WiFi Jammer](http://CybernetiX-S3C.github.io/main/WiFiJammer-master)
 
-* >[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
+* >[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/main/ISPpScan)
     
-* >[13. Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
+* >[13. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
 
 
 # **Repositories**
@@ -56,9 +57,9 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 InfoSploit is a simple python script for Information Gathering.
 The properties of InfoSploit are:
 ● DNS Lookup ● Whois Lookup ● GeoIP Lookup ● Subnet Lookup ● Port Scanner ● Extract Links ● Zone Transfer ● HTTP Header ● Host Finder ● Robots.txt ● IP-Locator ● Traceroute ● Host DNS Finder ● Revrse IP Lookup ● Collection Email ● Subdomain Finder ● Install & Update ● About Me ● Exit
-Click the [link](https://CybernetiX-S3C.GitHub.io/Infosploit) below to go directly to the source or use the basic steps down in the box to download and install directly inside your terminal.
+Click the [link](https://CybernetiX-S3C.GitHub.io/main/Infosploit) below to go directly to the source or use the basic steps down in the box to download and install directly inside your terminal.
 
-[InfoSploit](https://CybernetiX-S3C.GitHub.io/Infosploit) 
+[InfoSploit](https://CybernetiX-S3C.GitHub.io/main/Infosploit) 
 
 ```markdown
 # ★ Download:
@@ -66,6 +67,7 @@ Click the [link](https://CybernetiX-S3C.GitHub.io/Infosploit) below to go direct
 ● git clone https://github.com/CybernetiX-S3C/Infosploit
 
 # ★ How to use:
+
 unzip Infosploit.zip
 cd Infosploit
 chmod +x install
@@ -84,17 +86,17 @@ Infosploit
 
 ## **2. Wifi Package**
 
-Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.GitHub.io/wifipackage) below to go directly to the source or use the basic steps down in the box to download and run directly inside your terminal.
+Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.GitHub.io/main/wifipackage) below to go directly to the source or use the basic steps down in the box to download and run directly inside your terminal.
 DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will cause cancer, brain damage, and severe loss of memory!
 
-[WiFi Package](https://cybernetix-s3c.github.io/wifipackage)
+[WiFi Package](https://cybernetix-s3c.github.io/main/wifipackage)
 ```markdown
 # ★ Download:
 
 ● git clone https://github.com/cybernetix-s3c/wifipackage
 
 # ★ How to use:
-moz-extension://a3648889-d474-45b8-8583-5971e6d81548/newtab.html
+
 unzip wifipackage.zip
 cd (Into Either Folder)
 bash NameOfFile.sh (To Run)
@@ -107,9 +109,9 @@ bash NameOfFile.sh (To Run)
 ## **3. IP-Locator**
 
 IP Locator is basically what is says. It is a script made to utilize perl in a way to find a geolocation of an IP or Domain.
-No need for installation. Click The [link](https://CybernetiX-S3C.GitHub.io/ip-locator) below to download the main source, or use the instructions below to download and run directly inside your terminal.
+No need for installation. Click The [link](https://CybernetiX-S3C.GitHub.io/main/ip-locator) below to download the main source, or use the instructions below to download and run directly inside your terminal.
 
-[IP-Locator](https://CybernetiX-S3C.GitHub.io/ip-locator)
+[IP-Locator](https://CybernetiX-S3C.GitHub.io/main/ip-locator)
 
 ```markdown
 # ★ Download:
@@ -148,9 +150,9 @@ SCRIPT KIDDIE WPS CRACKER [SK-WC] is a small tool based on the bash script langu
     “Wash”
 
 and some commands, in automatic way to do its job. Enjoy
-Click the [link](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker) below to grab the source, or use the directions in the box to download the source directly in your terminal.
+Click the [link](https://CybernetiX-S3C.GitHub.io/main/SK-WPS-Cracker) below to grab the source, or use the directions in the box to download the source directly in your terminal.
 
-[SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/SK-WPS-Cracker)
+[SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/main/SK-WPS-Cracker)
 
 ```markdown
 # ★ Download:
@@ -174,7 +176,7 @@ Check your internet speed on their OFFICIAL website.
 [Speedtest.net](https://www.speedtest.net/)
 
 Or download and install my personal Speedtest script for your terminal.
-[Speedtest-Cli](https://cybernetix-s3c.github.io/Speedtest-cli/)
+[Speedtest-Cli](https://cybernetix-s3c.github.io/main/Speedtest-cli/)
 
 ```markdown
 # ★ Download:
@@ -194,7 +196,7 @@ python speedtest-cli/setup.py install
 
 This is a simple to install Node.js inside Kali Linux OS. Simply download the bash script and run the script.
 
-[NodeJS](https://CybernetiX-S3C.github.io/NodeJS-Kali-Linux)
+[NodeJS](https://CybernetiX-S3C.github.io/main/NodeJS-Kali-Linux)
 ```markdown
 # ★ Download:
 
@@ -218,7 +220,7 @@ npm -v
 
 This script in designed to hack multiple accounts such as facebook, instagram, and twitter with the simple information you give it.
 
-[Multiple BruteForce](https://CybernetiX-S3C.github.io/Multiple-BruteForce-master)
+[Multiple BruteForce](https://CybernetiX-S3C.github.io/main/Multiple-BruteForce-master)
 ```markdown
 # ★ Download:
 
@@ -243,7 +245,7 @@ python MultiForce.py
 
 This script is a straight foward python tool used generate a password list using the fields that you enter.
 
-[Password Generator](https://CybernetiX-S3C.github.io/PassGen-master)
+[Password Generator](https://CybernetiX-S3C.github.io/main/PassGen-master)
 ```markdown
 # ★ Download:
 
@@ -275,7 +277,7 @@ reset [fieldname]       clear field
 
 This is a basic python script to generate a password txt using two ESSID names.
 
-[Wifi Password Generator](https://CybernetiX-S3C.github.io/Wifi_Passwords-Generator-master)
+[Wifi Password Generator](https://CybernetiX-S3C.github.io/main/Wifi_Passwords-Generator-master)
 ```markdown
 # ★ Download:
 
@@ -296,7 +298,7 @@ python Generate.py
 
 This tool is for scanning the net for FTP Servers using FTP and anonymous connections.
 
-[PYAnonFTP](https://CybernetiX-S3C.github.io/PYAnonFTP)
+[PYAnonFTP](https://CybernetiX-S3C.github.io/main/PYAnonFTP)
 ```markdown
 # ★ Download:
 
@@ -323,7 +325,7 @@ pip3 install ipaddr
 
 Continuously jam all wifi clients and access points within range. The effectiveness of this script is constrained by your wireless card. Alfa cards seem to effectively jam within about a block radius with heavy access point saturation. Granularity is given in the options for more effective targeting. 
 
-[WiFi Jammer](http://CybernetiX-S3C.github.io/WiFiJammer-master)
+[WiFi Jammer](http://CybernetiX-S3C.github.io/main/WiFiJammer-master)
 ```markdown
 # ★ Download:
 
@@ -343,7 +345,7 @@ python wifijammer.py [-a AP MAC] [-c CHANNEL] [-d] [-i INTERFACE] [-m MAXIMUM] [
 
 ISP Protect Scan is a tool that scans the ISP info and checks for vulnerabilities.
 
-[ISP Protect Scan](https://CybernetiX-S3C.github.io/ISPpScan)
+[ISP Protect Scan](https://CybernetiX-S3C.github.io/main/ISPpScan)
 ```markdown
 # ★ Download:
 
@@ -366,7 +368,7 @@ cd ISPpScan
 
 I have a personal collection of info listed below on Artificial Intelligence. Info includes books, lectures, movies, papers, and much more. I WILL be adding much more on the topic. So stay tuned.
 
-[Artificial Intelligence Info](https://cybernetix-s3c.github.io/Artificial-Intelligence-Info/)
+[Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
 
 ==================================================================================================
 ![img](https://image.ibb.co/dGJUrd/security.png)![img](https://image.ibb.co/dsc0xJ/CISA.png)![img](https://image.ibb.co/cFzPPy/ISACA_Certification_CISM_mobile.png)![img](https://image.ibb.co/kz0W4y/klcp_site_logo_300x172_1_300x172.png)![img](https://image.ibb.co/iMcuPy/CCISO_Logo_large_1.png)![img](https://image.ibb.co/hPDerd/Logo_CEH.png)![img](https://image.ibb.co/cY1FWd/lpt.png)![img](https://image.ibb.co/egrhBd/CISSP.png)
