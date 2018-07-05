@@ -1,3 +1,15 @@
+![Python 3.5](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+![OS Linux](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
+![Lets stalk](https://img.shields.io/badge/Stalkermode-Activated-red.svg)
+```
+___________             .__       .__            
+\_   _____/____    ____ |__|____  |  |           
+ |    __) \__  \ _/ ___\|  \__  \ |  |    ______ 
+ |     \   / __ \\  \___|  |/ __ \|  |__ /_____/ 
+ \___  /  (____  /\___  >__(____  /____/         
+     \/        \/     \/        \/               
+         __________                              
+         \______   \ ____   ____  ____   ____    
   ~JPM    |       _// __ \_/ ___\/  _ \ /    \   
   Version |    |   \  ___/\  \__(  <_> )   |  \  
     {0}   |____|_  /\___  >\___  >____/|___|  /  
@@ -33,27 +45,6 @@ $ sudo apt update && sudo apt upgrade -y
 $ sudo apt install git python3 python3-pip python3-dev
 $ sudo apt install libgtk-3-dev libboost-all-dev build-essential cmake libffi-dev
 $ git clone https://github.com/CybernetiX-S3C/Facial-Recon-master
-$ cd EagleEye && sudo pip3 install -r requirements.txt
-$ sudo pip3 install --upgrade beautifulsoup4 html5lib spry
-```
-
-Regardless of which option you choose make sure that you have Firefox installed
-If you have Firefox installed, download the [latest release](https://github.com/mozilla/geckodriver/releases/latest) of the Geckodriver for you Architecture.
-**If you get a `broken pipe` Error use Geckodriver Version 0.19.1**
-
-**Note: If you are using Firefox ESR(like Kali does) please use the Geckodriver Version 17**
-
-Next change the value in `config.json` to the path of the geckodriver e.g
-```
-{
-    "DEFAULTS": {
-        ...
-    },
-    "WEBDRIVER": {
-        "ENGINE": "firefox",
-        "PATH": "PATH TO geckodriver e.g C:\\Program Files\\geckodriver.exe"
-    },
-    "FILTER": [
 $ cd EagleEye && sudo pip3 install -r requirements.txt
 $ sudo pip3 install --upgrade beautifulsoup4 html5lib spry
 ```
