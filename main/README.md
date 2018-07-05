@@ -361,6 +361,39 @@ cd ISPpScan
 # Tutorial
 [Tutorial](https://www.youtube.com/watch?v=ifsjSTEeKNM)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **13. Facial Recon**
+
+### _What does this do?
+In simple words you have at least one Image of the Person you are looking for and a clue about its name. You feed this program with it and it tries to find Instagram, Youtube, Facebook, Twitter Profiles of this Person.
+
+### _How does it work?
+You give it a name and at least one photo. It then searches Facebook for this name and does Facial Recognition to determine the right Facebook Profile.
+After that it does a Google and ImageRaider Reverse Image Search to find other Social Media Profiles.
+
+If a Instagram Profile was found it will be verified by comparing your known photo of the Person to some of the Instagram Pictures.
+
+In the end you get a PDF Report :)
+
+[Facial Recon](https://CybernetiX-S3C.github.io/main/Facial-Recon-master)
+
+## How to use it
+
+### Automated Prequisites Installation
+```
+wget https://raw.githubusercontent.com/CybernetiX-S3C/Facial-Recon-master/master/pre.sh && chmod +x pre.sh && ./pre.sh
+```
+
+### Manual Prequisites Installation
+```
+$ sudo apt update && sudo apt upgrade -y
+$ sudo apt install git python3 python3-pip python3-dev
+$ sudo apt install libgtk-3-dev libboost-all-dev build-essential cmake libffi-dev
+$ git clone https://github.com/CybernetiX-S3C/Facial-Recon-master
+$ cd Facial-Recon-master && sudo pip3 install -r requirements.txt
+$ sudo pip3 install --upgrade beautifulsoup4 html5lib spry
+```
 ==================================================================================================
 
 # **Random Info**
