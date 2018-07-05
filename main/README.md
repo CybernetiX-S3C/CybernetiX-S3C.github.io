@@ -361,7 +361,7 @@ cd ISPpScan
 # Tutorial
 [Tutorial](https://www.youtube.com/watch?v=ifsjSTEeKNM)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## **13. Facial Recon**
 
@@ -394,6 +394,7 @@ $ git clone https://github.com/CybernetiX-S3C/Facial-Recon-master
 $ cd Facial-Recon-master && sudo pip3 install -r requirements.txt
 $ sudo pip3 install --upgrade beautifulsoup4 html5lib spry
 ```
+
 ==================================================================================================
 
 # **Random Info**
