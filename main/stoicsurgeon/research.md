@@ -1,3 +1,8 @@
+[STOIC SURGEON](https://CybernetiX-S3C.github.io/main/stoicsurgeon)
+[RESEARCH](https://CybernetiX-S3C.github.io/main/stoicsurgeon/research)
+[CONTRIBUTING](https://CybernetiX-S3C.github.io/main/stoicsurgeon/contrib)
+[ABOUT](https://CybernetiX-S3C.github.io/main/stoicsurgeon/about)
+
 # Research
 
 ### EQGRP implants/backdoors
