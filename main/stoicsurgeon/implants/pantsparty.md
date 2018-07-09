@@ -1,3 +1,8 @@
+[STOIC SURGEON](https://CybernetiX-S3C.github.io/main/stoicsurgeon)
+[RESEARCH](https://CybernetiX-S3C.github.io/main/stoicsurgeon/research)
+[CONTRIBUTING](https://CybernetiX-S3C.github.io/main/stoicsurgeon/contrib)
+[ABOUT](https://CybernetiX-S3C.github.io/main/stoicsurgeon/about)
+
 # PANTSPARTY
 
 A backdoor (public key) in the SSH daemon that allows EQGRP to connect to the server and it will spawn a root shell. Using existing non-root users and non-existing users are supported (it will all spawn a root shell). Logging has also be adapted so it either doesn't show up or it shows that the authentication failed.
