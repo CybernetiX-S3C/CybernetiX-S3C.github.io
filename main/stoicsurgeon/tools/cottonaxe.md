@@ -1,3 +1,8 @@
+[STOIC SURGEON](https://CybernetiX-S3C.github.io/main/stoicsurgeon)
+[RESEARCH](https://CybernetiX-S3C.github.io/main/stoicsurgeon/research)
+[CONTRIBUTING](https://CybernetiX-S3C.github.io/main/stoicsurgeon/contrib)
+[ABOUT](https://CybernetiX-S3C.github.io/main/stoicsurgeon/about)
+
 # COTTONAXE
 
 COTTONAXE is a shell script that will "backup" important files on a LiteSpeed Web Server to a hidden directory. Capabilities include compression (`bzip2`, `compress` or `gzip` is supported), filtering (using grep regexes) to only record important statements and filter out unimportant stuff. The original file can also be NULLed (` > file` trick). Important files like `/etc/shadow` are pulled completely every time it changes (using `cksum` command). It will also periodically perform the command `netstat -antpu` (it can be any command really but this one was found hardcoded).
