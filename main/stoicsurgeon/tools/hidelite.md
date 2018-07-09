@@ -1,8 +1,13 @@
+[STOIC SURGEON](https://CybernetiX-S3C.github.io/main/stoicsurgeon)
+[RESEARCH](https://CybernetiX-S3C.github.io/main/stoicsurgeon/research)
+[CONTRIBUTING](https://CybernetiX-S3C.github.io/main/stoicsurgeon/contrib)
+[ABOUT](https://CybernetiX-S3C.github.io/main/stoicsurgeon/about)
+
 # DITTELIGHT / DITTLELITE / HIDELITE
 
 This tool can be used to unhide processes that were hidden using the INCISION rootkit. A noteable use of this tool is to unhide processes such that Oracle databases can be queried from the (previously hidden) process. The tool can also hide the process again.
 
-In [the Oracle opscript](https://github.com/stoicsurgeon/EQGRP_Linux/blob/master/Linux/etc/oracle/opscript):
+In [the Oracle opscript](https://github.com/CybernetiX-S3C/EQGRP_Linux/blob/master/Linux/etc/oracle/opscript):
 ```
 #########################################################################
 # This is required for unhiding our processes on an INCISION box.	#
@@ -11,7 +16,7 @@ In [the Oracle opscript](https://github.com/stoicsurgeon/EQGRP_Linux/blob/master
 -put /current/up/hidelite.solaris.sparc $TMPDIR/nscd
 ```
 
-The [HIDELITE user tool](https://github.com/stoicsurgeon/EQGRP_Linux/blob/master/Linux/doc/old/doc/user.tool.dittlelight_hidelite.COMMON) provides some usage examples:
+The [HIDELITE user tool](https://github.com/CybernetiX-S3C/EQGRP_Linux/blob/master/Linux/doc/old/doc/user.tool.dittlelight_hidelite.COMMON) provides some usage examples:
 ```
 -put /current/bin/hidelite.sparc crond
 
@@ -24,7 +29,7 @@ The [HIDELITE user tool](https://github.com/stoicsurgeon/EQGRP_Linux/blob/master
 ./crond -h -p NOPENPID
 ```
 
-Hidelite needs to run in a window that is a direct child of PID 1. ([Source](https://github.com/stoicsurgeon/EQGRP_Linux/blob/master/Linux/doc/old/etc/user.mission.sicklestar.COMMON#L1181-L1182))
+Hidelite needs to run in a window that is a direct child of PID 1. ([Source](https://github.com/CybernetiX-S3C/EQGRP_Linux/blob/master/Linux/doc/old/etc/user.mission.sicklestar.COMMON#L1181-L1182))
 
 
 ## Reverse Engineering HIDELITE
@@ -58,7 +63,7 @@ PS1=hidden:
 YYqv$
 ```
 
-According to [the SICKLESTAR notes](https://github.com/stoicsurgeon/EQGRP_Linux/blob/master/Linux/doc/old/etc/user.mission.sicklestar.COMMON#L1180) the HIDELITE binary should contain INCISION keys. I was unable to find anything that looks like it (3 random looking 32-bit integers) but it could be the 64 bytes that I called "dunno" in my C code (that's the only place it would fit).
+According to [the SICKLESTAR notes](https://github.com/CybernetiX-S3C/EQGRP_Linux/blob/master/Linux/doc/old/etc/user.mission.sicklestar.COMMON#L1180) the HIDELITE binary should contain INCISION keys. I was unable to find anything that looks like it (3 random looking 32-bit integers) but it could be the 64 bytes that I called "dunno" in my C code (that's the only place it would fit).
 
 (Warning: People have reported sudden loss of eyesight when looking at the code. Proceed with caution.)
 ```c
