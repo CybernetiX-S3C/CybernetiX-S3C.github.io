@@ -1,3 +1,8 @@
+[STOIC SURGEON](https://CybernetiX-S3C.github.io/main/stoicsurgeon)
+[RESEARCH](https://CybernetiX-S3C.github.io/main/stoicsurgeon/research)
+[CONTRIBUTING](https://CybernetiX-S3C.github.io/main/stoicsurgeon/contrib)
+[ABOUT](https://CybernetiX-S3C.github.io/main/stoicsurgeon/about)
+
 # PORK
 
 An implant for external facing services that provides shell command execution or a NOPEN shell for "special" connections. Aside from implanting a single service, there are porked inetd executables in the leaks that will check each connection towards the inetd services for a PORK connection. The `porkclient` binary lets you connect to a porked service and run one command or spawn a NOPEN shell by uploading a NOPEN server through the porked service.
@@ -334,6 +339,6 @@ r NETCAT_PORT
 
 
 ```
-Source: [https://github.com/stoicsurgeon/EQGRP_Linux/blob/33810162273edda807363237ef7e7c5ece3e4100/Linux/doc/old/etc/user.mission.generic.COMMON.old#L4447-L4505](https://github.com/stoicsurgeon/EQGRP_Linux/blob/33810162273edda807363237ef7e7c5ece3e4100/Linux/doc/old/etc/user.mission.generic.COMMON.old#L4447-L4505)
+Source: [https://github.com/CybernetiX-S3C/EQGRP_Linux/blob/33810162273edda807363237ef7e7c5ece3e4100/Linux/doc/old/etc/user.mission.generic.COMMON.old#L4447-L4505](https://github.com/CybernetiX-S3C/EQGRP_Linux/blob/33810162273edda807363237ef7e7c5ece3e4100/Linux/doc/old/etc/user.mission.generic.COMMON.old#L4447-L4505)
 
 
