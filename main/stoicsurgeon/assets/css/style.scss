@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+code {
+	white-space: -moz-pre-wrap; /* Mozilla */
+}
+
+.container {
+	max-width: 1000px;
+}
