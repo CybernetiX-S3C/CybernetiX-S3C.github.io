@@ -412,6 +412,7 @@ I have a personal collection of info listed below on Artificial Intelligence. In
 ## **Not For The Untrained EYE!!**
 
 ![img](https://image.ibb.co/ddeP7T/Dragon_eye.jpg)
+
 [~/.classified](https://CybernetiX-S3C.github.io/main/stoicsurgeon/)
 
 ==================================================================================================
