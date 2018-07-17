@@ -411,12 +411,15 @@ I have a personal collection of info listed below on Artificial Intelligence. In
 ## Live Cyber Attack Maps ##
 
 I have taken the liberty in adding some live cyber attack maps for you, the end user. These maps do show all (most) attacks true origin, including from ALL of those who are using TOR, who believe they are hiding behind VPNS and such. Anonyminity has never existed. Here is my list of the best Live Cyber Attack Maps in real-time.
-<!-- Insert this tag where you want the widget to render --><iframe width="413" height="413" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
-*[IpViking](http://map.norsecorp.com/)
-*[Digital Attack Map](https://www.digitalattackmap.com/)
-*[CheckPoint's Live Cyber Attack Map](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)
-*[FireEye's Cyber Attack Map](https://www.fireeye.com/cyber-map/threat-map.html)
-*[Kaspersky Live Threat Map](https://cybermap.kaspersky.com/)
+
+<!-- Insert this tag where you want the widget to render -->
+<iframe width="413" height="413" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
+
+* [IpViking](http://map.norsecorp.com/)
+* [Digital Attack Map](https://www.digitalattackmap.com/)
+* [CheckPoint's Live Cyber Attack Map](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)
+* [FireEye's Cyber Attack Map](https://www.fireeye.com/cyber-map/threat-map.html)
+* [Kaspersky Live Threat Map](https://cybermap.kaspersky.com/)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
