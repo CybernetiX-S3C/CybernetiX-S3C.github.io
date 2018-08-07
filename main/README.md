@@ -50,7 +50,9 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
     
 * >[13. Facial Recon](https://CybernetiX-S3C.github.io/main/Facial-Recon-master)
 
-* >[14. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+* >[14. Trity](https://cybernetix-s3c.github.io/main/Trity/)
+
+* >[15. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
 
 
 # **Repositories**
@@ -396,6 +398,37 @@ $ git clone https://github.com/CybernetiX-S3C/Facial-Recon-master
 $ cd Facial-Recon-master && sudo pip3 install -r requirements.txt
 $ sudo pip3 install --upgrade beautifulsoup4 html5lib spry
 ```
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **14. Trity**
+
+Trity is an advanced pentesting framework dedicated to everything from cryptography to spoofing. Click the [link](https://CybernetiX-S3C.github.io/main/Trity) below to find out more.
+[Trity](https://CybernetiX-S3C.github.io/main/Trity)
+'''
+## Installation & Usage
+
+In order to install this program, it is crucial that you are on a Linux-based distro, preferably Kali-Linux.
+
+# ★ Download
+
+● git clone https://github.com/CybernetiX-S3C/Trity.git
+
+Change directory, and then run the installer script (Must be root or have superuser permissions):
+
+# ★ Usage
+
+cd path/to/Trity
+sudo python install.py
+
+The install.py script will install of the necessary dependencies for you. Other platforms will be supported in the future.
+
+Once finished, execute with:
+
+sudo trity
+'''
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 ==================================================================================================
 
