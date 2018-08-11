@@ -427,6 +427,8 @@ Once finished, execute with:
 
 sudo trity
 '''
+### Video Tutroial
+[Trity](https://youtu.be/JlLKUVzTkOk)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
