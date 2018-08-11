@@ -30,6 +30,9 @@ Once finished, execute with:
 
 To use the clickjacking options, add your links to the /opt/trity/sites.txt file first.
 
+### Video Tutroial
+[Trity](https://youtu.be/JlLKUVzTkOk)
+
 ### Issues?
 
 If you have any issues regarding the source code of this framework, as well as any errors you have encountered, please contact me at 
