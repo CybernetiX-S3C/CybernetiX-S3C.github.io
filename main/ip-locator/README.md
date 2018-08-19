@@ -1,5 +1,4 @@
 ### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/CybernetiX-S3C/ip-locator/)
 
 ## IP Locator
 # Author : John Modica @ CybernetiX S3C
