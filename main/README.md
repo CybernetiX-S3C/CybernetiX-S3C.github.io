@@ -409,7 +409,7 @@ $ sudo pip3 install --upgrade beautifulsoup4 html5lib spry
 
 Trity is an advanced pentesting framework dedicated to everything from cryptography to spoofing. Click the [link](https://CybernetiX-S3C.github.io/main/Trity) below to find out more.
 [Trity](https://CybernetiX-S3C.github.io/main/Trity)
-'''
+```
 ## Installation & Usage
 
 In order to install this program, it is crucial that you are on a Linux-based distro, preferably Kali-Linux.
@@ -430,7 +430,7 @@ The install.py script will install of the necessary dependencies for you. Other 
 Once finished, execute with:
 
 sudo trity
-'''
+```
 ### Video Tutroial
 [Trity](https://youtu.be/JlLKUVzTkOk)
 
