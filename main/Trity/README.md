@@ -8,6 +8,7 @@
 # Trity
 Trity is an advanced pentesting framework dedicated to everything from cryptography to spoofing.
 
+'''
 ## Installation & Usage
 
 In order to install this program, it is crucial that you are on a __Linux-based__ distro, preferably __Kali-Linux__.
@@ -26,7 +27,7 @@ The `install.py` script will install of the necessary dependencies for you. Othe
 Once finished, execute with:
 
     sudo trity
-
+'''
 
 To use the clickjacking options, add your links to the /opt/trity/sites.txt file first.
 
