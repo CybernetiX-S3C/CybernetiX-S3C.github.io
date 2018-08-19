@@ -52,7 +52,11 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[14. Trity](https://cybernetix-s3c.github.io/main/Trity/)
 
-* >[15. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+* >[15. GEO Trace](https://cybernetix-s3c.github.io/main/GEO_Trace/)
+
+* >[16. Target IP](https://cybernetix-s3c.github.io/main/Target_IP)
+
+* >[17. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
 
 
 # **Repositories**
@@ -431,6 +435,51 @@ sudo trity
 [Trity](https://youtu.be/JlLKUVzTkOk)
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+## **15. GEO Trace **
+
+This is a simple script to gathetr information such as geolocation on an IP or gather info on a domain. 
+
+[GEO_Trace](https://cybernetix-s3c.github.io/main/GEO_Trace)
+```markdown
+## Download:
+
+● git clone https://github.com/CybernetiX-S3C/Geo_Trace
+
+#  How to use:
+
+cd GEO_Trace
+chmod +x geo_trace.py
+
+usage: geo-trace.py [-h] [--url URL] [-t IP] [--dat DATFILE]
+
+Geo-IP Location Tool
+
+optional arguments:
+  -h, --help          show this help message and exit
+  --url URL           Locate an IP via URL
+  -t IP, --target IP  Locate the specified IP
+  --dat DATFILE       Custom database filepath
+
+```
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **16. Target IP**
+
+This Script Is Able To Get Reverse DNS, GeoIP, NMAP, Traceroute, While Pulling HTTP Headers For Any IP address.
+
+```markdown
+## ★ Download:
+
+● git clone https://github.com/CybernetiX-S3C/Target_IP
+
+# ★ How to use:
+
+cd Target_IP
+chmod +x Target_IP.py
+./Target_IP.py 
+
+```
 
 ==================================================================================================
 
