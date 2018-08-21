@@ -28,3 +28,6 @@ optional arguments:
   --dat DATFILE       Custom database filepath
 
 ```
+
+## Tutorial
+[GEO Trace](https://youtu.be/spzJWvWyfLI)
