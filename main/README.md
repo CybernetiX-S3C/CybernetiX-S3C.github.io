@@ -58,7 +58,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[17. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
 
-* >[18. Awesome Hacking](https://cybernetix.github.io/main/Awsome-Hacking)
+* >[18. Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
 
 # **Repositories**
 
@@ -501,7 +501,7 @@ I have a personal collection of info listed below on Artificial Intelligence. In
 
 This is a great collection of a collection I found on github. It consists of all kinds of info, videos, courses and websites on things like vehicle security, malware analysis, infosec, honeypots, and many more.
 
-[18. Awesome Hacking](https://cybernetix.github.io/main/Awsome-Hacking)
+[18. Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
 
 --------------------------------------------------------------------------------------------------------------------------------
 ## Live Cyber Attack Maps ##
