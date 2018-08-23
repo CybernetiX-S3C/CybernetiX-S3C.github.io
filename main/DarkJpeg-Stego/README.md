@@ -25,3 +25,7 @@ Main features:
 - [See also](https://github.com/CybernetiX-S3C/darkjpeg/blob/master/NOTES.md#see-also)
 - [Thanks](https://github.com/CybernetiX-S3C/darkjpeg/blob/master/NOTES.md#thanks-to)
 - [License](https://github.com/CybernetiX-S3C/darkjpeg/blob/master/NOTES.md#license)
+
+
+### Tutorial
+[DarkeJpeg-Stego](https://www.youtube.com/watch?v=cMqzRh_G7GM)
