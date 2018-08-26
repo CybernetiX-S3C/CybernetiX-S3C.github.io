@@ -1,5 +1,5 @@
 # [Home](https://CybernetiX-S3C.github.io)
-[![Badge](https://img.shields.io/badge/Welcome%20to-CybernetiX--S3C-brightgreen.svg)
+![Badge](https://img.shields.io/badge/Welcome%20to-CybernetiX--S3C-brightgreen.svg)
 [![License](http://img.shields.io/:license-gpl3-blue.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ```markdown
