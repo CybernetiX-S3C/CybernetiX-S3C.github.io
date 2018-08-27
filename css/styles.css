@@ -73,13 +73,13 @@ main > .tagline {
     margin-top: 89px;
 }
 
-.icon_middle {
+.icons_social {
         width:50px;
     float: center;
     width: 100px;
     height: 85px;
 }
-.icon_middle span {
+.icons_social span {
     display:block;
 }
 .sidebar-social a:hover i.fa-main { color:cyan; }
