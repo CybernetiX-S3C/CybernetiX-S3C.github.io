@@ -12,3 +12,64 @@ main {
 .icons-social a svg path{
 	fill: cyan;
 }
+.sidebar-social {
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-social ul {
+    margin: 0;
+    padding: 5px;
+}
+
+.sidebar-social li {
+	  text-align: center;
+    width: 31.9%;
+    margin-bottom: 3px!important;
+    background-color: #fff;
+    border: 1px solid #eee;
+    display: inline-block;
+    font-size: 10px;
+    padding:0;
+}
+
+.sidebar-social i {
+  display: block;
+  margin: 0 auto 10px auto;
+	width: 32px;
+    height: 32px;
+    margin: 10px auto 0;
+    line-height: 32px;
+    text-align: center;
+    font-size: 20px;
+    color: cyan;
+  margin-top:0;
+  padding-top:5px;
+}
+.sidebar-social a{
+  text-decoration:none;
+  width:100%;
+  height:100%;
+  display:block;
+  margin:0;
+  padding:0;
+}
+
+.sidebar-social a span{
+  color:cyan;
+  font-size:10px;
+  padding:5px 0 10px 0;
+  display:block;
+  text-transform:uppercase;
+  font-family:'Josefin Sans';
+  letter-spacing:1px;
+}
+
+.sidebar-social a:hover i.fa-main { color:cyan; }
+.sidebar-social a:hover i.fa-LinkedIn { color:cyan }
+.sidebar-social a:hover i.fa-Medium { color:cyan }
+.sidebar-social a:hover i.fa-YouTube { color:cyan }
+.sidebar-social a:hover i.fa-Facebook { color:cyan }
+.sidebar-social a:hover i.fa-DarkJpeg { color:cyan }
+.sidebar-social a:hover i.fa-Encrypted Crack { color:cyan }
+.sidebar-social a:hover i.fa-Slack { color:cyan }
