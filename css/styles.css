@@ -66,6 +66,22 @@ main > .tagline {
 .icons-social i {
 	padding: 10px;
 }
+#middle {
+    margin: 0 auto;
+    width: 1050px;
+    height: 175px;
+    margin-top: 89px;
+}
+
+.icon_middle {
+        width:50px;
+    float: right;
+    width: 100px;
+    height: 85px;
+}
+.icon_middle span {
+    display:block;
+}
 .sidebar-social i {
   display: block;
   margin: 0 auto 10px auto;
