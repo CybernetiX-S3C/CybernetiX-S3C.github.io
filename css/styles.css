@@ -59,6 +59,15 @@ main > .tagline {
 	padding: 10px;
 }
 
+.sidebar-social a span{
+  color:black;
+  font-size:10px;
+  padding:5px 0 10px 0;
+  display:block;
+  text-transform:uppercase;
+  font-family:'Josefin Sans';
+  letter-spacing:1px;
+}
 .devto {
 	margin-bottom: -0.20rem;
 }
