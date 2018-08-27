@@ -88,6 +88,18 @@ main > .tagline {
   font-family:'Josefin Sans';
   letter-spacing:1px;
 }
+
+
+.sidebar-social a:hover i.fa-main { color:cyan; }
+.sidebar-social a:hover i.fa-LinkedIn { color:cyan }
+.sidebar-social a:hover i.fa-Medium { color:cyan }
+.sidebar-social a:hover i.fa-YouTube { color:cyan }
+.sidebar-social a:hover i.fa-Facebook { color:cyan }
+.sidebar-social a:hover i.fa-DarkJpeg { color:cyan }
+.sidebar-social a:hover i.fa-Encrypted Crack { color:cyan }
+.sidebar-social a:hover i.fa-Slack { color:cyan }	
+
+}	
 .devto {
 	margin-bottom: -0.20rem;
 }
