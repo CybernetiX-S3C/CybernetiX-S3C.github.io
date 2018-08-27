@@ -32,6 +32,27 @@ html {
 	font-size: 3em;
 }
 
+.sidebar-social i {
+  display: block;
+  margin: 0 auto 10px auto;
+	width: 32px;
+    height: 32px;
+    margin: 10px auto 0;
+    line-height: 32px;
+    text-align: center;
+    font-size: 20px;
+    color: Cyan;
+  margin-top:0;
+  padding-top:5px;
+}
+.sidebar-social a{
+  text-decoration:none;
+  width:100%;
+  height:100%;
+  display:block;
+  margin:0;
+  padding:0;
+
 /* Custom Styles */
 
 main {
@@ -67,7 +88,7 @@ main > .tagline {
     line-height: 32px;
     text-align: center;
     font-size: 20px;
-    color: #444444;
+    color: cyan;
   margin-top:0;
   padding-top:5px;
 }
