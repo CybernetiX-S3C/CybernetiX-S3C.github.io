@@ -139,3 +139,7 @@ display:inline-block;
 .btn:hover {
     background-color: RoyalBlue;
 }
+button{
+  margin:auto;
+  display:block;
+}
