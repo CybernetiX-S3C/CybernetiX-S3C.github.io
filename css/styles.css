@@ -126,20 +126,22 @@ main>.tagline {
 .icons-social a{
 display:inline-block;
 }
+
 .btn {
     background-color: cyan;
     border: 3d;
     color: black;
     padding: 12px 30px;
     cursor: pointer;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 22%;
     font-size: 20px;
-}
-
+    display:block;
+    width 20%
+  
 /* Darker background on mouse-over */
 .btn:hover {
     background-color: RoyalBlue;
 }
-button{
-  margin:auto;
-  display:block;
-}
+
