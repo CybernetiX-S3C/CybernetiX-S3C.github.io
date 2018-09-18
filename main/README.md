@@ -56,9 +56,11 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[16. Target IP](https://cybernetix-s3c.github.io/main/Target_IP)
 
-* >[17. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+* >[17. Predator](https://cybernetix-s3c.github/main/Predator)
 
-* >[18. Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
+* >[18. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+
+* >[19. Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
 
 # **Repositories**
 
@@ -437,7 +439,7 @@ sudo trity
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **15. GEO Trace **
+## **15. GEO Trace**
 
 This is a simple script to gathetr information such as geolocation on an IP or gather info on a domain. 
 
@@ -486,6 +488,62 @@ chmod +x Target_IP.py
 ```
 ## Tutorial
 [Target IP](https://youtu.be/HZwgw2-q_kg)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **17. Predator**
+
+Predator was written out of frustration from using Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE scripts for password guessing attacks. I opted for a different approach in order to not create yet another brute-forcing tool and avoid repeating the same shortcomings. Predator is a multi-threaded tool written in Python, that strives to be more reliable and flexible than his fellow predecessors.
+
+[Predator](https://cybernetix-s3c.github/main/Predator)
+
+Currently it supports the following modules:
+```
+* ftp_login     : Brute-force FTP
+* ssh_login     : Brute-force SSH
+* telnet_login  : Brute-force Telnet
+* smtp_login    : Brute-force SMTP
+* smtp_vrfy     : Enumerate valid users using the SMTP VRFY command
+* smtp_rcpt     : Enumerate valid users using the SMTP RCPT TO command
+* finger_lookup : Enumerate valid users using Finger
+* http_fuzz     : Brute-force HTTP/HTTPS
+* pop_login     : Brute-force POP
+* pop_passd     : Brute-force poppassd (not POP3)
+* imap_login    : Brute-force IMAP
+* ldap_login    : Brute-force LDAP
+* smb_login     : Brute-force SMB
+* smb_lookupsid : Brute-force SMB SID-lookup
+* rlogin_login  : Brute-force rlogin
+* vmauthd_login : Brute-force VMware Authentication Daemon
+* mssql_login   : Brute-force MSSQL
+* oracle_login  : Brute-force Oracle
+* mysql_login   : Brute-force MySQL
+* mysql_query   : Brute-force MySQL queries
+* rdp_login     : Brute-force RDP (NLA)
+* pgsql_login   : Brute-force PostgreSQL
+* vnc_login     : Brute-force VNC
+* dns_forward   : Brute-force DNS
+* dns_reverse   : Brute-force DNS (reverse lookup subnets)
+* ike_enum      : Enumerate IKE transforms
+* snmp_login    : Brute-force SNMPv1/2 and SNMPv3
+* unzip_pass    : Brute-force the password of encrypted ZIP files
+* keystore_pass : Brute-force the password of Java keystore files
+* umbraco_crack : Crack Umbraco HMAC-SHA1 password hashes
+```
+Predator is NOT script-kiddie friendly, please read the README inside predator.py before reporting.
+
+```markdown
+## ★ Download:
+
+● git clone https://github.com/CybernetiX-S3C/Predator
+
+# ★ How to use:
+
+cd Predator
+chmod +x Predator.py
+./Predator.py -h
+
+```
 
 ==================================================================================================
 
