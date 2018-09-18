@@ -56,7 +56,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[16. Target IP](https://cybernetix-s3c.github.io/main/Target_IP)
 
-* >[17. Predator](https://cybernetix-s3c.github/main/Predator)
+* >[17. Predator](https://cybernetix-s3c.github.io/main/Predator)
 
 * >[18. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
 
@@ -495,7 +495,7 @@ chmod +x Target_IP.py
 
 Predator was written out of frustration from using Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE scripts for password guessing attacks. I opted for a different approach in order to not create yet another brute-forcing tool and avoid repeating the same shortcomings. Predator is a multi-threaded tool written in Python, that strives to be more reliable and flexible than his fellow predecessors.
 
-[Predator](https://cybernetix-s3c.github/main/Predator)
+[Predator](https://cybernetix-s3c.github.io/main/Predator)
 
 Currently it supports the following modules:
 ```
