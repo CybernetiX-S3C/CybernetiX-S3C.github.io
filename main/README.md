@@ -58,9 +58,11 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[17. Predator](https://cybernetix-s3c.github.io/main/Predator)
 
-* >[18. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+* >[18. Squirt](https://cybernetiX-S3C.github.io/main/Squirt)
 
-* >[19. Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
+* >[19. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+
+* >[20. Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
 
 # **Repositories**
 
@@ -543,6 +545,48 @@ cd Predator
 chmod +x Predator.py
 ./Predator.py -h
 
+```
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **18. Squirt**
+
+Squirt is an offensive information and vulnerability scanner.
+
+### Features
+
+Just supply a domain name to Squirt and it will automatically do the following for you:
+
+
+- [x] Check and Bypass Cloudflare
+- [x] Retrieve Server and Powered by Headers
+- [x] Fingerprint the operating system of Web Server
+- [x] Detect CMS (197+ CMSs are supported)
+- [x] Launch WPScan if target is using Wordpress
+- [x] Retrieve robots.txt
+- [x] Whois lookup
+- [x] Check if the target is a honeypot
+- [x] Port Scan with banner grabbing
+- [x] Dumps all kind of DNS records
+- [x] Generate a map for visualizing the attack surface
+- [x] Gather Emails related to the target
+- [x] Find websites hosted on the same web server
+- [x] Find hosts using google
+- [x] Crawl the website for URLs having parameters
+- [x] SQLi scan using online implemention of SQLMap (takes < 3 min.)
+- [x] Basic XSS scanning
+[Squirt](https://cybernetix-s3c.github.io/main/Squirt)
+
+```
+## ★ Download:
+
+● git clone https://github.com/CybernetiX-S3C/Squirt
+
+# ★ How to use:
+
+cd Squirt
+pip install -r requirements.txt
+python Squirt.py
 ```
 
 ==================================================================================================
