@@ -1,3 +1,6 @@
+
+![](https://blog.flamingtext.com/blog/2018/09/22/flamingtext_com_1537660309_1017233181.gif)
+
 Predator was written out of frustration from using Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE scripts for password guessing attacks. I opted for a different approach in order to not create yet another brute-forcing tool and avoid repeating the same shortcomings. Predator is a multi-threaded tool written in Python, that strives to be more reliable and flexible than his fellow predecessors.
 
 Currently it supports the following modules:
