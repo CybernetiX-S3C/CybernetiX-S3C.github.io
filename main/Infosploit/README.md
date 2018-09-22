@@ -1,5 +1,6 @@
 ### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/CybernetiX-S3C/Infosploit)
+![](https://blog.flamingtext.com/blog/2018/09/22/flamingtext_com_1537659713_1017233179.gif)
 
 # ★ InfoSploit . version 1.0 | 
 
