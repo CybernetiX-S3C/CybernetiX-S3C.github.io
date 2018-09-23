@@ -1,3 +1,5 @@
+### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
+
 
 ![](https://blog.flamingtext.com/blog/2018/09/22/flamingtext_com_1537660309_1017233181.gif)
 
