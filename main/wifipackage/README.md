@@ -1,6 +1,6 @@
 ### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
 
-![](https://blog.flamingtext.com/blog/2018/09/23/flamingtext_com_1537720458_1017233229.png)
+![](https://blog.flamingtext.com/blog/2018/09/23/flamingtext_com_1537720698_1017233232.png)
 
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/CybernetiX-S3C/wifipackage/)
 
