@@ -1,6 +1,6 @@
 ### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
 
-![](https://blog.flamingtext.com/blog/2018/09/22/flamingtext_com_1537660309_1017233181.gif)
+![](https://blog.flamingtext.com/blog/2018/09/23/flamingtext_com_1537661441_1017233184.gif)
 
 ![Python 3.5](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
 ![OS Linux](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
