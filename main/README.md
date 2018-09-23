@@ -30,7 +30,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/main/ip-locator)
 
-* >[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/main/SK-WPS-Cracker)
+* >[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/main/SK-WC-Cracker)
 
 * >[5. Speedtest-Cli](https://cybernetix-s3c.github.io/main/Speedtest-cli/)
 
@@ -166,7 +166,7 @@ SCRIPT KIDDIE WPS CRACKER [SK-WC] is a small tool based on the bash script langu
 and some commands, in automatic way to do its job. Enjoy
 Click the [link](https://CybernetiX-S3C.GitHub.io/main/SK-WPS-Cracker) below to grab the source, or use the directions in the box to download the source directly in your terminal.
 
-[SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/main/SK-WPS-Cracker)
+[SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/main/SK-WC-Cracker)
 
 ```markdown
 # ★ Download:
