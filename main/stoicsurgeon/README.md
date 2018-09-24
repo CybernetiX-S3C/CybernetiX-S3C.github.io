@@ -1,6 +1,6 @@
 ### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
 
-![](http://funkyimg.com/i/2Lv2F.gif)
+![](http://funkyimg.com/i/2Lv2T.gif)
 
 [STOIC SURGEON](https://CybernetiX-S3C.github.io/main/stoicsurgeon)
 [RESEARCH](https://CybernetiX-S3C.github.io/main/stoicsurgeon/research)
