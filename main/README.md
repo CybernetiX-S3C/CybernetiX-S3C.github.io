@@ -76,24 +76,51 @@ Click the [link](https://CybernetiX-S3C.GitHub.io/main/Infosploit) below to go d
 [InfoSploit](https://CybernetiX-S3C.GitHub.io/main/Infosploit) 
 
 ```markdown
-# ★ Download:
+# Option 1 (Git Clone/Install)
 
-● git clone https://github.com/CybernetiX-S3C/Infosploit
+## ★ Download:
 
-# ★ How to use:
+● git clone https://github.com/CybernetiX-S3C/InfoSploit
 
-unzip Infosploit.zip
-cd Infosploit
+## ★ How to use:
+
+cd InfoSploit
+
 chmod +x install
 ./install
 
-Run in Terminal
+Run in Terminal 
 
 Infosploit
 
 (To run in Android you do not install file Run direct python2 Infosploit)
-```
-# Tutorial
+
+# Option 2 (wget/dpkg)
+
+## Download
+
+wget https://github.com/CybernetiX-S3C/InfoSploit/blob/master/infosploit_1.0-1_amd64.deb
+
+## Install
+
+dpkg -i infosploit_1.0-1_amd64.deb 
+
+## Option 3 (Snap)
+
+## Install Snapd
+
+apt install snapd
+
+## Enable && Start snapd
+
+systemctl enable snapd
+systemctl start snapd
+
+## Using Snap to install Infosploit
+
+snap install infosploit --stable
+
+```# Tutorial
 [Tutorial](https://www.youtube.com/watch?v=-6aV9LLF8NQ&t=9s)
 
 --------------------------------------------------------------------------------------------------------------------------------
