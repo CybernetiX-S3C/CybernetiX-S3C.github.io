@@ -10,13 +10,16 @@
 InfoSploit is a simple python script to Information Gathering 
 
 ```markdown
+# Option 1 (Git Clone/Install)
+
 ## ★ Download:
 
 ● git clone https://github.com/CybernetiX-S3C/InfoSploit
 
-# ★ How to use:
+## ★ How to use:
 
 cd InfoSploit
+
 chmod +x install
 ./install
 
@@ -25,6 +28,32 @@ Run in Terminal
 Infosploit
 
 (To run in Android you do not install file Run direct python2 Infosploit)
+
+# Option 2 (wget/dpkg)
+
+## Download
+
+wget https://github.com/CybernetiX-S3C/InfoSploit/blob/master/infosploit_1.0-1_amd64.deb
+
+## Install
+
+dpkg -i infosploit_1.0-1_amd64.deb 
+
+## Option 3 (Snap)
+
+## Install Snapd
+
+apt install snapd
+
+## Enable && Start snapd
+
+systemctl enable snapd
+systemctl start snapd
+
+## Using Snap to install Infosploit
+
+snap install infosploit --stable
+
 ```
 ## ★ Properties :
 
