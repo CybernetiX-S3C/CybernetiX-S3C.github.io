@@ -1,3 +1,5 @@
+### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
+
 ![](https://i.ibb.co/Z8ZQL4P/coollogo-com-27857128.png)
 
 # About Truth 4.2
