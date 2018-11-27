@@ -1,0 +1,8 @@
+
+argparse
+dnspython
+requests
+urllib3
+python-whois
+whois
+
