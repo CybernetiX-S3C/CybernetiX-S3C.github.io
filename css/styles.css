@@ -144,5 +144,25 @@ display:inline-block;
 .btn:hover {
     background-color: RoyalBlue;
 }
+  
+  
+body{margin:0;height:100%;}
+canvas{
+    position:absolute;top:0;left:0
+    background-image: hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    background-image: -o-hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    background-image: -moz-hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    background-image: -webkit-hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    background-image: -ms-hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    
+    background-image: -webkit-hidden(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0, rgb(105,173,212)),
+        color-stop(0.84, rgb(23,82,145))
+    );
+}
+
 
   
