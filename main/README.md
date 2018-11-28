@@ -623,12 +623,14 @@ cd Squirt
 pip install -r requirements.txt
 python Squirt.py
 ```
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## **19. ID-OSNIT**
 
 Initial attack vectors for recon usually involve utilizing pay-for-data/API (Recon-NG), or paying to utilize transforms (Maltego) to get data mining results. ID-OSNIT utilizes some basic python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
 
+[ID-OSNIT](https://cybernetix-s3c.github.io/main/ID-OSNIT)
 ```
 ## ★ Download:
 
@@ -641,12 +643,14 @@ pip install -r requirements.txt
 
 python ID-OSNIT.py -l (phone|email|sn|name|plate)
 ```
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## **20. E-ntel**
 
 E-ntel is a tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using hacked-emails API. Is a really simple tool, but very effective for the early stages of a penetration test or just to know the visibility of your company in the Internet.
 
+[E-ntel](https://cybernetix-s3c.github.io/main/E-ntel)
 ```
 ## ★ Download:
 
@@ -669,11 +673,12 @@ python3 E-ntel.py
 
 python3 E-ntel.py --domain cia.gov --source google --verbose 3
 ```
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## **21. Truth**
 
-Information Gathering tool for a Website or IP address. I have used pieces from my <a href="Snapcraft.io/infosploit" target="_blank"><span style="color: blue">Infosploit</span></a> and my latest E-ntel.
+Information Gathering tool for a Website or IP address. I have used pieces from my [Infosploit](Snapcraft.io/infosploit) and my latest [E-ntel](https://cybernetix-s3c.github.io/main/E-ntel).
 Truth can work in any operating system if they have and support Python 2, Python 3, and Ruby.
 
 # Features
@@ -697,7 +702,9 @@ Truth can work in any operating system if they have and support Python 2, Python
  * Check and Bypass CloudFlare (use HatCloud)
  * Website Copier (use httrack) NEW!
  * Host Info Scanner (use WhatWeb) NEW!
- 
+
+[Truth](https://cybernetix-s3c.github.io/main/Truth)
+
 # Install and Run in Linux
 ```
     sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
