@@ -64,7 +64,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[20. E-ntel](https://cybernetiX-S3C.github.io/main/E-ntel)
 
-* >[21. Truth](https://cybernetiX-S3C.github.io/main/Squirt)
+* >[21. Truth](https://cybernetiX-S3C.github.io/main/Truth)
 
 ## **EXTRAS**
 
@@ -623,6 +623,7 @@ cd Squirt
 pip install -r requirements.txt
 python Squirt.py
 ```
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## **19. ID-OSNIT**
 
@@ -640,6 +641,7 @@ pip install -r requirements.txt
 
 python ID-OSNIT.py -l (phone|email|sn|name|plate)
 ```
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## **20. E-ntel**
 
@@ -667,10 +669,59 @@ python3 E-ntel.py
 
 python3 E-ntel.py --domain cia.gov --source google --verbose 3
 ```
+--------------------------------------------------------------------------------------------------------------------------------
 
+## **21. Truth**
 
+Information Gathering tool for a Website or IP address. I have used pieces from my <a href="Snapcraft.io/infosploit" target="_blank"><span style="color: blue">Infosploit</span></a> and my latest E-ntel.
+Truth can work in any operating system if they have and support Python 2, Python 3, and Ruby.
 
+# Features
+ * DNS Lookup 
+ * Whois Lookup
+ * GeoIP Lookup
+ * Subnet Lookup
+ * Port Scanner
+ * Page Links
+ * Zone Transfer
+ * HTTP Header
+ * Host Finder
+ * IP-Locator
+ * Find Shared DNS Servers
+ * Get Robots.txt
+ * Host DNS Finder
+ * Reserve IP Lookup
+ * Email Gathering (use E-ntel) New!
+ * Subdomain listing (use Sublist3r)
+ * Find Admin login site (use Breacher)
+ * Check and Bypass CloudFlare (use HatCloud)
+ * Website Copier (use httrack) NEW!
+ * Host Info Scanner (use WhatWeb) NEW!
+ 
+# Install and Run in Linux
+```
+    sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
+    sudo apt install httrack whatweb
+    git clone https://github.com/CybernetiX-S3C/Truth
+    cd Truth
+    pip install -r requirements.txt
+    pip3 install -r requirements.txt
+    python3 truth.py
+```    
+# Install and Run in Windows
 
+Download and run Git setup file from <a href="https://Git-scm.com" target="_blank"><span style="color: blue">Git-scm.com</span></a>, choose <strong>Use Git from Windows Command Propmt</strong>.
+
+Afther that, Run Command Propmt and enter this commands:
+```
+git clone https://github.com/CybernetiX-S3C/Truth
+
+cd Truth
+pip install -r requirements.txt
+pip3 install -r requirements.txt
+
+python3 truth.py
+```
 
 
 ==================================================================================================
@@ -687,7 +738,7 @@ I have a personal collection of info listed below on Artificial Intelligence. In
 
 This is a great collection of a collection I found on github. It consists of all kinds of info, videos, courses and websites on things like vehicle security, malware analysis, infosec, honeypots, and many more.
 
-[18. Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
+[Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
 
 --------------------------------------------------------------------------------------------------------------------------------
 ## Live Cyber Attack Maps ##
