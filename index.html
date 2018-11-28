@@ -1,35 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
-        
+<canvas id="canvas"></canvas>
 
-	<title>John Modica | CybernetiX S3C</title>
+<style>
 
-	<link rel="icon" href="favicon.ico" type="image/png" />
+body{margin:0;height:100%;}
+canvas{
+    position:absolute;top:0;left:0
+    background-image: hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    background-image: -o-hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    background-image: -moz-hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    background-image: -webkit-hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    background-image: -ms-hidden(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
+    
+    background-image: -webkit-hidden(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0, rgb(105,173,212)),
+        color-stop(0.84, rgb(23,82,145))
+    );
+}
 
-
-	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
-	<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
-	<link rel="stylesheet" href="css/reset.css">
-	<link rel="stylesheet" href="css/styles.css">
-	<!-- <link rel="stylesheet" href="css/themes/indigo-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/green-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/red-white.css"> -->
-	<link rel="stylesheet" href="css/themes/grey-white.css">
-	<!-- <link rel="stylesheet" href="css/themes/white-indigo.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-blue.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-grey.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-red.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/yellow-black.css"> -->
-</head>
-<body>
-	<main>
-		<canvas id="canvas"></canvas>
-		<script>
-			(function() {
+</style>
+<script>
+(function() {
     var requestAnimationFrame = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame ||
     function(callback) {
         window.setTimeout(callback, 1000 / 60);
@@ -145,7 +141,37 @@ window.addEventListener("resize",function(){
 })
 
 init();
-			</script>
+</script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+        
+
+	<title>John Modica | CybernetiX S3C</title>
+
+	<link rel="icon" href="favicon.ico" type="image/png" />
+
+
+	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
+	<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<!-- <link rel="stylesheet" href="css/themes/indigo-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/green-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/red-white.css"> -->
+	<link rel="stylesheet" href="css/themes/grey-white.css">
+	<!-- <link rel="stylesheet" href="css/themes/white-indigo.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-blue.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-grey.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-red.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/yellow-black.css"> -->
+
+
+
+</head>
+<body>
+	<main>
+
 		<p><img src="https://img.shields.io/badge/Welcome_To-CybernetiX--S3C-cyan.svg?longCache=true&style=for-the-badge" alt="Welcome" width="300px" align="middle"></p>
 		<div style="line-height:16px;text-align:center;"><a title="Ecommerce Web Page Ip Tracking" href="https://www.ipnoid.com/"><img src="//www.ipnoid.com/tracker/1404/4684NR-IPIB/21168/1/njsUrl/im/image001.jpg" alt="Ecommerce web page ip tracking" style="border:0px;"></a><div><a style="font-size:12px;text-decoration:none;" href="https://www.ipnoid.com/"> </a></div></div>
 		<div class="intro">Greetings from:</div>
