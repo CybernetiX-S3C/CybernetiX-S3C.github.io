@@ -678,7 +678,7 @@ python3 E-ntel.py --domain cia.gov --source google --verbose 3
 
 ## **21. Truth**
 
-Information Gathering tool for a Website or IP address. I have used pieces from my [Infosploit](Snapcraft.io/infosploit) and my latest [E-ntel](https://cybernetix-s3c.github.io/main/E-ntel).
+Information Gathering tool for a Website or IP address. I have used pieces from my [Infosploit](https://Snapcraft.io/infosploit) and my latest [E-ntel](https://cybernetix-s3c.github.io/main/E-ntel).
 Truth can work in any operating system if they have and support Python 2, Python 3, and Ruby.
 
 # Features
