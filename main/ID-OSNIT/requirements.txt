@@ -1,0 +1,12 @@
+python-docx
+urllib3
+bs4
+lxml
+requests
+ipdb
+pprint
+click
+cfscrape
+numpy
+simplejson
+tqdm
