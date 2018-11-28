@@ -60,9 +60,17 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[18. Squirt](https://cybernetiX-S3C.github.io/main/Squirt)
 
-* >[19. Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+* >[19. ID-OSNIT](https://cybernetiX-S3C.github.io/main/ID-OSNIT)
 
-* >[20. Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
+* >[20. E-ntel](https://cybernetiX-S3C.github.io/main/E-ntel)
+
+* >[21. Truth](https://cybernetiX-S3C.github.io/main/Squirt)
+
+## **EXTRAS**
+
+* >[Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+
+* >[Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
 
 # **Repositories**
 
