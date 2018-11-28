@@ -623,6 +623,41 @@ cd Squirt
 pip install -r requirements.txt
 python Squirt.py
 ```
+## **19. ID-OSNIT**
+
+
+
+## **20. E-ntel**
+
+E-ntel is a tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using hacked-emails API. Is a really simple tool, but very effective for the early stages of a penetration test or just to know the visibility of your company in the Internet.
+
+```
+## ★ Download:
+
+● git clone https://github.com/CybernetiX-S3C/E-ntel.git 
+cd E-ntel
+
+# ★ How to use:
+
+# Linux
+
+pip3 install requests
+python3 E-ntel.py
+
+# Windows
+
+python3 -m pip install requests 
+python3 E-ntel.py
+
+### Usage
+
+python3 E-ntel.py --domain cia.gov --source google --verbose 3
+```
+
+
+
+
+
 
 ==================================================================================================
 
