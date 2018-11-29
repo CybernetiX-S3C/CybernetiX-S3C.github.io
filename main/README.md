@@ -66,6 +66,8 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[21. Truth](https://cybernetiX-S3C.github.io/main/Truth)
 
+* >[22. Captain-Brute](https://CybernetiX-S3C.Github.io/main/Captain-Brute)
+
 ## **EXTRAS**
 
 * >[Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
@@ -729,7 +731,25 @@ pip3 install -r requirements.txt
 
 python3 truth.py
 ```
+--------------------------------------------------------------------------------------------------------------------------------
 
+## **Captain-Brute**
+
+Captain-Brute is a collection of several hacker tools from @CybernetiX S3C.
+[Captain-Brute](https://cybernetix-s3c.github.io/main/Captain-Brute)
+
+```
+## ★ Download:
+
+● git clone https://github.com/cybernetix-s3c/Captain-Brute
+
+# ★ How to use:
+
+cd Captain-Brute
+bash captain-brute
+or
+./captain-brute
+```
 
 ==================================================================================================
 
