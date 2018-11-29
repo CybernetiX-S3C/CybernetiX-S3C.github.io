@@ -8,6 +8,7 @@
 body{margin:0;height:100%;}
 canvas{
     position:absolute;top:0;left:0
+    pointer-events: none;
     background-image: (bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
     background-image: -o-(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
     background-image: -moz-(bottom, rgb(105,173,212) 0%, rgb(23,82,145) 84%);
@@ -24,21 +25,10 @@ canvas{
 }
 
 	
-	body {
-  margin: 0;
-  padding-left: 10px;
-  font: 20px Arial, sans-serif;
-  line-height: 30px;
 }
 a:hover {
   color: red;
-}
-#overlay-blocking,
-#overlay-passing{
-  position: absolute;
-  height: 30px;
-  width: 10em;
-  left: 0;
+
 }
 
 #overlay-blocking {
