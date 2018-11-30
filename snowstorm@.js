@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
-        <script src="snowstorm.js"></script>
-<script>
 /** @license
  * DHTML Snowstorm! JavaScript-based snow for web pages
  * Making it snow on the internets since 2003. You're welcome.
@@ -25,13 +16,13 @@ var snowStorm = (function(window, document) {
   // --- common properties ---
 
   this.autoStart = true;          // Whether the snow should start automatically or not.
-  this.excludeMobile = false;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) Enable at your own risk.
-  this.flakesMax = 500;           // Limit total amount of snow made (falling + sticking)
-  this.flakesMaxActive = 185;      // Limit amount of snow falling at once (less = lower CPU use)
+  this.excludeMobile = true;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) Enable at your own risk.
+  this.flakesMax = 128;           // Limit total amount of snow made (falling + sticking)
+  this.flakesMaxActive = 64;      // Limit amount of snow falling at once (less = lower CPU use)
   this.animationInterval = 33;    // Theoretical "miliseconds per frame" measurement. 20 = fast + smooth, but high CPU use. 50 = more conservative, but slower
   this.useGPU = true;             // Enable transform-based hardware acceleration, reduce CPU load.
   this.className = null;          // CSS class name for further customization on snow elements
-  this.excludeMobile = false;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) By default, be nice.
+  this.excludeMobile = true;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) By default, be nice.
   this.flakeBottom = null;        // Integer for Y axis snow limit, 0 or null for "full-screen" snow effect
   this.followMouse = true;        // Snow movement can respond to the user's mouse
   this.snowColor = '#fff';        // Don't eat (or use?) yellow snow.
@@ -674,72 +665,3 @@ var snowStorm = (function(window, document) {
   return this;
 
 }(window, document));
-	</script>
-	<title>John Modica | CybernetiX S3C</title>
-
-	<link rel="icon" href="favicon.ico" type="image/png" />
-
-
-	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
-	<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
-	<link rel="stylesheet" href="css/reset.css">
-	<link rel="stylesheet" href="css/styles.css">
-	<!-- <link rel="stylesheet" href="css/themes/indigo-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/green-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/red-white.css"> -->
-	<link rel="stylesheet" href="css/themes/grey-white.css">
-	<!-- <link rel="stylesheet" href="css/themes/white-indigo.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-blue.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-grey.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-red.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/yellow-black.css"> -->
-
-
-
-</head>
-<body>
-	<main>
-
-		<p><img src="https://img.shields.io/badge/Welcome_To-CybernetiX--S3C-red.svg?longCache=true&style=for-the-badge" alt="Welcome" width="300px" align="middle"></p>
-		<div style="line-height:16px;text-align:center;"><a title="Ecommerce Web Page Ip Tracking" href="https://www.ipnoid.com/"><img src="//www.ipnoid.com/tracker/1404/4684NR-IPIB/21168/1/njsUrl/im/image001.jpg" alt="Ecommerce web page ip tracking" style="border:0px;"></a><div><a style="font-size:12px;text-decoration:none;" href="https://www.ipnoid.com/"> </a></div></div>
-		<div class="intro">Greetings from:</div>
-		<a href="https://ibb.co/du9CxJ"><img src="https://image.ibb.co/bMZecJ/lJeA3tgA.gif" alt="lJeA3tgA" border="0"></a>
-		<div class="tagline">All-Star Dev | Code Fanatic | Linux Hacker | Cyber Security Professional</div>
-		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
-		<div class="icons-social">
-			<a target="_blank" href="https://John-Modica.github.io/" align="middle" title="John Modica" rel="nofollow"><i class="fas fa-power-off"></i><div>John Modica</div></a>
-		        <a target="_blank" href="https://CybernetiX-S3C.github.io/main" align="middle" title="Main" rel="nofollow"><i class="fab fa-github"></i><div>Main</div></a>
-  		    	<!-- <a target="_blank" href="https://twitter.com/flexdinesh"><i class="fab fa-twitter"></i></a> -->
-      			<!-- <a target="_blank" href="https://Encrypted-Crack.g"><i class="fas fa-user"></i></a> -->
-      			<a target="_blank" href="https://www.linkedin.com/in/john-modica-228219b5" align="middle" title="LinkedIn" rel="nofollow"><i class="fab fa-linkedin"></i><div>LinkedIn</div></a>
-      			<a target="_blank" href="https://medium.com/@dmferreira/interview-with-cyber-threat-specialist-john-modica-d3708b235207" align="middle" title="Medium" rel="nofollow"><i class="fab fa-medium"></i><div>Medium</div></a>
-      			<a target="_blank" href="https://www.youtube.com/channel/UCAOxHOEpTxpwpmrwy5edWHg" align="middle" title="YouTube" rel="nofollow"><i class="fab fa-youtube"></i><div>Youtube</div></a>
-      			<a target="_blank" href="https://www.facebook.com/Cyber.S3C.Professional" align="middle" title="Facebook" rel="nofollow"><i class="fab fa-facebook-f"></i><div>Facebook</div></a>
-      			<a target="_blank" href="https://DarkJpeg-Stego.github.io/" align="middle" title="DarkJpeg" rel="nofollow"><i class="fas fa-eye"></i><div>DarkJpeg</div></a>
-      			<a target="_blank" href="https://Encrypted-Crack.github.io/" align="middle" title="Encrypted Crack" rel="nofollow"><i class="fas fa-user-secret"></i><div>Encrypted-Crack</div></a>
-      			<a target="_blank" href="https://Web-Passport-Pro.github.io/" align="middle" title="Web-Passport-Pro" rel="nofollow"><i class="far fa-id-card"></i><div>Web-Passport-Pro</div></a>
-			<a target="_blank" href="https://join.slack.com/t/officialcybernetixs3c/shared_invite/enQtNDA5MzIzMzg0OTk0LWNkOTI0N2MzMWJiZDMyYjA4NWI3ODhhNmNhZDdhNTIzY2YzMDFkY2NiMGIxM2FlOWVjYTJmMzRkZDA3Y2Y1MzM" align="middle" title="Slack" rel="nofollow"><i class="fab fa-slack"></i><div>Slack</div></a>
-			<a target="_blank" href="https://ICNF-Daily.github.io/" align="middle" title="ICNF-Daily (NEW)" rel="nofollow"><i class="fas fa-rss"></i><div>ICNF-Daily (NEW)</div></a>
-			<script type="text/javascript">
-			var _sz=_sz||{};_sz.appId="20dead96",function(){var e=document.createElement("script");e.src="https://cdn.signalzen.com/signalzen.js",e.setAttribute("async","true"),document.documentElement.firstChild.appendChild(e);var t=setInterval(function(){"undefined"!=typeof SignalZen&&(clearInterval(t),new SignalZen(_sz).load())},10)}();
-			</script>
-		</div>
-		  
-		<div>
-		 
-		</div>	
-			</style>
-				</head>
-					<body>
-
-						<h2>Download</h2>
-
-						<p>Version 2 Of Our App Now Available For Android Devices: (LICENSE FIXED)</p>
-						<a class="btn" style="backgroudcolor:red;width:20%" align="middle" href="https://drive.google.com/file/d/1fv0hc-gdJeby25LY7w7AmavlbA2q_uE6/view?usp=drivesdk"><i class="fas fa-arrow-alt-circle-down"></i> CybernetiX-S3C 2(apk)</a>
-
-
-					</body>
-</html>
-	</main>
-</body>
-</html>

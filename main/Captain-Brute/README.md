@@ -1,3 +1,7 @@
+### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
+
+![](https://i.ibb.co/Rvrkkb9/coollogo-com-38951141.png)
+
 # Captain-Brute v3.5.1
 ## Author: CybernetiX-S3C.github.io
 ## FB: facebook.com/cyber.s3c.professional
