@@ -653,6 +653,10 @@ python ID-OSNIT.py -l (phone|email|sn|name|plate)
 E-ntel is a tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using hacked-emails API. Is a really simple tool, but very effective for the early stages of a penetration test or just to know the visibility of your company in the Internet.
 
 [E-ntel](https://cybernetix-s3c.github.io/main/E-ntel)
+
+## **Due to python's latest version being 3.8, it will only run on 3.6 and 3.7. If you have versons 3.6, 3.7, or 3.8 make sure to specify during the usage as follows: **
+
+## Installation
 ```
 ## ★ Download:
 
@@ -663,17 +667,31 @@ cd E-ntel
 
 # Linux
 
-pip3 install requests
-python3 E-ntel.py
+pip3.6 install -r requirements.txt
+python3.6 E-ntel.py
+
+or
+
+pip3.7 install -r requirements.txt
+python3.7 E-ntel.py
 
 # Windows
 
-python3 -m pip install requests 
-python3 E-ntel.py
+python3.6 -m pip install requests 
+python3.6 E-ntel.py
+
+or
+
+python3.7 -m pip install requests 
+python3.7 E-ntel.py
 
 ### Usage
 
-python3 E-ntel.py --domain cia.gov --source google --verbose 3
+python3.6 E-ntel.py --domain cia.gov --source google --verbose 3
+
+or
+
+python3.7 E-ntel.py --domain cia.gov --source google --verbose 3
 ```
 
 --------------------------------------------------------------------------------------------------------------------------------
