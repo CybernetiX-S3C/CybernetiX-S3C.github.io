@@ -1,5 +1,4 @@
-## ID-OSNIT - OSINT scraping framework
-![python](https://img.shields.io/badge/python-2.7-green.svg) ![version](https://img.shields.io/badge/version-0.2.0-brightgreen.svg) ![licence](https://img.shields.io/badge/license-GPLv3-lightgrey.svg) 
+## ID-OSINT - OSINT scraping framework
 
 
 Initial attack vectors for recon usually involve utilizing pay-for-data/API (Recon-NG), or paying to utilize transforms (Maltego) to get data mining results. ID-OSNIT utilizes some basic python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
@@ -8,8 +7,8 @@ Initial attack vectors for recon usually involve utilizing pay-for-data/API (Rec
 Installation
 ----
 ```
-$ git clone https://github.com/CybernetiX-S3C/ID-OSNIT.git ID-OSNIT
-$ cd ID-OSNIT
+$ git clone https://github.com/CybernetiX-S3C/ID-OSINT.git ID-OSINT
+$ cd ID-OSINT
 ```
 __Install requirements__
 ```
@@ -17,9 +16,9 @@ $ pip3 install -r requirements.txt
 ```
 __Run__
 ```
-$ python3 ID-OSNIT.py -l (phone|email|sn|name|plate)
+$ python3 ID-OSINT.py -l (phone|email|sn|name|plate)
 ```
 
 Usage
 ----
-Full details on how to use ID-OSNIT are on the wiki located [here](https://github.com/CybernetiX-S3C/ID-OSNIT/wiki)
+Full details on how to use ID-OSINT are on the wiki located [here](https://github.com/CybernetiX-S3C/ID-OSINT/wiki)
