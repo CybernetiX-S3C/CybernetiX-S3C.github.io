@@ -641,9 +641,9 @@ Initial attack vectors for recon usually involve utilizing pay-for-data/API (Rec
 # ★ How to use:
 
 cd ID-OSNIT
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
-python ID-OSNIT.py -l (phone|email|sn|name|plate)
+python3 ID-OSNIT.py -l (phone|email|sn|name|plate)
 ```
 
 --------------------------------------------------------------------------------------------------------------------------------
