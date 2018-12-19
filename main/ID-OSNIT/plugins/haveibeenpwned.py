@@ -1,5 +1,5 @@
-from __future__ import print_function
-from __future__ import absolute_import
+
+
 #
 #   haveibeenpwned scraper - returns breach name and date for email
 #
@@ -12,7 +12,7 @@ from plugins.colors import BodyColors as bc
 import ast
 import cfscrape
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except:
     import builtins as bi
 
@@ -58,4 +58,6 @@ class HaveIBeenPwwnedGrabber(PageGrabber):    # HackedEmails.com scraper for ema
             except Exception as badres:
                 print ("  ["+bc.CRED+"X"+bc.CEND+"] "+bc.CYLW+"Failed at accessing site ... Try again later ...\n"+bc.CEND)
                 return
+
+
 

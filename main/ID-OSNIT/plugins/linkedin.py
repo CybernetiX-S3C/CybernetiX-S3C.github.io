@@ -1,5 +1,5 @@
-from __future__ import print_function
-from __future__ import absolute_import
+
+
 #
 # LinkedIn Sales Module
 #
@@ -10,7 +10,7 @@ from plugins.base import PageGrabber
 from plugins.colors import BodyColors as bc
 import json
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except:
     import builtins as bi
 
@@ -51,11 +51,11 @@ class LinkedInGrabber(PageGrabber):  # LinkedIN.com sales scraper for email look
                 print ("  ["+bc.CRED+"ATTENTION"+bc.CEND+"] " + \
                              bc.CYLW + "This could produce a trail and identify the used account."+bc.CEND)
                 print()
-                savecreds = raw_input("[{}?{}] {}Would you like to save credentials now? {}(Y/n){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+                savecreds = input("[{}?{}] {}Would you like to save credentials now? {}(Y/n){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
                 print()
-                luser = raw_input("    ["+bc.CRED+"?"+bc.CEND+"] " + \
+                luser = input("    ["+bc.CRED+"?"+bc.CEND+"] " + \
                                           bc.CYLW+"What is your throw-away linkedin username: "+bc.CEND)
-                lpass = raw_input("    ["+bc.CRED+"?"+bc.CEND+"] " + \
+                lpass = input("    ["+bc.CRED+"?"+bc.CEND+"] " + \
                                           bc.CYLW+"What is your throw-away linkedin password: "+bc.CEND)
                 login_information = {
                      'session_key':luser,

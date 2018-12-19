@@ -1,4 +1,4 @@
-from __future__ import absolute_import, print_function
+
 from time import sleep
 import re
 
@@ -7,7 +7,7 @@ from plugins.base import PageGrabber
 from .colors import BodyColors as bc
 
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except ImportError:
     import builtins as bi
 
@@ -20,7 +20,7 @@ except NameError:
 class VinGrabber(PageGrabber):  # faxvin.com scraper for plate lookups
     def get_info(self, plate):  # returns information about given plate number
         print("["+bc.CPRP+"?"+bc.CEND+"] "+bc.CCYN + "FaxVin" + bc.CEND)
-        state = raw_input("  ["+bc.CRED+"!"+bc.CEND+"] "+bc.CYLW+ "Please enter 2 letter abbreviated state - ex: (AL=Alabama|CO=Colorado) "+bc.CEND).upper()
+        state = input("  ["+bc.CRED+"!"+bc.CEND+"] "+bc.CYLW+ "Please enter 2 letter abbreviated state - ex: (AL=Alabama|CO=Colorado) "+bc.CEND).upper()
         plate = plate.upper()
         url = 'https://www.faxvin.com/license-plate-lookup/result?plate={}&state={}'.format(plate,state)
         #print("URL generated: %s" %url)

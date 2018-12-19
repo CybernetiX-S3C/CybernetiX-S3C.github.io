@@ -1,4 +1,4 @@
-from __future__ import absolute_import, print_function
+
 
 #
 # TruePeopleSearch.com scraper
@@ -7,7 +7,7 @@ import re
 from plugins.base import PageGrabber
 from .colors import BodyColors as bc
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except ImportError:
     import builtins as bi
 try:
@@ -56,9 +56,9 @@ class TruthFinderGrabber(PageGrabber):
                 except Exception as e:
                     pass
         if lookup == "name":  # Make the URL for name lookup, set email to False
-            citystatezip = raw_input("[{}?{}] {}Please enter a city,state,or zip?{} [ex:(AL=Alabama|CO=Colorado){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
-            gender = raw_input("[{}?{}] {}Please enter the targets biological sex?{} [ex:(M|F){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
-            age = raw_input("[{}?{}] {}Is the person older than 30?{} [ex:(Y|n){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+            citystatezip = input("[{}?{}] {}Please enter a city,state,or zip?{} [ex:(AL=Alabama|CO=Colorado){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+            gender = input("[{}?{}] {}Please enter the targets biological sex?{} [ex:(M|F){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+            age = input("[{}?{}] {}Is the person older than 30?{} [ex:(Y|n){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
             def getlocal(citystatezip,gender,age):
                 try:
                     if citystatezip:

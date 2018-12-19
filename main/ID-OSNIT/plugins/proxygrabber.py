@@ -1,5 +1,5 @@
-from __future__ import print_function
-from __future__ import absolute_import
+
+
 from lxml.html import fromstring
 import requests
 from itertools import cycle
@@ -7,7 +7,7 @@ import traceback
 import os, random, time, random
 from .colors import BodyColors as bc
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except:
     import builtins as bi
 

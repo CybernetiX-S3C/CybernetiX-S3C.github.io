@@ -1,13 +1,13 @@
 """Whocallid.com search module"""
-from __future__ import print_function
-from __future__ import absolute_import
+
+
 
 import re
 import logging
 from plugins.base import PageGrabber
 from .colors import BodyColors as bc
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except:
     import builtins as bi
 

@@ -1,7 +1,3 @@
-### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
-
-![](https://i.ibb.co/rQyQvHp/coollogo-com-16330647.png)
-
 ## ID-OSNIT - OSINT scraping framework
 ![python](https://img.shields.io/badge/python-2.7-green.svg) ![version](https://img.shields.io/badge/version-0.2.0-brightgreen.svg) ![licence](https://img.shields.io/badge/license-GPLv3-lightgrey.svg) 
 
@@ -17,11 +13,11 @@ $ cd ID-OSNIT
 ```
 __Install requirements__
 ```
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 __Run__
 ```
-$ python ID-OSNIT.py -l (phone|email|sn|name|plate)
+$ python3 ID-OSNIT.py -l (phone|email|sn|name|plate)
 ```
 
 Usage

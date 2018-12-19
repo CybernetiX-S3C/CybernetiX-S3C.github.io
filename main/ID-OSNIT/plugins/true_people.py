@@ -1,4 +1,4 @@
-from __future__ import absolute_import, print_function
+
 
 #
 # TruePeopleSearch.com scraper
@@ -11,7 +11,7 @@ from plugins.base import PageGrabber
 from plugins.colors import BodyColors as bc
 
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except ImportError:
     import builtins as bi
 
@@ -60,8 +60,8 @@ class TruePeopleGrabber(PageGrabber):
                 except Exception as e:
                     pass
         if lookup == "name":  # Make the URL for name lookup, set email to False
-            agerange = raw_input("[{}?{}] {}Please enter an age range:{} [ex: 18-100{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
-            citystatezip = raw_input("[{}?{}] {}Please enter a city,state,or zip?{} [ex:(AL|Alabama|12345){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+            agerange = input("[{}?{}] {}Please enter an age range:{} [ex: 18-100{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+            citystatezip = input("[{}?{}] {}Please enter a city,state,or zip?{} [ex:(AL|Alabama|12345){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
             if str(information).split(' ')[1]:
                 self.url = "https://www.truepeoplesearch.com/results?name={}&agerange={}&citystatezip={}".format(str(information).replace(' ','%20'), agerange, citystatezip)
                 email = False
@@ -70,7 +70,7 @@ class TruePeopleGrabber(PageGrabber):
             self.soup = self.get_dom(self.source)
         if self.check_for_captcha() == True:  # Check responce for sign of captcha
             print(("  ["+bc.CRED+"X"+bc.CEND+"] "+bc.CYLW+"Goto: {}"+bc.CEND).format(self.url))
-            self.iscomplete = raw_input("  ["+bc.CRED+"!"+bc.CEND+"] "+bc.CYLW+ "Have you completed the CAPTCHA? "+bc.CEND)
+            self.iscomplete = input("  ["+bc.CRED+"!"+bc.CEND+"] "+bc.CYLW+ "Have you completed the CAPTCHA? "+bc.CEND)
             """if str(self.iscomplete).lower() in ['no',False,0]:
                 print("  ["+bc.CRED+"X"+bc.CEND+"] "+bc.CYLW+"User has not completed the CAPTCHA\n"+bc.CEND)
                 return

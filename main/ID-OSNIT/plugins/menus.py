@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-#!/usr/bin/env python
-from __future__ import print_function
+#!/usr/bin/env python3
+
 from plugins.banner import Logo
 from plugins.fouroneone_info import FourOneOneGrabber
 from plugins.who_call_id import WhoCallIdGrabber
@@ -27,7 +27,7 @@ def signal_handler(signal, frame):
 signal.signal(signal.SIGINT, signal_handler)
 
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except:
     import builtins as bi
 
@@ -119,7 +119,7 @@ The following section will detail specifics about the modules offered for each c
   -: Plate Search - Runs known plates through nationwide Database
 
 """)
-     not raw_input("\nPress 'ENTER' key now to continue")
+     not input("\nPress 'ENTER' key now to continue")
      self.intromenu()
     except Exception as helpfail:
      print(("Help failed: %s") & helpfail)
@@ -140,7 +140,7 @@ The following section will detail specifics about the modules offered for each c
     print('\t[{}88{}] {}Report{} - {}Generates a docx report from queries{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     print('\t[{}99{}] {}Exit{} - {}Terminate the application{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     try:
-     gselect = int(raw_input("[{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
+     gselect = int(input("[{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
     except Exception as failintro:
      print("Failed Intro: %s" % failintro)
      self.intromenu()
@@ -177,7 +177,7 @@ The following section will detail specifics about the modules offered for each c
     ReportGenerator().newdoc()
     #print("new docx created")
     ReportGenerator().addtitle('SkipTracer Report')
-    for header in bi.outdata.keys():
+    for header in list(bi.outdata.keys()):
      #print("%s Contents: %s" % (header, bi.outdata[header]))
      ReportGenerator().addheader(header, 1)
      def sorttype(feed):
@@ -189,7 +189,7 @@ The following section will detail specifics about the modules offered for each c
       try:
        if type(feed) == type(dict()):
         #print("its a dict")
-        feedkeys = feed.keys()
+        feedkeys = list(feed.keys())
         #print(feedkeys)
         for feedvalue in feedkeys:
          ReportGenerator().addheader(feedvalue, 2)
@@ -226,7 +226,7 @@ The following section will detail specifics about the modules offered for each c
     print('\t[{}6{}] {}Reset Target{} - {}Reset the Email to new target address{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     print('\t[{}7{}] {}Back{} - {}Return to main menu{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     try:
-     gselect = int(raw_input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
+     gselect = int(input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
     except:
      self.emailmenu()
     if gselect == 7:
@@ -239,7 +239,7 @@ The following section will detail specifics about the modules offered for each c
       if gselect != 7:
        if not bi.search_string or bi.search_string in ['',None]:
         #print("\n[{}PROFILE{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND))
-        bi.search_string = raw_input("\n  [{}PROFILE{}] {}Whats the target's email address?{} [ex: username@domain.tld{}]: ".format(bc.CBLU,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+        bi.search_string = input("\n  [{}PROFILE{}] {}Whats the target's email address?{} [ex: username@domain.tld{}]: ".format(bc.CBLU,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
       bi.lookup = "email"
       print()
       if gselect == 1:
@@ -256,11 +256,11 @@ The following section will detail specifics about the modules offered for each c
       if gselect == 5:
        AdvanceBackgroundGrabber().get_info(bi.lookup,bi.search_string)
       if gselect == 6:
-       bi.search_string = raw_input("[{}?{}] {}Whats the target's email address?{} [ex: username@domain.tld{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+       bi.search_string = input("[{}?{}] {}Whats the target's email address?{} [ex: username@domain.tld{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
        self.emailmenu()
      except:
       self.emailmenu()
-     not raw_input("\nPress 'ENTER' key now to continue")
+     not input("\nPress 'ENTER' key now to continue")
      self.emailmenu()
 
   def namemenu(self):
@@ -274,7 +274,7 @@ The following section will detail specifics about the modules offered for each c
     print('\t[{}5{}] {}Reset Target{} - {}Reset the Email to new target address{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     print('\t[{}6{}] {}Back{} - {}Return to main menu{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     try:
-     gselect = int(raw_input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
+     gselect = int(input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
     except:
      self.namemenu()
     if gselect == 6:
@@ -286,7 +286,7 @@ The following section will detail specifics about the modules offered for each c
      try:
       if gselect != 6:
        if not bi.search_string or bi.search_string in ['',None]:
-        bi.search_string = raw_input("[{}?{}] {}Whats the target's full name?{} [ex: Alice Smith{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+        bi.search_string = input("[{}?{}] {}Whats the target's full name?{} [ex: Alice Smith{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
       bi.lookup = 'name'
       print()
       if gselect == 1:
@@ -300,11 +300,11 @@ The following section will detail specifics about the modules offered for each c
       if gselect == 4:
        AdvanceBackgroundGrabber().get_info(bi.lookup,bi.search_string)
       if gselect == 5:
-       bi.search_string = raw_input("[{}?{}] {}Whats the target's full name?{} [ex: Alice Smith{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+       bi.search_string = input("[{}?{}] {}Whats the target's full name?{} [ex: Alice Smith{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
        self.namemenu()
      except:
       self.namemenu()
-     not raw_input("\nPress 'ENTER' key now to continue")
+     not input("\nPress 'ENTER' key now to continue")
      self.namemenu()
 
   def phonemenu(self):
@@ -319,7 +319,7 @@ The following section will detail specifics about the modules offered for each c
     print('\t[{}6{}] {}Reset Target{} - {}Reset the Phone to new target address{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     print('\t[{}7{}] {}Back{} - {}Return to main menu{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     try:
-     gselect = int(raw_input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
+     gselect = int(input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
     except:
      self.phonemenu()
     if gselect == 7:
@@ -331,7 +331,7 @@ The following section will detail specifics about the modules offered for each c
      try:
       if gselect != 7:
        if not bi.search_string or bi.search_string in ['',None]:
-        bi.search_string = raw_input("[{}?{}] {}Whats the target's phone number?{} [ex: 1234567890{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+        bi.search_string = input("[{}?{}] {}Whats the target's phone number?{} [ex: 1234567890{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
       bi.lookup = 'phone'
       print()
       if gselect == 1:
@@ -348,11 +348,11 @@ The following section will detail specifics about the modules offered for each c
       if gselect == 5:
        AdvanceBackgroundGrabber().get_info(bi.lookup,bi.search_string)
       if gselect == 6:
-       bi.search_string = raw_input("[{}?{}] {}Whats the target's phone number?{} [ex: 1234567890{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+       bi.search_string = input("[{}?{}] {}Whats the target's phone number?{} [ex: 1234567890{}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
        self.phonemenu()
      except:
       self.phonemenu()
-     not raw_input("\nPress 'ENTER' key now to continue")
+     not input("\nPress 'ENTER' key now to continue")
      self.phonemenu()
 
   def snmenu(self):
@@ -366,7 +366,7 @@ The following section will detail specifics about the modules offered for each c
     print('\t[{}5{}] {}Reset Target{} - {}Reset the Phone to new target address{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     print('\t[{}6{}] {}Back{} - {}Return to main menu{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     try:
-     gselect = int(raw_input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
+     gselect = int(input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
     except:
      self.snmenu()
     if gselect == 6:
@@ -379,7 +379,7 @@ The following section will detail specifics about the modules offered for each c
       bi.lookup = 'sn'
       if gselect != 6:
        if not bi.search_string or bi.search_string in ['',None]:
-        bi.search_string = raw_input("[{}?{}] {}Whats the target's screenname?{} [ex: (Ac1dBurn|Zer0C00l){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+        bi.search_string = input("[{}?{}] {}Whats the target's screenname?{} [ex: (Ac1dBurn|Zer0C00l){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
       print()
       if gselect == 1:
        KnowemGrabber().get_info(bi.search_string)
@@ -392,10 +392,10 @@ The following section will detail specifics about the modules offered for each c
       if gselect == 4:
        TinderGrabber().get_info(bi.search_string)
       if gselect == 5:
-       bi.search_string = raw_input("[{}?{}] {}Whats the target's screenname?{} [ex: (Ac1dBurn|Zer0C00l){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+       bi.search_string = input("[{}?{}] {}Whats the target's screenname?{} [ex: (Ac1dBurn|Zer0C00l){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
      except:
       self.snmenu()
-     not raw_input("\nPress 'ENTER' key now to continue")
+     not input("\nPress 'ENTER' key now to continue")
      self.snmenu()
 
   def platemenu(self):
@@ -407,7 +407,7 @@ The following section will detail specifics about the modules offered for each c
     print('\t[{}3{}] {}Reset Target{} - {}Reset the Phone to new target address{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     print('\t[{}4{}] {}Back{} - {}Return to main menu{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     try:
-     gselect = int(raw_input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
+     gselect = int(input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
     except:
      self.platemenu()
     if gselect == 4:
@@ -419,7 +419,7 @@ The following section will detail specifics about the modules offered for each c
      try:
       if gselect != 4:
        if not bi.search_string or bi.search_string in ['',None]:
-        bi.search_string = raw_input("[{}?{}] {}Whats the target's plate number?{} [ex: (XYZ123|0U812){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+        bi.search_string = input("[{}?{}] {}Whats the target's plate number?{} [ex: (XYZ123|0U812){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
       bi.lookup = 'plate'
       print()
       if gselect == 1:
@@ -427,11 +427,11 @@ The following section will detail specifics about the modules offered for each c
       if gselect == 2:
         VinGrabber().get_info(bi.search_string)
       if gselect == 3:
-       bi.search_string = raw_input("[{}?{}] {}Whats the target's plate number?{} [ex: (XYZ123|0U812){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+       bi.search_string = input("[{}?{}] {}Whats the target's plate number?{} [ex: (XYZ123|0U812){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
        self.platemenu()
      except:
       self.platemenu()
-     not raw_input("\nPress 'ENTER' key now to continue")
+     not input("\nPress 'ENTER' key now to continue")
      self.platemenu()
 
   def domainmenu(self):
@@ -443,7 +443,7 @@ The following section will detail specifics about the modules offered for each c
     print('\t[{}3{}] {}Reset Target{} - {}Reset the domain to new target address{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     print('\t[{}4{}] {}Back{} - {}Return to main menu{}'.format(bc.CBLU, bc.CEND,bc.CRED,bc.CEND,bc.CYLW,bc.CEND))
     try:
-     gselect = int(raw_input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
+     gselect = int(input(" [{}!{}] {}Select a number to continue:{} ".format(bc.CYLW,bc.CEND,bc.CBLU, bc.CEND)))
     except:
      self.domainmenu()
     if gselect == 4:
@@ -455,7 +455,7 @@ The following section will detail specifics about the modules offered for each c
      try:
       if gselect != 4:
        if not bi.search_string or bi.search_string in ['',None]:
-        bi.search_string = raw_input("[{}?{}] {}Whats the target's domain name?{} [ex: (victim.com|blah.net){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+        bi.search_string = input("[{}?{}] {}Whats the target's domain name?{} [ex: (victim.com|blah.net){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
       bi.lookup = 'domain'
       print()
       if gselect == 1:
@@ -463,27 +463,27 @@ The following section will detail specifics about the modules offered for each c
       if gselect == 2:
         SubDomainGrabber().get_info(bi.search_string)
       if gselect == 3:
-       bi.search_string = raw_input("[{}?{}] {}Whats the target's domain name?{} [ex: (victim.com|blah.net){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
+       bi.search_string = input("[{}?{}] {}Whats the target's domain name?{} [ex: (victim.com|blah.net){}]: ".format(bc.CRED,bc.CEND,bc.CRED,bc.CYLW,bc.CEND))
        self.domainmenu()
      except:
       self.domainmenu()
-     not raw_input("\nPress 'ENTER' key now to continue")
+     not input("\nPress 'ENTER' key now to continue")
      self.domainmenu()
 
   def profiler(self):
     os.system('clear')
     Logo().banner()
-    fname = raw_input("\t[Whats the target's first name? - ex: Alice]: ")
-    lname = raw_input("\t[Whats the target's last name? - ex: Smith]: ")
+    fname = input("\t[Whats the target's first name? - ex: Alice]: ")
+    lname = input("\t[Whats the target's last name? - ex: Smith]: ")
     bi.name = fname+" "+lname
-    bi.agerange = raw_input("\t[Whats the target's age range? - ex: 18-100]: ")
-    bi.apprage = raw_input("\t[Whats the target's suspected age? - ex: 18]: ")
-    bi.state = raw_input("\t[Whats state does the target's live in? - ex: (FL|Florida)]: ")
-    bi.city = raw_input("\t[Whats city does the target's live in? - ex: Orlando]: ")
-    bi.zip = raw_input("\t[Whats the zipcode the target's lives in? - ex: 12345]: ")
-    bi.phone = raw_input("\t[What is a known phone number for the target's? - ex: 1234567890]: ")
-    bi.screenname = raw_input("\t[What are the known aliasis of the target's? - ex: (Ac1dBurn|Zer0cool)]: ")
-    bi.plate = raw_input("\t[Does the target's have a known license plate? - ex: (ABC1234|XYZ123)]: ")
-    bi.email = raw_input("\t[What is the target's email address? - ex: username@domain.tld]: ")
-    not raw_input("\nPress 'ENTER' key now to continue")
+    bi.agerange = input("\t[Whats the target's age range? - ex: 18-100]: ")
+    bi.apprage = input("\t[Whats the target's suspected age? - ex: 18]: ")
+    bi.state = input("\t[Whats state does the target's live in? - ex: (FL|Florida)]: ")
+    bi.city = input("\t[Whats city does the target's live in? - ex: Orlando]: ")
+    bi.zip = input("\t[Whats the zipcode the target's lives in? - ex: 12345]: ")
+    bi.phone = input("\t[What is a known phone number for the target's? - ex: 1234567890]: ")
+    bi.screenname = input("\t[What are the known aliasis of the target's? - ex: (Ac1dBurn|Zer0cool)]: ")
+    bi.plate = input("\t[Does the target's have a known license plate? - ex: (ABC1234|XYZ123)]: ")
+    bi.email = input("\t[What is the target's email address? - ex: username@domain.tld]: ")
+    not input("\nPress 'ENTER' key now to continue")
     self.intromenu()

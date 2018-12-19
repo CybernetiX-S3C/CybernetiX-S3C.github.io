@@ -1,5 +1,5 @@
-from __future__ import print_function
-from __future__ import absolute_import
+
+
 #
 # Tinder Module - illwill
 #
@@ -9,7 +9,7 @@ import requests
 from plugins.base import PageGrabber
 from .colors import BodyColors as bc
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except:
     import builtins as bi
 

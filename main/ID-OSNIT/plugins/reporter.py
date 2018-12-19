@@ -1,6 +1,6 @@
 from docx import Document
 from docx.shared import Inches
-import __builtin__ as bi
+import builtins as bi
 
 class ReportGenerator:
 

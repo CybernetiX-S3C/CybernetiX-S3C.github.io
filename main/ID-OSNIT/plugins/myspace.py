@@ -1,4 +1,4 @@
-from __future__ import print_function
+
 #######################################################################
 #       myspace scraper - returns user url of email address           #
 #######################################################################
@@ -7,7 +7,7 @@ import logging
 from plugins.base import PageGrabber
 from plugins.colors import BodyColors as bc
 try:
-    import __builtin__ as bi
+    import builtins as bi
 except:
     import builtins as bi
 
