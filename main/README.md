@@ -631,22 +631,22 @@ python Squirt.py
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **19. ID-OSNIT**
+## **19. ID-OSINT**
 
-Initial attack vectors for recon usually involve utilizing pay-for-data/API (Recon-NG), or paying to utilize transforms (Maltego) to get data mining results. ID-OSNIT utilizes some basic python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
+Initial attack vectors for recon usually involve utilizing pay-for-data/API (Recon-NG), or paying to utilize transforms (Maltego) to get data mining results. ID-OSINT utilizes some basic python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
 
-[ID-OSNIT](https://cybernetix-s3c.github.io/main/ID-OSNIT)
+[ID-OSINT](https://cybernetix-s3c.github.io/main/ID-OSINT)
 ```
 ## ★ Download:
 
-● git clone https://github.com/CybernetiX-S3C/ID-OSNIT.git ID-OSNIT
+● git clone https://gitlab.com/CybernetiX-S3C/ID-OSINT.git ID-OSINT
 
 # ★ How to use:
 
-cd ID-OSNIT
-pip3 install -r requirements.txt
+cd ID-OSINT
+pip install -r requirements.txt
 
-python3 ID-OSNIT.py -l (phone|email|sn|name|plate)
+python ID-OSINT.py -l (phone|email|sn|name|plate)
 ```
 
 --------------------------------------------------------------------------------------------------------------------------------
