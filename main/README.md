@@ -153,7 +153,11 @@ cd (Into Either Folder)
 bash NameOfFile.sh (To Run)
 ```
 # Tutorial
-[Tutoriral](https://www.youtube.com/watch?v=Ae6NImby6ZA)
+[Tutorial](https://www.youtube.com/watch?v=Ae6NImby6ZA)
+
+--------------------------------------------------------------------------------------------------------------------------------
+## **2. Wifi Package**
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
