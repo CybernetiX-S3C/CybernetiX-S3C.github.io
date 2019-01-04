@@ -6,6 +6,18 @@
 
 ## Author: John Modica @ CybernetiX S3C
 
+wifi Package is a basic bash script package of scripts to manually place you wireless cards into monitor and managed mode. I have also implemented a TxPower script to change your TxPower strength to a higher but possibly legal db. 
+
+**Please Note:**
+Unlike airmon-ng the mon mode will still be left as wlan0 or wlan1 instead of the usual wlan0mon or wlan1mon.
+
+"
+Get the script:
+
+git clone https://github.com/CybernetiX-S3C/wifiackage
+cd wifipackage
+"
+
 ```markdown
 To start the scripts just use one of the following: 
 bash nameoffile.sh
