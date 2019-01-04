@@ -11,14 +11,12 @@ wifi Package is a basic bash script package of scripts to manually place you wir
 **Please Note:**
 Unlike airmon-ng the mon mode will still be left as wlan0 or wlan1 instead of the usual wlan0mon or wlan1mon.
 
-"
+```
 Get the script:
 
 git clone https://github.com/CybernetiX-S3C/wifiackage
 cd wifipackage
-"
 
-```markdown
 To start the scripts just use one of the following: 
 bash nameoffile.sh
 sh nameoffile.sh
@@ -58,6 +56,7 @@ Note:
 As it states in the video, and the scripts, the only things that change is the mode, NOT the name! wlan1 will stay wlan1. wla0 with stay wlan0. when doing your packet collecing use wlan0/wlan1.
 
 ```
+
 https://www.cisco.com/c/en/us/support/docs/dial-access/asynchronous-connections/15380-trans-rec-15380.html
 
 https://www.snbforums.com/threads/dangerous-to-rise-tx-power.19240/
