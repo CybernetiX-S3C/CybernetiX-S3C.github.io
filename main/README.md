@@ -130,7 +130,8 @@ systemctl start snapd
 
 snap install infosploit --stable
 
-```# Tutorial
+```
+# Tutorial
 [Tutorial](https://www.youtube.com/watch?v=-6aV9LLF8NQ&t=9s)
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -141,6 +142,7 @@ Wifi Package are simple scripts to bypass the use of airmon-ng, while being able
 DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will cause cancer, brain damage, and severe loss of memory!
 
 [WiFi Package](https://cybernetix-s3c.github.io/main/wifipackage)
+
 ```markdown
 # ★ Download:
 
@@ -154,9 +156,6 @@ bash NameOfFile.sh (To Run)
 ```
 # Tutorial
 [Tutorial](https://www.youtube.com/watch?v=Ae6NImby6ZA)
-
---------------------------------------------------------------------------------------------------------------------------------
-## **2. Wifi Package**
 
 
 --------------------------------------------------------------------------------------------------------------------------------
