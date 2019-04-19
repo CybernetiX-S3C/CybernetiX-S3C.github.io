@@ -68,7 +68,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[22. Captain-Brute](https://CybernetiX-S3C.Github.io/main/Captain-Brute)
 
-* >[23. T.U.F.F](https://CybernetiX-S3C.github.io/main/T.U.F.F.)
+* >[23. T.U.F.F](https://CybernetiX-S3C.github.io/main/TUFF)
 
 ## **EXTRAS**
 
@@ -780,7 +780,7 @@ or
 This tool will make your basic pentesting/recon tasks like Information Gathering, Auditing, And Reporting easier. 
 It is fully automated. It is dedicated to use on Kali Linux for the simple fact the tools used are already installed.
 
-[T.U.F.F.](https://cybernetix-s3c.github.io/main/T.U.F.F.)
+[T.U.F.F.](https://cybernetix-s3c.github.io/main/TUFF)
 ```
 ## ★ Download:
 
@@ -791,7 +791,7 @@ cd T.U.F.F
 chmod 777 TUFF.sh
 ./TUFF.sh
 ```
-[T.U.F.F.](https://cybernetix-s3c.github.io/main/T.U.F.F.)
+[T.U.F.F.](https://cybernetix-s3c.github.io/main/TUFF)
 
 
 ==================================================================================================
