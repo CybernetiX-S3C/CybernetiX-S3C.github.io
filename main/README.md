@@ -68,6 +68,8 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[22. Captain-Brute](https://CybernetiX-S3C.Github.io/main/Captain-Brute)
 
+* >[23. T.U.F.F](https://CybernetiX-S3C.github.io/main/T.U.F.F.)
+
 ## **EXTRAS**
 
 * >[Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
@@ -754,7 +756,7 @@ python3 truth.py
 ```
 --------------------------------------------------------------------------------------------------------------------------------
 
-## **Captain-Brute**
+## **22. Captain-Brute**
 
 Captain-Brute is a collection of several hacker tools from @CybernetiX S3C.
 [Captain-Brute](https://cybernetix-s3c.github.io/main/Captain-Brute)
@@ -771,6 +773,26 @@ bash captain-brute
 or
 ./captain-brute
 ```
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **23. The Ultimate Forensics Framework**
+
+This tool will make your basic pentesting/recon tasks like Information Gathering, Auditing, And Reporting easier. 
+It is fully automated. It is dedicated to use on Kali Linux for the simple fact the tools used are already installed.
+
+[T.U.F.F.](https://cybernetix-s3c.github.io/main/T.U.F.F.)
+```
+## ★ Download:
+
+● git clone https://github.com/CybernetiX-S3C/T.U.F.F.
+# ★ How to use:
+
+cd T.U.F.F
+chmod 777 TUFF.sh
+./TUFF.sh
+```
+[T.U.F.F.](https://cybernetix-s3c.github.io/main/T.U.F.F.)
+
 
 ==================================================================================================
 
