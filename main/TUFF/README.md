@@ -9,6 +9,7 @@
 This tool will make your basic pentesting/recon tasks like Information Gathering, Auditing, And Reporting easier. It is fully automated. It is dedicated to use on Kali Linux for the simple fact the tools used are already installed.
 
 # Usage Guide
+```
 Download / Clone T.U.F.F.
 
 ~# git clone https://github.com/CybernetiX-S3C/T.U.F.F.
@@ -24,7 +25,7 @@ Give Permission To T.U.F.F
 Run The Ultimate Forensics Framwork
 
 ~# ./TUFF.sh
-
+```
 # Changelog
 
 - 1.4  First Release
