@@ -1,7 +1,0 @@
-urllib3
-termcolor
-opencv-python
-selenium
-face_recognition
-WeasyPrint
-requests-html
