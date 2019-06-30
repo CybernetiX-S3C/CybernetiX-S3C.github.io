@@ -60,7 +60,7 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[18. Squirt](https://cybernetiX-S3C.net/main/Squirt)
 
-* >[19. ID-OSNIT](https://cybernetiX-S3C.net/main/ID-OSNIT)
+* >[19. ID-OSNIT](https://cybernetiX-S3C.net/main/ID-OSINT)
 
 * >[20. E-ntel](https://cybernetiX-S3C.net/main/E-ntel)
 
