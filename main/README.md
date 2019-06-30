@@ -1,4 +1,4 @@
-# [Home](https://CybernetiX-S3C.github.io)
+# [Home](https://CybernetiX-S3C.net)
 ![Badge](https://img.shields.io/badge/Welcome%20to-CybernetiX--S3C-brightgreen.svg)
 [![License](http://img.shields.io/:license-gpl3-blue.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.html)
 
@@ -24,57 +24,59 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 ====================================================================================================
 ##  **CONTENTS**
   
-* >[1. InfoSploit](https://CybernetiX-S3C.GitHub.io/main/Infosploit)
+* >[1. InfoSploit](https://CybernetiX-S3C.net/main/Infosploit)
 
-* >[2. WiFi Package](https://CybernetiX-S3C.GitHub.io/main/wifipackage)
+* >[2. WiFi Package](https://CybernetiX-S3C.net/main/wifipackage)
 
-* >[3. IP-Locator](https://CybernetiX-S3C.GitHub.io/main/ip-locator)
+* >[3. IP-Locator](https://CybernetiX-S3C.net/main/ip-locator)
 
-* >[4. SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/main/SK-WC-Cracker)
+* >[4. SK-WPS-Cracker](https://CybernetiX-S3C.net/main/SK-WC-Cracker)
 
-* >[5. Speedtest-Cli](https://cybernetix-s3c.github.io/main/Speedtest-cli/)
+* >[5. Speedtest-Cli](https://cybernetix-s3c.net/main/Speedtest-cli/)
 
-* >[6. NodeJS](https://CybernetiX-S3C.GitHub.io/main/NodeJS-Kali-Linux)
+* >[6. NodeJS](https://CybernetiX-S3C.net/main/NodeJS-Kali-Linux)
 
-* >[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/main/Multiple-BruteForce-master)
+* >[7. Multiple BruteForce](https://CybernetiX-S3C.net/main/Multiple-BruteForce-master)
 
-* >[8. Password Generator](https://CybernetiX-S3C.github.io/main/PassGen-master)
+* >[8. Password Generator](https://CybernetiX-S3C.net/main/PassGen-master)
 
-* >[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/main/Wifi_Passwords-Generator-master)
+* >[9. Wifi Password Generator](https://CybernetiX-S3C.net/main/Wifi_Passwords-Generator-master)
 
-* >[10. PYAnonFTP](https://CybernetiX-S3C.github.io/main/PYAnonFTP)
+* >[10. PYAnonFTP](https://CybernetiX-S3C.net/main/PYAnonFTP)
 
-* >[11. WiFi Jammer](http://CybernetiX-S3C.github.io/main/WiFiJammer-master)
+* >[11. WiFi Jammer](http://CybernetiX-S3C.net/main/WiFiJammer-master)
 
-* >[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/main/ISPpScan)
+* >[12. ISP Protect Scan](https://CybernetiX-S3C.net/main/ISPpScan)
     
-* >[13. Facial Recon](https://CybernetiX-S3C.github.io/main/Facial-Recon-master)
+* >[13. Facial Recon](https://CybernetiX-S3C.net/main/Facial-Recon-master)
 
-* >[14. Trity](https://cybernetix-s3c.github.io/main/Trity/)
+* >[14. Trity](https://cybernetix-s3c.net/main/Trity/)
 
-* >[15. GEO Trace](https://cybernetix-s3c.github.io/main/GEO_Trace/)
+* >[15. GEO Trace](https://cybernetix-s3c.net/main/GEO_Trace/)
 
-* >[16. Target IP](https://cybernetix-s3c.github.io/main/Target_IP)
+* >[16. Target IP](https://cybernetix-s3c.net/main/Target_IP)
 
-* >[17. Predator](https://cybernetix-s3c.github.io/main/Predator)
+* >[17. Predator](https://cybernetix-s3c.net/main/Predator)
 
-* >[18. Squirt](https://cybernetiX-S3C.github.io/main/Squirt)
+* >[18. Squirt](https://cybernetiX-S3C.net/main/Squirt)
 
-* >[19. ID-OSNIT](https://cybernetiX-S3C.github.io/main/ID-OSNIT)
+* >[19. ID-OSNIT](https://cybernetiX-S3C.net/main/ID-OSNIT)
 
-* >[20. E-ntel](https://cybernetiX-S3C.github.io/main/E-ntel)
+* >[20. E-ntel](https://cybernetiX-S3C.net/main/E-ntel)
 
-* >[21. Truth](https://cybernetiX-S3C.github.io/main/Truth)
+* >[21. Truth](https://cybernetiX-S3C.net/main/Truth)
 
-* >[22. Captain-Brute](https://CybernetiX-S3C.Github.io/main/Captain-Brute)
+* >[22. Captain-Brute](https://CybernetiX-S3C.net/main/Captain-Brute)
 
-* >[23. T.U.F.F](https://CybernetiX-S3C.github.io/main/TUFF)
+* >[23. T.U.F.F](https://CybernetiX-S3C.net/main/TUFF)
+
+* >[24. Malvigen](https://CybernetiX-S3C.net/main/Malvigen)
 
 ## **EXTRAS**
 
-* >[Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+* >[Artificial Intelligence Info](https://cybernetix-s3c.net/main/Artificial-Intelligence-Info/)
 
-* >[Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
+* >[Awesome Hacking](https://cybernetix-s3c.net/main/Awesome-Hacking)
 
 # **Repositories**
 
@@ -83,9 +85,9 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 InfoSploit is a simple python script for Information Gathering.
 The properties of InfoSploit are:
 ● DNS Lookup ● Whois Lookup ● GeoIP Lookup ● Subnet Lookup ● Port Scanner ● Extract Links ● Zone Transfer ● HTTP Header ● Host Finder ● Robots.txt ● IP-Locator ● Traceroute ● Host DNS Finder ● Revrse IP Lookup ● Collection Email ● Subdomain Finder ● Install & Update ● About Me ● Exit
-Click the [link](https://CybernetiX-S3C.GitHub.io/main/Infosploit) below to go directly to the source or use the basic steps down in the box to download and install directly inside your terminal.
+Click the [link](https://CybernetiX-S3C.net/main/Infosploit) below to go directly to the source or use the basic steps down in the box to download and install directly inside your terminal.
 
-[InfoSploit](https://CybernetiX-S3C.GitHub.io/main/Infosploit) 
+[InfoSploit](https://CybernetiX-S3C.net/main/Infosploit) 
 
 ```markdown
 # Option 1 (Git Clone/Install)
@@ -140,10 +142,10 @@ snap install infosploit --stable
 
 ## **2. Wifi Package**
 
-Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.GitHub.io/main/wifipackage) below to go directly to the source or use the basic steps down in the box to download and run directly inside your terminal.
+Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.net/main/wifipackage) below to go directly to the source or use the basic steps down in the box to download and run directly inside your terminal.
 DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will cause cancer, brain damage, and severe loss of memory!
 
-[WiFi Package](https://cybernetix-s3c.github.io/main/wifipackage)
+[WiFi Package](https://cybernetix-s3c.net/main/wifipackage)
 
 ```markdown
 # ★ Download:
@@ -165,9 +167,9 @@ bash NameOfFile.sh (To Run)
 ## **3. IP-Locator**
 
 IP Locator is basically what is says. It is a script made to utilize perl in a way to find a geolocation of an IP or Domain.
-No need for installation. Click The [link](https://CybernetiX-S3C.GitHub.io/main/ip-locator) below to download the main source, or use the instructions below to download and run directly inside your terminal.
+No need for installation. Click The [link](https://CybernetiX-S3C.net/main/ip-locator) below to download the main source, or use the instructions below to download and run directly inside your terminal.
 
-[IP-Locator](https://CybernetiX-S3C.GitHub.io/main/ip-locator)
+[IP-Locator](https://CybernetiX-S3C.net/main/ip-locator)
 
 ```markdown
 # ★ Download:
@@ -206,9 +208,9 @@ SCRIPT KIDDIE WPS CRACKER [SK-WC] is a small tool based on the bash script langu
     “Wash”
 
 and some commands, in automatic way to do its job. Enjoy
-Click the [link](https://CybernetiX-S3C.GitHub.io/main/SK-WPS-Cracker) below to grab the source, or use the directions in the box to download the source directly in your terminal.
+Click the [link](https://CybernetiX-S3C.net/main/SK-WPS-Cracker) below to grab the source, or use the directions in the box to download the source directly in your terminal.
 
-[SK-WPS-Cracker](https://CybernetiX-S3C.GitHub.io/main/SK-WC-Cracker)
+[SK-WPS-Cracker](https://CybernetiX-S3C.net/main/SK-WC-Cracker)
 
 ```markdown
 # ★ Download:
@@ -232,7 +234,7 @@ Check your internet speed on their OFFICIAL website.
 [Speedtest.net](https://www.speedtest.net/)
 
 Or download and install my personal Speedtest script for your terminal.
-[Speedtest-Cli](https://cybernetix-s3c.github.io/main/Speedtest-cli/)
+[Speedtest-Cli](https://cybernetix-s3c.net/main/Speedtest-cli/)
 
 ```markdown
 # ★ Download:
@@ -252,7 +254,7 @@ python speedtest-cli/setup.py install
 
 This is a simple to install Node.js inside Kali Linux OS. Simply download the bash script and run the script.
 
-[NodeJS](https://CybernetiX-S3C.github.io/main/NodeJS-Kali-Linux)
+[NodeJS](https://CybernetiX-S3C.net/main/NodeJS-Kali-Linux)
 ```markdown
 # ★ Download:
 
@@ -276,7 +278,7 @@ npm -v
 
 This script in designed to hack multiple accounts such as facebook, instagram, and twitter with the simple information you give it.
 
-[Multiple BruteForce](https://CybernetiX-S3C.github.io/main/Multiple-BruteForce-master)
+[Multiple BruteForce](https://CybernetiX-S3C.net/main/Multiple-BruteForce-master)
 ```markdown
 # ★ Download:
 
@@ -301,7 +303,7 @@ python MultiForce.py
 
 This script is a straight foward python tool used generate a password list using the fields that you enter.
 
-[Password Generator](https://CybernetiX-S3C.github.io/main/PassGen-master)
+[Password Generator](https://CybernetiX-S3C.net/main/PassGen-master)
 ```markdown
 # ★ Download:
 
@@ -333,7 +335,7 @@ reset [fieldname]       clear field
 
 This is a basic python script to generate a password txt using two ESSID names.
 
-[Wifi Password Generator](https://CybernetiX-S3C.github.io/main/Wifi_Passwords-Generator-master)
+[Wifi Password Generator](https://CybernetiX-S3C.net/main/Wifi_Passwords-Generator-master)
 ```markdown
 # ★ Download:
 
@@ -354,7 +356,7 @@ python Generate.py
 
 This tool is for scanning the net for FTP Servers using FTP and anonymous connections.
 
-[PYAnonFTP](https://CybernetiX-S3C.github.io/main/PYAnonFTP)
+[PYAnonFTP](https://CybernetiX-S3C.net/main/PYAnonFTP)
 ```markdown
 # ★ Download:
 
@@ -381,7 +383,7 @@ pip3 install ipaddr
 
 Continuously jam all wifi clients and access points within range. The effectiveness of this script is constrained by your wireless card. Alfa cards seem to effectively jam within about a block radius with heavy access point saturation. Granularity is given in the options for more effective targeting. 
 
-[WiFi Jammer](http://CybernetiX-S3C.github.io/main/WiFiJammer-master)
+[WiFi Jammer](http://CybernetiX-S3C.net/main/WiFiJammer-master)
 ```markdown
 # ★ Download:
 
@@ -401,7 +403,7 @@ python wifijammer.py [-a AP MAC] [-c CHANNEL] [-d] [-i INTERFACE] [-m MAXIMUM] [
 
 ISP Protect Scan is a tool that scans the ISP info and checks for vulnerabilities.
 
-[ISP Protect Scan](https://CybernetiX-S3C.github.io/main/ISPpScan)
+[ISP Protect Scan](https://CybernetiX-S3C.net/main/ISPpScan)
 ```markdown
 # ★ Download:
 
@@ -431,7 +433,7 @@ If a Instagram Profile was found it will be verified by comparing your known pho
 
 In the end you get a PDF Report :)
 
-[Facial Recon](https://CybernetiX-S3C.github.io/main/Facial-Recon-master)
+[Facial Recon](https://CybernetiX-S3C.net/main/Facial-Recon-master)
 
 ## How to use it
 
@@ -454,8 +456,8 @@ $ sudo pip3 install --upgrade beautifulsoup4 html5lib spry
 
 ## **14. Trity**
 
-Trity is an advanced pentesting framework dedicated to everything from cryptography to spoofing. Click the [link](https://CybernetiX-S3C.github.io/main/Trity) below to find out more.
-[Trity](https://CybernetiX-S3C.github.io/main/Trity)
+Trity is an advanced pentesting framework dedicated to everything from cryptography to spoofing. Click the [link](https://CybernetiX-S3C.net/main/Trity) below to find out more.
+[Trity](https://CybernetiX-S3C.net/main/Trity)
 ```
 ## Installation & Usage
 
@@ -487,7 +489,7 @@ sudo trity
 
 This is a simple script to gathetr information such as geolocation on an IP or gather info on a domain. 
 
-[GEO_Trace](https://cybernetix-s3c.github.io/main/GEO_Trace)
+[GEO_Trace](https://cybernetix-s3c.net/main/GEO_Trace)
 ```markdown
 ## Download:
 
@@ -539,7 +541,7 @@ chmod +x Target_IP.py
 
 Predator was written out of frustration from using Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE scripts for password guessing attacks. I opted for a different approach in order to not create yet another brute-forcing tool and avoid repeating the same shortcomings. Predator is a multi-threaded tool written in Python, that strives to be more reliable and flexible than his fellow predecessors.
 
-[Predator](https://cybernetix-s3c.github.io/main/Predator)
+[Predator](https://cybernetix-s3c.net/main/Predator)
 
 Currently it supports the following modules:
 ```
@@ -617,7 +619,7 @@ Just supply a domain name to Squirt and it will automatically do the following f
 - [x] Crawl the website for URLs having parameters
 - [x] SQLi scan using online implemention of SQLMap (takes < 3 min.)
 - [x] Basic XSS scanning
-[Squirt](https://cybernetix-s3c.github.io/main/Squirt)
+[Squirt](https://cybernetix-s3c.net/main/Squirt)
 
 ```
 ## ★ Download:
@@ -637,7 +639,7 @@ python Squirt.py
 
 Initial attack vectors for recon usually involve utilizing pay-for-data/API (Recon-NG), or paying to utilize transforms (Maltego) to get data mining results. ID-OSINT utilizes some basic python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
 
-[ID-OSINT](https://cybernetix-s3c.github.io/main/ID-OSINT)
+[ID-OSINT](https://cybernetix-s3c.net/main/ID-OSINT)
 ```
 ## ★ Download:
 
@@ -657,7 +659,7 @@ python ID-OSINT.py -l (phone|email|sn|name|plate)
 
 E-ntel is a tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using hacked-emails API. Is a really simple tool, but very effective for the early stages of a penetration test or just to know the visibility of your company in the Internet.
 
-[E-ntel](https://cybernetix-s3c.github.io/main/E-ntel)
+[E-ntel](https://cybernetix-s3c.net/main/E-ntel)
 
 ## **Due to python's latest version being 3.8, it will only run on 3.6 and 3.7. If you have versons 3.6, 3.7, or 3.8 make sure to specify during the usage as follows: **
 
@@ -703,7 +705,7 @@ python3.7 E-ntel.py --domain cia.gov --source google --verbose 3
 
 ## **21. Truth**
 
-Information Gathering tool for a Website or IP address. I have used pieces from my [Infosploit](https://Snapcraft.io/infosploit) and my latest [E-ntel](https://cybernetix-s3c.github.io/main/E-ntel).
+Information Gathering tool for a Website or IP address. I have used pieces from my [Infosploit](https://Snapcraft.io/infosploit) and my latest [E-ntel](https://cybernetix-s3c.net/main/E-ntel).
 Truth can work in any operating system if they have and support Python 2, Python 3, and Ruby.
 
 # Features
@@ -728,7 +730,7 @@ Truth can work in any operating system if they have and support Python 2, Python
  * Website Copier (use httrack) NEW!
  * Host Info Scanner (use WhatWeb) NEW!
 
-[Truth](https://cybernetix-s3c.github.io/main/Truth)
+[Truth](https://cybernetix-s3c.net/main/Truth)
 
 # Install and Run in Linux
 ```
@@ -759,7 +761,7 @@ python3 truth.py
 ## **22. Captain-Brute**
 
 Captain-Brute is a collection of several hacker tools from @CybernetiX S3C.
-[Captain-Brute](https://cybernetix-s3c.github.io/main/Captain-Brute)
+[Captain-Brute](https://cybernetix-s3c.net/main/Captain-Brute)
 
 ```
 ## ★ Download:
@@ -780,7 +782,7 @@ or
 This tool will make your basic pentesting/recon tasks like Information Gathering, Auditing, And Reporting easier. 
 It is fully automated. It is dedicated to use on Kali Linux for the simple fact the tools used are already installed.
 
-[T.U.F.F.](https://cybernetix-s3c.github.io/main/TUFF)
+[T.U.F.F.](https://cybernetix-s3c.net/main/TUFF)
 ```
 ## ★ Download:
 
@@ -791,9 +793,25 @@ cd T.U.F.F
 chmod 777 TUFF.sh
 ./TUFF.sh
 ```
-[T.U.F.F.](https://cybernetix-s3c.github.io/main/TUFF)
+[T.U.F.F.](https://cybernetix-s3c.net/main/TUFF)
+--------------------------------------------------------------------------------------------------------------------------------
 
+## **24. Malvigen**
+ 
+Malvigen is a Malware/Virus framework designed to download files to send to victims on different Operating Systems.
 
+[Malvigen](https://cybernetix-s3c.net/main/Malvigen)
+### Installation: Linux
+```
+$apt-get install git
+$apt-get install python2 ruby
+$gem install lolcat
+$git clone https://github.com/CybernetiX-S3C/Malvigen
+$cd Malvigen
+$pip2 install -r requirements.txt
+$python2 malvigen.py
+```
+[Malvigen](https://cybernetix-s3c.net/main/Malvigen)
 ==================================================================================================
 
 # **Random Info**
@@ -802,13 +820,13 @@ chmod 777 TUFF.sh
 
 I have a personal collection of info listed below on Artificial Intelligence. Info includes books, lectures, movies, papers, and much more. I WILL be adding much more on the topic. So stay tuned.
 
-[Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
+[Artificial Intelligence Info](https://cybernetix-s3c.net/main/Artificial-Intelligence-Info/)
 
 ## **(Hacking INFO)**
 
 This is a great collection of a collection I found on github. It consists of all kinds of info, videos, courses and websites on things like vehicle security, malware analysis, infosec, honeypots, and many more.
 
-[Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
+[Awesome Hacking](https://cybernetix-s3c.net/main/Awesome-Hacking)
 
 --------------------------------------------------------------------------------------------------------------------------------
 ## Live Cyber Attack Maps ##
@@ -827,7 +845,7 @@ I have taken the liberty in adding some live cyber attack maps for you, the end 
 
 ![img](https://image.ibb.co/ddeP7T/Dragon_eye.jpg)
 
-[~/.classified](https://CybernetiX-S3C.github.io/main/stoicsurgeon/)
+[~/.classified](https://CybernetiX-S3C.net/main/stoicsurgeon/)
 
 ==================================================================================================
 ![img](https://image.ibb.co/dGJUrd/security.png)![img](https://image.ibb.co/dsc0xJ/CISA.png)![img](https://image.ibb.co/cFzPPy/ISACA_Certification_CISM_mobile.png)![img](https://image.ibb.co/kz0W4y/klcp_site_logo_300x172_1_300x172.png)![img](https://image.ibb.co/iMcuPy/CCISO_Logo_large_1.png)![img](https://image.ibb.co/hPDerd/Logo_CEH.png)![img](https://image.ibb.co/cY1FWd/lpt.png)![img](https://image.ibb.co/egrhBd/CISSP.png)
