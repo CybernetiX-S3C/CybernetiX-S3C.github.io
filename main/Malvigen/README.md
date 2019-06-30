@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/gem-lolcat-blue.svg)
 
 
-![alt text](https://github.com/CybernetiX-S3C/Malvigen/blob/master/image/ss.png)
+![alt text](https://github.com/CybernetiX-S3C/Malvigen/blob/master/image/ss.jpg)
 
 ### Installation: Termux
 ```
