@@ -1,0 +1,129 @@
+1571663815660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofilel059Fr"
+
+** (/usr/lib/firefox-esr/firefox-esr:21747): WARNING **: 09:17:14.684: Unable to connect to dbus: Could not connect: Permission denied
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1571663843693	Marionette	INFO	Listening on port 35165
+1571663844220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://google.com/libs/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: Accessibility service init or shutdown observer does not exist.
+1571664084727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofileMIPctj"
+
+** (/usr/lib/firefox-esr/firefox-esr:20317): WARNING **: 09:21:30.393: Unable to connect to dbus: Could not connect: Permission denied
+1571664094562	Marionette	INFO	Listening on port 38073
+1571664094648	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571664320269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofileRgGhGn"
+
+** (/usr/lib/firefox-esr/firefox-esr:16357): WARNING **: 09:25:25.614: Unable to connect to dbus: Could not connect: Permission denied
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1571664330502	Marionette	INFO	Listening on port 37273
+1571664330581	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571664648672	geckodriver	INFO	geckodriver 0.19.1
+1571664648681	geckodriver	INFO	Listening on 127.0.0.1:34507
+1571664650550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/user/0/rust_mozprofile.Uvx7B8mLlsU5"
+
+** (/usr/lib/firefox-esr/firefox-esr:23737): WARNING **: 09:30:56.654: Unable to connect to dbus: Could not connect: Permission denied
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1571664661463	Marionette	INFO	Listening on port 40099
+1571664661544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571664699554	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1571664699578	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.log: Accessibility service init or shutdown observer does not exist.
+1571664838429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofileZrfVrl"
+
+** (/usr/lib/firefox-esr/firefox-esr:14439): WARNING **: 09:34:09.586: Unable to connect to dbus: Could not connect: Permission denied
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1571664855485	Marionette	INFO	Listening on port 45295
+1571664855580	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1571670849123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofileaG9gYq"
+1571670852474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571670852474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571670852474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571670852475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+** (/usr/lib/firefox/firefox:31936): WARNING **: 11:14:20.561: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:32177): WARNING **: 11:14:22.784: Unable to connect to dbus: Could not connect: Permission denied
+1571670868409	Marionette	INFO	Listening on port 41947
+
+(firefox:30857): LIBDBUSMENU-GTK-CRITICAL **: 11:14:28.474: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1571670869016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571672367698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofileEH5LBo"
+1571672373143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571672373143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571672373144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571672373144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+** (/usr/lib/firefox/firefox:22548): WARNING **: 11:39:39.228: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:22764): WARNING **: 11:39:41.090: Unable to connect to dbus: Could not connect: Permission denied
+
+(firefox:21251): LIBDBUSMENU-GTK-CRITICAL **: 11:39:42.044: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1571672385682	Marionette	INFO	Listening on port 35509
+1571672385848	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (/usr/lib/firefox/firefox:23278): WARNING **: 11:39:56.265: Unable to connect to dbus: Could not connect: Permission denied
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571672413255	Marionette	INFO	Stopped listening on port 35509
+
+** (/usr/lib/firefox/firefox:439): WARNING **: 12:11:14.431: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:25263): WARNING **: 12:11:17.006: Unable to connect to dbus: Could not connect: Permission denied
+1571674281083	Marionette	INFO	Stopped listening on port 41947
+1571674631325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofileUrf27p"
+1571674635129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571674635130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571674635131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571674635131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+** (/usr/lib/firefox/firefox:4099): WARNING **: 12:17:23.240: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:4261): WARNING **: 12:17:25.297: Unable to connect to dbus: Could not connect: Permission denied
+
+(firefox:2833): LIBDBUSMENU-GTK-CRITICAL **: 12:17:26.401: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1571674649621	Marionette	INFO	Listening on port 37971
+1571674649723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571675675505	Marionette	INFO	Stopped listening on port 37971
+1571675755541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofile0qodR5"
+1571675760184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571675760185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571675760186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571675760187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+** (/usr/lib/firefox/firefox:10048): WARNING **: 12:36:07.146: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:10250): WARNING **: 12:36:09.042: Unable to connect to dbus: Could not connect: Permission denied
+
+(firefox:8834): LIBDBUSMENU-GTK-CRITICAL **: 12:36:09.501: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1571675772430	Marionette	INFO	Listening on port 39863
+1571675772517	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (/usr/lib/firefox/firefox:10766): WARNING **: 13:02:48.321: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:8817): WARNING **: 13:02:55.341: Unable to connect to dbus: Could not connect: Permission denied
+1571677377320	Marionette	INFO	Stopped listening on port 39863
+1571677461361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/user/0/rust_mozprofilebSIWtp"
+1571677465259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571677465260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571677465260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571677465260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+** (/usr/lib/firefox/firefox:20935): WARNING **: 13:04:32.083: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox/firefox:21316): WARNING **: 13:04:33.608: Unable to connect to dbus: Could not connect: Permission denied
+
+(firefox:19941): LIBDBUSMENU-GTK-CRITICAL **: 13:04:34.646: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1571677478172	Marionette	INFO	Listening on port 39015
+1571677478202	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:19941): LIBDBUSMENU-GTK-CRITICAL **: 13:04:56.484: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1571689897287	Marionette	INFO	Stopped listening on port 39015

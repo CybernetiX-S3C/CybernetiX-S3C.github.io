@@ -35,19 +35,19 @@ sleep 15
 echo "Searching for Wifi card..."
 sleep 10
 
-echo "wlan1 found."
+echo "wlan1mon found."
 sleep 5
 
-echo "Lets first take down wlan1"
-ifconfig wlan1 down
+echo "Lets first take down wlan1wlan1mon"
+ifconfig wlan1mon down
 sleep 10
 
-echo "Now we have to change wlan1 to monitor."
-sudo iwconfig wlan1 mode monitor
+echo "Now we have to change wlan1wlan1mon to monitor."
+sudo iwconfig wlan1mon mode monitor
 sleep 10
 
 echo "Now we place your card back up."
-ifconfig wlan1 up
+ifconfig wlan1mon up
 sleep 10
 
 echo "Checking to make sure everything is ok."

@@ -25,14 +25,14 @@ command -v javac > /dev/null 2>&1 || { echo >&2 "I require Java but it's not ins
 
 command -v aapt > /dev/null 2>&1 || { echo >&2 "I require aapt but it's not installed. Install it. Aborting."; 
 exit 1; }
-command -v apksinger > /dev/null 2>&1 || { echo >&2 "I require apksinger but it's not installed. Install it. Aborting."; 
+command -v apksigner > /dev/null 2>&1 || { echo >&2 "I require apksigner but it's not installed. Install it. Aborting."; 
 exit 1; }
 command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
 command -v ssh > /dev/null 2>&1 || { echo >&2 "I require ssh but it's not installed. Install it. Aborting."; 
 exit 1; }
 command -v nc > /dev/null 2>&1 || { echo >&2 "I require Netcat but it's not installed. Install it. Aborting."; 
 exit 1; }
-command -v dx > /dev/null 2>&1 || { echo >&2 "I require dx but it's not installed. Install it (Android-SDK Tools). Aborting."; 
+command -v dx > /dev/null 2>&1 || { echo >&2 "I require dx but it's not installed. Install it (android-sdk Tools). Aborting."; 
 exit 1; }
 
 }
