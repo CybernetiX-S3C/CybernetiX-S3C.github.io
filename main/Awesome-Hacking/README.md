@@ -1,6 +1,6 @@
-![Awesome Hacking](awesome_hacking.jpg)
+![Awesome Hacking](awesome_hacking.gif)
 
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 
+# [Awesome Hacking](https://github.com/CybernetiX-S3C/Awesome-Hacking) 
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
