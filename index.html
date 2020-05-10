@@ -19,7 +19,7 @@
             html {
                 width: 100%;
                 height: 100%;
-                background: radial-gradient(circle, #fff 0%, #aaa 20%) no-repeat;
+                background: radial-gradient(circle, #fff 0%, #aaa 100%) no-repeat;
                 overflow-x: hidden;
                 overflow-y: hidden;
             }
@@ -106,7 +106,7 @@
         {
             //Black BG for the canvas
             //translucent BG to show trail
-            ctx.fillStyle = "rgba(0, 0, 0, 0.04)";
+            ctx.fillStyle = "rgba(0, 0, 0, 100)";
             ctx.fillRect(0, 0, c.width, c.height);
 	    ctx.globalAlpha = 0.2;
             ctx.fillStyle = "#0F0"; //green text
