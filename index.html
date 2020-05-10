@@ -8,8 +8,7 @@
         
 	<title>John Modica | CybernetiX S3C</title>
 
-	    <head>
-        <style>
+	<style>
             /*basic reset */
             *{
                 margin: 0;
@@ -74,7 +73,6 @@
             }
         
         </style>
-    </head>
     <body>
     
         <canvas id="c"></canvas>
@@ -110,7 +108,7 @@
             //translucent BG to show trail
             ctx.fillStyle = "rgba(0, 0, 0, 0.04)";
             ctx.fillRect(0, 0, c.width, c.height);
-
+	    ctx.globalAlpha = 0.2;
             ctx.fillStyle = "#0F0"; //green text
             ctx.font = font_size + "px arial";
             //looping over drops
