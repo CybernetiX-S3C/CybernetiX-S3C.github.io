@@ -1,5 +1,13 @@
 ### [Home](https://CybernetiX-S3C.github.io)   [Main](https://CybernetiX-S3C.github.io/main)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/CybernetiX-S3C/Infosploit)
+
+<a href="https://snapcraft.io/infosploit">
+  <img alt="infosploit" src="https://snapcraft.io/infosploit/badge.svg" />
+  </a>
+<a href="https://snapcraft.io/infosploit">
+  <img alt="infosploit" src="https://snapcraft.io/infosploit/trending.svg?name=0" />
+  </a>
+
 ![](https://blog.flamingtext.com/blog/2018/09/22/flamingtext_com_1537659956_1017233180.gif)
 
 # ★ InfoSploit . version 1.0 | 
@@ -58,6 +66,9 @@ snap install infosploit --stable
 <a href="https://snapcraft.io/infosploit">
   <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
 </a>
+
+
+<iframe src="https://snapcraft.io/infosploit/embedded?button=black&channels=true&summary=true&screenshot=true" frameborder="0" width="100%" height="930px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe>
 
 
 ## ★ Properties :
