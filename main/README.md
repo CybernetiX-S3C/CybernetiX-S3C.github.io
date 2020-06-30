@@ -72,6 +72,9 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 
 * >[24. Malvigen](https://CybernetiX-S3C.net/main/Malvigen)
 
+* >[25. Kali DB](https://CybernetiX-S3C.net/main/kali-db)
+
+
 ## **EXTRAS**
 
 * >[Artificial Intelligence Info](https://cybernetix-s3c.net/main/Artificial-Intelligence-Info/)
@@ -794,6 +797,7 @@ chmod 777 TUFF.sh
 ./TUFF.sh
 ```
 [T.U.F.F.](https://cybernetix-s3c.net/main/TUFF)
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## **24. Malvigen**
@@ -811,7 +815,30 @@ $cd Malvigen
 $pip2 install -r requirements.txt
 $python2 malvigen.py
 ```
+
 [Malvigen](https://cybernetix-s3c.net/main/Malvigen)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## **25. Kali DB**
+ 
+Kali DB is a tool written in basic bash dialog. This tool was created to minimize and utilized a users interaction
+with their linux based OS. It is made to be downloaded and used to build Kali Linux in any device with any OS. Features include,
+an Keysign option, Update/Upgrade menu, a basic apt repair kit, metapackage install, and a menu to build either a full version of
+Kali or Kali Linux Eveything. I only reinvented the wheel. Most of the intergrated menu options came directly from the Kali Linux
+official tools subdirectory. [Tools.Kali.org](https://tools.kali.org)
+
+[Kali DB](https://CybernetiX-S3C.net/main/kali-db)
+### Installation
+```
+git clone https://github.com/CybernetiX-S3C/Kali-DB
+cd Kali-DB
+dpkg -i kali*.deb
+```
+
+[Kali DB](https://CybernetiX-S3C.net/main/kali-db)
+
+
 ==================================================================================================
 
 # **Random Info**
