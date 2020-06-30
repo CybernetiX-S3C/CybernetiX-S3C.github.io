@@ -1,0 +1,10 @@
+Package: kali-db
+Version: 1.0-1
+Architecture: all
+Maintainer: John Modica <CybernetiX.S3C@gmail.com>
+Installed-Size: 63
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

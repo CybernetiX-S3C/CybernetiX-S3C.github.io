@@ -1,0 +1,55 @@
+#!/bin/bash
+## by John Modica 
+### @CybernetiX S3C
+
+
+HEIGHT=15
+WIDTH=40
+CHOICE_HEIGHT=10
+BACKTITLE="Kali Linux DB Update Menu"
+TITLE="Kali Repair Kit"
+MENU="Choose one of the following options:"
+
+
+OPTIONS1=(1 "DPKG Configure"
+         2 "APT Fix Broken"
+         3 "Main Menu"
+         4 "Quit")
+
+
+CHOICE=$(dialog --clear \
+                --backtitle "$BACKTITLE" \
+                --title "$TITLE" \
+                --menu "$MENU" \
+                $HEIGHT $WIDTH $CHOICE_HEIGHT \
+                "${OPTIONS1[@]}" \
+                2>&1 >/dev/tty)
+
+clear
+
+case $CHOICE in
+
+        1)  
+            echo "Configuring Packages with DPKG";
+            sudo dpkg --configure -a;
+            echo "Configured.";
+            sleep 1
+            Kkit;
+            ;;
+
+        2)  
+            echo "Running Fix Broken Through APT";
+            sudo apt --fix-broken install;
+            echo "Fixed.";
+            sleep 1
+            Kkit;
+            ;;
+
+        3)  
+            echo "Main Menu";
+            sudo kali-db;
+            ;;
+
+        4) 
+           echo "Done"
+esac

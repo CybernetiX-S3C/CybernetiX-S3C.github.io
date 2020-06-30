@@ -1,0 +1,12 @@
+#!/bin/bash
+
+sudo cp kali-db /usr/bin/
+sudo cp kali-db.desktop ~/.local/share/applications
+sudo cp kali-db1.png /usr/share/icons/hicolor/48x48/apps/kali-db1.png
+sudo cp kali-db1.svg /usr/share/icons/hicolor/scalable/apps/
+sudo cp kali-db1.xpm /usr/share/pixmaps/
+sleep 1
+touch /usr/bin/kali-db
+echo "Kali DB has been installed."
+sleep 1
+echo "To use this tool just type: kali-db"

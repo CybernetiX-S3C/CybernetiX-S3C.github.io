@@ -1,0 +1,76 @@
+#!/bin/bash
+## by John Modica 
+### @CybernetiX S3C
+
+
+HEIGHT=15
+WIDTH=40
+CHOICE_HEIGHT=10
+BACKTITLE="Kali Linux DB Update Menu"
+TITLE="Kali Misc Tools"
+MENU="Choose one of the following options:"
+
+OPTIONS1=(1 "Kali Linux Large {ISO}"
+         2 "Kali Linux Everything"
+         3 "Kali Linux Top 10"
+         4 "Kali Linux Desktop Live"
+         5 "Kali Linux Headless"
+         6 "Main Menu"
+         7 "Quit")
+
+CHOICE=$(dialog --clear \
+                --backtitle "$BACKTITLE" \
+                --title "$TITLE" \
+                --menu "$MENU" \
+                $HEIGHT $WIDTH $CHOICE_HEIGHT \
+                "${OPTIONS1[@]}" \
+                2>& 1 >/dev/tty)
+
+clear
+
+case $CHOICE in
+        1)  
+            echo "Installing Kali Large. Default tools for amd64/i386 images.";
+            sleep 2
+            sudo apt install kali-linux-large;
+            sleep 1
+            KMisc;
+            ;;
+        2)  
+            echo "Installing Kali Everything. Every metapackage & tool listed.";
+            sleep 2
+            sudo apt install kali-linux-everything;
+            sleep 1
+            KMisc;
+            ;;
+        3)
+            echo "Installing Kali Linux Top 10 Tools.";
+            sleep 2
+            sudo apt install kali-tools-top10;
+            sleep 1
+            KMisc;
+            ;;
+        4)
+            echo "Installing Kali Desktop Live. Used during a live session when booted from the original images."
+            sleep 2
+            sudo apt install kali-desktop-live;
+            sleep 1
+            KMisc;
+            ;;
+        5) 
+            echo "Installing Headless tools. Tools which do not require a GUI to access them.";
+            sleep 2
+            sudo apt install kali-tools-headless;
+            sleep 1
+            KMisc
+            ;;
+        6)
+            echo "Main Menu"
+            sleep 1
+            kali-db
+            ;;
+        7)  
+            echo "Done"
+esac
+
+

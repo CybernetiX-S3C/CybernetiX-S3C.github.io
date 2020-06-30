@@ -1,0 +1,105 @@
+ dpkg-buildpackage -us -uc -ui
+dpkg-buildpackage: info: source package kali-db
+dpkg-buildpackage: info: source version 1.0-1
+dpkg-buildpackage: info: source distribution unstable
+dpkg-buildpackage: info: source changed by John Modica <CybernetiX.S3C@gmail.com>
+ dpkg-source --before-build .
+dpkg-buildpackage: info: host architecture amd64
+ debian/rules clean
+dh clean
+   dh_clean
+ dpkg-source -b .
+dpkg-source: info: using source format '3.0 (quilt)'
+dpkg-source: info: building kali-db using existing ./kali-db_1.0.orig.tar.xz
+dpkg-source: info: building kali-db in kali-db_1.0-1.debian.tar.xz
+dpkg-source: info: building kali-db in kali-db_1.0-1.dsc
+ debian/rules build
+dh build
+   dh_update_autotools_config
+   dh_autoreconf
+   create-stamp debian/debhelper-build-stamp
+ debian/rules binary
+dh binary
+   dh_testroot
+   dh_prep
+   dh_install
+   dh_installdocs
+   dh_installchangelogs
+   dh_icons
+   dh_perl
+   dh_link
+   dh_strip_nondeterminism
+   dh_compress
+   dh_fixperms
+   dh_missing
+   dh_installdeb
+   dh_gencontrol
+   dh_md5sums
+   dh_builddeb
+dpkg-deb: building package 'kali-db' in '../kali-db_1.0-1_all.deb'.
+ dpkg-genbuildinfo
+ dpkg-genchanges  >../kali-db_1.0-1_amd64.changes
+dpkg-genchanges: info: including full source code in upload
+ dpkg-source --after-build .
+dpkg-buildpackage: info: full upload (original source is included)
+Now running lintian kali-db_1.0-1_amd64.changes ...
+warning: the authors of lintian do not recommend running it with root privileges!
+unresolvable name: 2606:4700:4700::1111,2606:4700:4700::1001 at /usr/share/perl5/Net/DNS/Resolver/Base.pm line 302.
+	Net::DNS::Resolver::Base::nameservers(Net::DNS::Resolver::Base=HASH(0x55c020480ac8), "1.1.1.1", "1.0.0.1", "2606:4700:4700::1111,2606:4700:4700::1001") called at /usr/share/perl5/Net/DNS/Resolver/Base.pm line 229
+	Net::DNS::Resolver::Base::_read_config_file(Net::DNS::Resolver::Base=HASH(0x55c020480ac8), "/etc/resolv.conf") called at /usr/share/perl5/Net/DNS/Resolver/UNIX.pm line 38
+	Net::DNS::Resolver::UNIX::_init("Net::DNS::Resolver") called at /usr/share/perl5/Net/DNS/Resolver/Base.pm line 138
+	Net::DNS::Resolver::Base::new("Net::DNS::Resolver") called at /usr/share/perl5/Email/Valid.pm line 41
+	require Email/Valid.pm called at /usr/share/lintian/checks/fields/maintainer.pm line 35
+	Lintian::fields::maintainer::BEGIN() called at /usr/share/perl5/Email/Valid.pm line 0
+	eval {...} called at /usr/share/perl5/Email/Valid.pm line 0
+	require /usr/share/lintian/checks/fields/maintainer.pm called at /usr/share/perl5/Lintian/Check/Info.pm line 234
+	Lintian::Check::Info::run_check(Lintian::Check::Info=HASH(0x55c01fb1cbb0), Lintian::Processable::Changes=HASH(0x55c01f0ba330), Lintian::Group=HASH(0x55c01e47d198)) called at /usr/share/perl5/Lintian/Group.pm line 419
+	eval {...} called at /usr/share/perl5/Lintian/Group.pm line 419
+	Lintian::Group::process(Lintian::Group=HASH(0x55c01e47d198), HASH(0x55c01f28c4c8), HASH(0x55c01e3881a8), Lintian::Output::Standard=HASH(0x55c01e46cc18)) called at /usr/share/perl5/Lintian/Pool.pm line 179
+	Lintian::Pool::process(Lintian::Pool=HASH(0x55c01e48c320), Lintian::Profile=HASH(0x55c01f4fb030), SCALAR(0x55c01f3804e8), HASH(0x55c01e3881a8), GLOB(0x55c01cf1adf8), Lintian::Output::Standard=HASH(0x55c01e46cc18)) called at /usr/share/lintian/commands/lintian.pm line 788
+	main::main() called at /usr/bin/lintian line 47
+	eval {...} called at /usr/bin/lintian line 47
+	main::__ANON__("/usr/share/lintian/commands/lintian.pm") called at /usr/bin/lintian line 120
+	dplint::run_tool("/usr/bin/lintian", "lintian") called at /usr/bin/lintian line 299
+	dplint::main() called at /usr/bin/lintian line 383
+E: kali-db changes: bad-distribution-in-changes-file unstable
+E: kali-db: changelog-is-dh_make-template
+E: kali-db: copyright-contains-dh_make-todo-boilerplate
+E: kali-db source: debian-rules-is-dh_make-template
+E: kali-db: description-is-dh_make-template
+E: kali-db: helper-templates-in-copyright
+E: kali-db: non-standard-toplevel-dir ~/
+E: kali-db source: readme-source-is-dh_make-template
+E: kali-db: section-is-dh_make-template
+W: kali-db source: bad-homepage <insert the upstream URL, if relevant>
+W: kali-db: bad-homepage <insert the upstream URL, if relevant>
+W: kali-db: binary-without-manpage usr/bin/KBuild
+W: kali-db: binary-without-manpage usr/bin/KCourses
+W: kali-db: binary-without-manpage usr/bin/KDesk
+W: kali-db: binary-without-manpage usr/bin/KMenu
+W: kali-db: binary-without-manpage usr/bin/KMisc
+W: kali-db: binary-without-manpage usr/bin/KSystem
+W: kali-db: binary-without-manpage usr/bin/KTools
+W: kali-db: binary-without-manpage usr/bin/Kkit
+W: kali-db: binary-without-manpage usr/bin/UMenu
+W: kali-db: binary-without-manpage usr/bin/kali-db
+W: kali-db: copyright-has-url-from-dh_make-boilerplate
+W: kali-db source: dh-make-template-in-source debian/kali-db.cron.d.ex
+W: kali-db source: dh-make-template-in-source debian/kali-db.doc-base.EX
+W: kali-db source: dh-make-template-in-source debian/manpage.1.ex
+W: kali-db source: dh-make-template-in-source debian/manpage.sgml.ex
+W: kali-db source: dh-make-template-in-source debian/manpage.xml.ex
+W: kali-db source: dh-make-template-in-source debian/postinst.ex
+W: kali-db source: dh-make-template-in-source debian/postrm.ex
+W: kali-db source: dh-make-template-in-source debian/preinst.ex
+W: kali-db source: dh-make-template-in-source debian/prerm.ex
+W: kali-db source: dh-make-template-in-source debian/salsa-ci.yml.ex
+W: kali-db source: dh-make-template-in-source debian/watch.ex
+W: kali-db: file-in-unusual-dir ~/.local/share/applications/kali-db.desktop
+W: kali-db: initial-upload-closes-no-bugs
+W: kali-db: readme-debian-contains-debmake-template
+W: kali-db source: space-in-std-shortname-in-dep5-copyright <special license> (paragraph at line 6)
+W: kali-db source: superfluous-clutter-in-homepage <insert the upstream URL, if relevant>
+W: kali-db: superfluous-clutter-in-homepage <insert the upstream URL, if relevant>
+W: kali-db: wrong-bug-number-in-closes l3:#nnnn
+Finished running lintian.

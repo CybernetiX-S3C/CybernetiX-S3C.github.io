@@ -1,0 +1,14 @@
+kali-db /usr/bin/
+KCourses /usr/bin/
+KDesk /usr/bin/
+KMenu /usr/bin/
+KMisc /usr/bin/
+KSystem /usr/bin/
+KTools /usr/bin/
+UMenu /usr/bin/
+Kkit /usr/bin
+KBuild /usr/bin
+kali-db.desktop ~/.local/share/applications
+kali-db1.png /usr/share/icons/hicolor/48x48/apps/
+kali-db1.svg /usr/share/icons/hicolor/scalable/apps/
+kali-db1.xpm /usr/share/pixmaps/

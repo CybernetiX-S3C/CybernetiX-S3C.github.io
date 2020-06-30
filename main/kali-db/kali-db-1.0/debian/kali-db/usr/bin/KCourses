@@ -1,0 +1,51 @@
+#!/bin/bash
+## by John Modica 
+### @CybernetiX S3C
+
+
+HEIGHT=15
+WIDTH=40
+CHOICE_HEIGHT=10
+BACKTITLE="Kali Linux DB Update Menu"
+TITLE="Kali Course Based Metapackages"
+MENU="Choose one of the following options:"
+
+OPTIONS1=(1 "Kali OFFSEC AWAE"
+         2 "Kali OFFSEC PWK"
+         3 "Main Menu"
+         4 "Quit")
+
+CHOICE=$(dialog --clear \
+                --backtitle "$BACKTITLE" \
+                --title "$TITLE" \
+                --menu "$MENU" \
+                $HEIGHT $WIDTH $CHOICE_HEIGHT \
+                "${OPTIONS1[@]}" \
+                2>&1 >/dev/tty)
+
+clear
+
+case $CHOICE in
+        1)  
+            echo "Installing OFFSEC AWAE Tools.";
+            sleep 2
+            sudo apt install offsec-awae;
+            sleep 1
+            KCourses;
+            ;;
+        2)  
+            echo "Installing OFFSEC PWK Tools.";
+            sleep 2
+            sudo apt install offsec-pwk;
+            sleep 1
+            KCourses;
+            ;;
+        3)
+            echo "Main Menu"
+            sleep 1
+            kali-db
+            ;;
+        4)  
+            echo "Done"
+esac
+

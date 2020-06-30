@@ -1,0 +1,116 @@
+#!/bin/bash
+## by John Modica 
+### @CybernetiX S3C
+
+
+HEIGHT=15
+WIDTH=40
+CHOICE_HEIGHT=10
+BACKTITLE="Kali Linux DB Update Menu"
+TITLE="Kali Tool Menu Metapackages"
+MENU="Choose one of the following options:"
+
+OPTIONS1=(1 "Kali GPU Tools"
+         2 "Kali Hardware Tools"
+         3 "Kali Crypto & Stego Tools"
+         4 "Kali Fuzzing Tools"
+         5 "Kali 802.11 Tools"
+         6 "Kali Bluetooth Tools"
+         7 "Kali RFID Tools" 
+         8 "Kali SDR Tools"
+         9 "Kali VOIP Tools"
+         10 "Kali Windows Resources Tools"
+         11 "Main Menu"
+         12 "Quit")
+
+CHOICE=$(dialog --clear \
+                --backtitle "$BACKTITLE" \
+                --title "$TITLE" \
+                --menu "$MENU" \
+                $HEIGHT $WIDTH $CHOICE_HEIGHT \
+                "${OPTIONS1[@]}" \
+                2>&1 >/dev/tty)
+
+clear
+
+case $CHOICE in
+        1)  
+            echo "Installing GPU Tools.";
+            sleep 2
+            sudo apt install kali-tools-gpu;
+            sleep 1
+            KTools;
+            ;;
+        2)  
+            echo "Installing Hardware Tools.";
+            sleep 2
+            sudo apt install kali-tools-hardware;
+            sleep 1
+            KTools;
+            ;;
+        3)
+            echo "Installing Crypto & Stego Tools.";
+            sleep 2
+            sudo apt install kali-tools-crypto-stego;
+            sleep 1
+            KTools;
+            ;;
+        4)
+            echo "Installing Fuzzing Tools."
+            sleep 2
+            sudo apt install kali-tools-fuzzing;
+            sleep 1
+            KTools;
+            ;;
+        5) 
+            echo "Installing 802.11 Tools.";
+            sleep 2
+            sudo apt install kali-tools-802-11;
+            sleep 1
+            KTools
+            ;;
+        6)
+            echo "Installing Bluetooth Tools.";
+            sleep 2
+            sudo apt install kali-tools-bluetooth;
+            sleep 1
+            KTools
+            ;;
+        7)
+            echo "Installing RFID Tools.";
+            sleep 2
+            sudo apt install kali-tools-rfid;
+            sleep 1
+            KTools
+            ;;
+        8)
+            echo "Installing SDR Tools.";
+            sleep 2
+            sudo apt install kali-tools-sdr;
+            sleep 1
+            KTools
+            ;;
+        9)
+            echo "Installing VoIP Tools.";
+            sleep 2
+            sudo apt install kali-tools-voip;
+            sleep 1
+            KTools
+            ;;
+        10)
+            echo "Installing Windows Resources Tools.";
+            sleep 2
+            sudo apt install kali-tools-windows-resources;
+            sleep 1
+            KTools
+            ;;
+        11)
+            echo "Main Menu"
+            sleep 1
+            kali-db
+            ;;
+        12)  
+            echo "Done"
+esac
+
+

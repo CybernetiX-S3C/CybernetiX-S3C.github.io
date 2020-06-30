@@ -1,0 +1,87 @@
+#!/bin/bash
+## by John Modica 
+### @CybernetiX S3C
+
+
+HEIGHT=15
+WIDTH=40
+CHOICE_HEIGHT=10
+BACKTITLE="Kali Linux DB Update Menu"
+TITLE="Kali Update Menu"
+MENU="Choose one of the following options:"
+
+
+OPTIONS1=(1 "Update Menu"
+         2 "Repair Kit"
+         3 "Kali Unleashed"
+         4 "Kali System Metapackages"
+         5 "Kali Menu Metapackages"
+         6 "Kali Tools Metapackages"
+         7 "Kali Misc Metapackages"
+         8 "Kali Courses Metapackages"
+         9 "Kali Desktop Managers"
+         10 "Quit")
+
+
+CHOICE=$(dialog --clear \
+                --backtitle "$BACKTITLE" \
+                --title "$TITLE" \
+                --menu "$MENU" \
+                $HEIGHT $WIDTH $CHOICE_HEIGHT \
+                "${OPTIONS1[@]}" \
+                2>&1 >/dev/tty)
+
+clear
+
+case $CHOICE in
+
+        1)  
+            echo "Update Menu";
+            sudo UMenu;
+            ;;
+
+        2)  
+            echo "Repair Kit";
+            sudo Kkit;
+            ;;
+
+        3)  
+            echo "Kali Starter Kit";
+            sudo KBuild;
+            ;;
+
+
+        4)  
+            echo "Kali System Metapackages";
+            sudo KSystem;
+            ;;
+
+        5)
+            echo "Kali Menu Metapackages";
+            sudo KMenu;
+            ;;          
+
+        6)  
+            echo "Kali Tools Metapackages";
+            sudo KTools;
+            ;;
+
+        7)  
+            echo "Kali Misc Metapackages";
+            sudo KMisc;
+            ;;
+
+        8)
+            echo "Kali Courses Metapackages";
+            sudo KCourses;
+            ;;          
+
+        9)
+            echo "Kali Desktop Managers";
+            sudo KDesk;
+            ;;          
+
+        10) 
+           echo "Done"
+
+esac

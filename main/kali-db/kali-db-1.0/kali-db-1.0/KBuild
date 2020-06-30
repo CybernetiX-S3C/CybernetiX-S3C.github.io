@@ -1,0 +1,70 @@
+#!/bin/bash
+## by John Modica 
+### @CybernetiX S3C
+
+
+HEIGHT=15
+WIDTH=40
+CHOICE_HEIGHT=10
+BACKTITLE="Kali Linux DB Update Menu"
+TITLE="Kali Linux Main Build"
+MENU="Choose one of the following options:"
+
+OPTIONS1=(1 "Add Kali Sources"
+         2 "Kali Keysign"
+         3 "Kali Update & Build Full"
+         4 "Kali Update & Build Everything"
+         5 "Main Menu"
+         6 "Quit")
+
+CHOICE=$(dialog --clear \
+                --backtitle "$BACKTITLE" \
+                --title "$TITLE" \
+                --menu "$MENU" \
+                $HEIGHT $WIDTH $CHOICE_HEIGHT \
+                "${OPTIONS1[@]}" \
+                2>&1 >/dev/tty)
+
+clear
+
+case $CHOICE in
+        1)  
+            echo "Adding Kali Linux Sources.";
+            sleep 2
+            sudo cat <<EOF | sudo tee /etc/apt/sources.list
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+EOF;
+            sleep 1
+            KBuild;
+            ;;
+        2)  
+            echo "Adding Kali Linux Keys.";
+            sleep 2
+            sudo apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6;
+            sleep 1
+            KBuild;
+            ;;
+        3)
+            echo "Updating, Upgrading, and Building Kali Linux Full.";
+            sleep 2
+            sudo apt update && sudo apt -y full-upgrade && sudo apt install kali-linux-large -y;
+            sleep 1
+            KBuild;
+            ;;
+        4)
+            echo "Updating, Upgrading, and Building Kali Linux Everything."
+            sleep 2
+            sudo apt update && sudo apt -y full-upgrade && sudo apt install kali-linux-everything -y;
+            sleep 1
+            KBuild;
+            ;;
+        5)
+            echo "Main Menu"
+            sleep 1
+            kali-db
+            ;;
+        6)  
+            echo "Done"
+esac
+
+

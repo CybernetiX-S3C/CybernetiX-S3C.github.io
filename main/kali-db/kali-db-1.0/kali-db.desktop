@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Kali-DB
+Comment=Upgrade Manager
+Exec=/usr/bin/kali-db
+Icon=/usr/share/icons/hicolor/48x48/apps/kali-db1.png
+Icon=/usr/share/icons/hicolor/scalable/apps/kali-db1.svg
+Icon=/usr/share/pixmaps/kali-db1.xpm
+Terminal=True
+

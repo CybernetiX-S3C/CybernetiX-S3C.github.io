@@ -1,0 +1,15 @@
+Source: kali-db
+Section: unknown
+Priority: optional
+Maintainer: John Modica <CybernetiX.S3C@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.0
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/kali-db
+#Vcs-Git: https://salsa.debian.org/debian/kali-db.git
+
+Package: kali-db
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

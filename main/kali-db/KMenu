@@ -1,0 +1,140 @@
+#!/bin/bash
+## by John Modica 
+### @CybernetiX S3C
+
+
+HEIGHT=15
+WIDTH=40
+CHOICE_HEIGHT=10
+BACKTITLE="Kali Linux DB Update Menu"
+TITLE="Kali Tool Menu Metapackages"
+MENU="Choose one of the following options:"
+
+OPTIONS1=(1 "Kali Info Gathering Tools"
+         2 "Kali Vulnerability Tools"
+         3 "Kali Web Tools"
+         4 "Kali Database Tools"
+         5 "Kali Passwords Tools"
+         6 "Kali Wireless Tools"
+         7 "Kali Reverse Engineering Tools" 
+         8 "Kali Exploitation Tools"
+         9 "Kali Social Engineering Tools"
+         10 "Kali Sniffing & Spoofing Tools"
+         11 "Kali Post Exploitation Tools"
+         12 "Kali Forensics Tools"
+         13 "Kali Reporting Tools"
+         14 "Main Menu"
+         15 "Quit")
+
+CHOICE=$(dialog --clear \
+                --backtitle "$BACKTITLE" \
+                --title "$TITLE" \
+                --menu "$MENU" \
+                $HEIGHT $WIDTH $CHOICE_HEIGHT \
+                "${OPTIONS1[@]}" \
+                2>&1 >/dev/tty)
+
+clear
+
+case $CHOICE in
+        1)  
+            echo "Installing Information Gathering Tools.";
+            sleep 2
+            sudo apt install kali-tools-information-gathering;
+            sleep 1
+            KSystem;
+            ;;
+        2)  
+            echo "Installing Vulnerability Tools.";
+            sleep 2
+            sudo apt install kali-tools-vulnerability;
+            sleep 1
+            KSystem;
+            ;;
+        3)
+            echo "Installing Web Tools.";
+            sleep 2
+            sudo apt install kali-tools-web;
+            sleep 1
+            KSystem;
+            ;;
+        4)
+            echo "Installing Database Tools."
+            sleep 2
+            sudo apt install kali-tools-database;
+            sleep 1
+            KSystem;
+            ;;
+        5) 
+            echo "Installing Password Tools.";
+            sleep 2
+            sudo apt install kali-tools-passwords;
+            sleep 1
+            KSystem
+            ;;
+        6)
+            echo "Installing Wireless Tools.";
+            sleep 2
+            sudo apt install kali-tools-wireless;
+            sleep 1
+            KSystem
+            ;;
+        7)
+            echo "Installing Reverse Engineering Tools.";
+            sleep 2
+            sudo apt install kali-tools-reverse-engineering;
+            sleep 1
+            KSystem
+            ;;
+        8)
+            echo "Installing Exploitation Tools.";
+            sleep 2
+            sudo apt install kali-tools-exploitation;
+            sleep 1
+            KSystem
+            ;;
+        9)
+            echo "Installing Social Engineering Tools.";
+            sleep 2
+            sudo apt install kali-tools-social-engineering;
+            sleep 1
+            KSystem
+            ;;
+        10)
+            echo "Installing Sniffing & Spoofing Tools.";
+            sleep 2
+            sudo apt install kali-tools-sniffing-spoofing;
+            sleep 1
+            KSystem
+            ;;
+        11)
+            echo "Installing Post Exploitation Tools.";
+            sleep 2
+            sudo apt install kali-tools-post-exploitation;
+            sleep 1
+            KSystem
+            ;;
+        12)
+            echo "Installing Forensics Tools.";
+            sleep 2
+            sudo apt install kali-tools-forensics;
+            sleep 1
+            KSystem
+            ;;
+        13)
+            echo "Installing Reporting Tools.";
+            sleep 2
+            sudo apt install kali-tools-reporting;
+            sleep 1
+            KSystem
+            ;;
+
+        14)
+            echo "Main Menu"
+            sleep 1
+            kali-db
+            ;;
+        15)  
+            echo "Done"
+esac
+
