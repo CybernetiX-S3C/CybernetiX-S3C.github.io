@@ -5,12 +5,15 @@ Kali DB is a tool written in basic bash dialog. This tool was created to minimiz
 
 
 ###Download and Install
-``
+```
 git clone https://github.com/CybernetiX-S3C/Kali-DB
 
 cd Kali-DB
 
 dpkg -i kali-db*.deb
+```
 
+###Run
+```
 kali-db
-``
+```

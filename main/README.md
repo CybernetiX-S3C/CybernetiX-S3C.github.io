@@ -150,7 +150,7 @@ DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will 
 
 [WiFi Package](https://cybernetix-s3c.net/main/wifipackage)
 
-```markdown
+```
 # ★ Download:
 
 ● git clone https://github.com/cybernetix-s3c/wifipackage
@@ -836,6 +836,10 @@ cd Kali-DB
 dpkg -i kali*.deb
 ```
 
+###Run
+```
+kali-db
+```
 [Kali DB](https://CybernetiX-S3C.net/main/kali-db)
 
 
