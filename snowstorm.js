@@ -1,4 +1,12 @@
-/** @license
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+    </head>
+</html>
+ /** @license
  * DHTML Snowstorm! JavaScript-based snow for web pages
  * Making it snow on the internets since 2003. You're welcome.
  * -----------------------------------------------------------
@@ -665,3 +673,5 @@ var snowStorm = (function(window, document) {
   return this;
 
 }(window, document));
+
+
