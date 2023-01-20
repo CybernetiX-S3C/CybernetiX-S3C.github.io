@@ -1,5 +1,5 @@
 requests>=2.20.0
-mechanize==0.2.5
+mechanize
 bs4==0.0.1
 python-whois
 whois
