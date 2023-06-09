@@ -1,15 +1,6 @@
 
 
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EKXX4STVVT"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-EKXX4STVVT');
-</script>
- 
 
 
 # [Home](https://CybernetiX-S3C.net)
