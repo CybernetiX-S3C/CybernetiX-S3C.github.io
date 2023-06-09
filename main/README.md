@@ -1,5 +1,5 @@
-<html>
-<head>
+
+
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EKXX4STVVT"></script>
 <script>
@@ -9,8 +9,8 @@
 
   gtag('config', 'G-EKXX4STVVT');
 </script>
- </head>
-  </html>
+ 
+
 
 # [Home](https://CybernetiX-S3C.net)
 ![Badge](https://img.shields.io/badge/Welcome%20to-CybernetiX--S3C-brightgreen.svg)
