@@ -2,7 +2,7 @@
 argparse
 dnspython
 requests
-urllib3
+urllib3>=2.2.2
 python-whois
 whois
 
