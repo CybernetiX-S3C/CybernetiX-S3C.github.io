@@ -1,8 +1,4 @@
 
-
-
-
-
 # [Home](https://CybernetiX-S3C.net)
 ![Badge](https://img.shields.io/badge/Welcome%20to-CybernetiX--S3C-brightgreen.svg)
 [![License](http://img.shields.io/:license-gpl3-blue.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.html)
@@ -29,62 +25,62 @@ My name is John Modica. I am a Certified CEO/CISSP/CISO/CTO/Pentester/Ethical Ha
 ====================================================================================================
 ##  **CONTENTS**
   
-* >[1. InfoSploit](https://CybernetiX-S3C.net/main/Infosploit)
+* >[1. InfoSploit](https://CybernetiX-S3C.github.io/main/Infosploit)
 
-* >[2. WiFi Package](https://CybernetiX-S3C.net/main/wifipackage)
+* >[2. WiFi Package](https://CybernetiX-S3C.github.io/main/wifipackage)
 
-* >[3. IP-Locator](https://CybernetiX-S3C.net/main/ip-locator)
+* >[3. IP-Locator](https://CybernetiX-S3C.github.io/main/ip-locator)
 
-* >[4. SK-WPS-Cracker](https://CybernetiX-S3C.net/main/SK-WC-Cracker)
+* >[4. SK-WPS-Cracker](https://CybernetiX-S3C.github.io/main/SK-WC-Cracker)
 
-* >[5. Speedtest-Cli](https://cybernetix-s3c.net/main/Speedtest-cli/)
+* >[5. Speedtest-Cli](https://cybernetix-s3c.github.io/main/Speedtest-cli/)
 
-* >[6. NodeJS](https://CybernetiX-S3C.net/main/NodeJS-Kali-Linux)
+* >[6. NodeJS](https://CybernetiX-S3C.github.io/main/NodeJS-Kali-Linux)
 
-* >[7. Multiple BruteForce](https://CybernetiX-S3C.net/main/Multiple-BruteForce-master)
+* >[7. Multiple BruteForce](https://CybernetiX-S3C.github.io/main/Multiple-BruteForce-master)
 
-* >[8. Password Generator](https://CybernetiX-S3C.net/main/PassGen-master)
+* >[8. Password Generator](https://CybernetiX-S3C.github.io/main/PassGen-master)
 
-* >[9. Wifi Password Generator](https://CybernetiX-S3C.net/main/Wifi_Passwords-Generator-master)
+* >[9. Wifi Password Generator](https://CybernetiX-S3C.github.io/main/Wifi_Passwords-Generator-master)
 
-* >[10. PYAnonFTP](https://CybernetiX-S3C.net/main/PYAnonFTP)
+* >[10. PYAnonFTP](https://CybernetiX-S3C.github.io/main/PYAnonFTP)
 
 * >[11. WiFi Jammer](http://CybernetiX-S3C.net/main/WiFiJammer-master)
 
-* >[12. ISP Protect Scan](https://CybernetiX-S3C.net/main/ISPpScan)
+* >[12. ISP Protect Scan](https://CybernetiX-S3C.github.io/main/ISPpScan)
     
-* >[13. Facial Recon](https://CybernetiX-S3C.net/main/Facial-Recon-master)
+* >[13. Facial Recon](https://CybernetiX-S3C.github.io/main/Facial-Recon-master)
 
-* >[14. Trity](https://cybernetix-s3c.net/main/Trity/)
+* >[14. Trity](https://cybernetix-s3c.github.io/main/Trity/)
 
-* >[15. GEO Trace](https://cybernetix-s3c.net/main/GEO_Trace/)
+* >[15. GEO Trace](https://cybernetix-s3c.github.io/main/GEO_Trace/)
 
-* >[16. Target IP](https://cybernetix-s3c.net/main/Target_IP)
+* >[16. Target IP](https://cybernetix-s3c.github.io/main/Target_IP)
 
-* >[17. Predator](https://cybernetix-s3c.net/main/Predator)
+* >[17. Predator](https://cybernetix-s3c.github.io/main/Predator)
 
-* >[18. Squirt](https://cybernetiX-S3C.net/main/Squirt)
+* >[18. Squirt](https://cybernetiX-S3C.github.io/main/Squirt)
 
-* >[19. ID-OSNIT](https://cybernetiX-S3C.net/main/ID-OSINT)
+* >[19. ID-OSNIT](https://cybernetiX-S3C.github.io/main/ID-OSINT)
 
-* >[20. E-ntel](https://cybernetiX-S3C.net/main/E-ntel)
+* >[20. E-ntel](https://cybernetiX-S3C.github.io/main/E-ntel)
 
-* >[21. Truth](https://cybernetiX-S3C.net/main/Truth)
+* >[21. Truth](https://cybernetiX-S3C.github.io/main/Truth)
 
-* >[22. Captain-Brute](https://CybernetiX-S3C.net/main/Captain-Brute)
+* >[22. Captain-Brute](https://CybernetiX-S3C.github.io/main/Captain-Brute)
 
-* >[23. T.U.F.F](https://CybernetiX-S3C.net/main/TUFF)
+* >[23. T.U.F.F](https://CybernetiX-S3C.github.io/main/TUFF)
 
-* >[24. Malvigen](https://CybernetiX-S3C.net/main/Malvigen)
+* >[24. Malvigen](https://CybernetiX-S3C.github.io/main/Malvigen)
 
-* >[25. Kali DB](https://CybernetiX-S3C.net/main/kali-db)
+* >[25. Kali DB](https://CybernetiX-S3C.github.io/main/kali-db)
 
 
 ## **EXTRAS**
 
-* >[Artificial Intelligence Info](https://cybernetix-s3c.net/main/Artificial-Intelligence-Info/)
+* >[Artificial Intelligence Info](https://cybernetix-s3c.github.io/main/Artificial-Intelligence-Info/)
 
-* >[Awesome Hacking](https://cybernetix-s3c.net/main/Awesome-Hacking)
+* >[Awesome Hacking](https://cybernetix-s3c.github.io/main/Awesome-Hacking)
 
 # **Repositories**
 
@@ -95,7 +91,7 @@ The properties of InfoSploit are:
 ● DNS Lookup ● Whois Lookup ● GeoIP Lookup ● Subnet Lookup ● Port Scanner ● Extract Links ● Zone Transfer ● HTTP Header ● Host Finder ● Robots.txt ● IP-Locator ● Traceroute ● Host DNS Finder ● Revrse IP Lookup ● Collection Email ● Subdomain Finder ● Install & Update ● About Me ● Exit
 Click the [link](https://CybernetiX-S3C.net/main/Infosploit) below to go directly to the source or use the basic steps down in the box to download and install directly inside your terminal.
 
-[InfoSploit](https://CybernetiX-S3C.net/main/Infosploit) 
+[InfoSploit](https://CybernetiX-S3C.github.io/main/Infosploit) 
 
 ```markdown
 # Option 1 (Git Clone/Install)
@@ -150,7 +146,7 @@ snap install infosploit --stable
 
 ## **2. Wifi Package**
 
-Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.net/main/wifipackage) below to go directly to the source or use the basic steps down in the box to download and run directly inside your terminal.
+Wifi Package are simple scripts to bypass the use of airmon-ng, while being able to flip the cards (wlan0/wlan1) between Managed and Monitor mode. This package also contains some very powerful script to change the TX Power of your wireless cards. (May not work for all cards). Click the [link](https://CybernetiX-S3C.net/main/wifipackage) below to go directly to the source ose the basic steps down in the box to download and run directly inside your terminal.
 DISCLAIMER: Changing the TX Power is infact illegal in most countries, and will cause cancer, brain damage, and severe loss of memory!
 
 [WiFi Package](https://cybernetix-s3c.net/main/wifipackage)
