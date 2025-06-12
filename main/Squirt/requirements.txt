@@ -1,4 +1,4 @@
-requests>=2.20.0
+requests>=2.32.4
 mechanize
 bs4==0.0.1
 python-whois
